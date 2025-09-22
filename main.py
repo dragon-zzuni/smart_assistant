@@ -15,13 +15,13 @@ from pathlib import Path
 project_root = Path(__file__).parent
 sys.path.insert(0, str(project_root))
 
-# Windows 한글 출력 설정
-if sys.platform == "win32":
-    import io
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
-    os.environ['PYTHONIOENCODING'] = 'utf-8'
-    os.environ['PYTHONUTF8'] = '1'
+# # Windows 한글 출력 설정
+# import sys
+# if hasattr(sys.stdout, "reconfigure"):  # Python 3.7+
+#     sys.stdout.reconfigure(encoding="utf-8")
+#     sys.stderr.reconfigure(encoding="utf-8")
+# # 아니면 아예 아무 것도 안 해도 됨
+
 
 from config.settings import LOGGING_CONFIG
 from ingestors.email_imap import EmailIMAPCollector, EmailMessage

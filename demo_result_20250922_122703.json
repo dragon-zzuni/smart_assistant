@@ -1,0 +1,804 @@
+{
+  "demo_info": {
+    "timestamp": "2025-09-22T12:27:03.153859",
+    "total_messages": 10,
+    "total_todos": 11
+  },
+  "todo_list": {
+    "generated_at": "2025-09-22T12:27:03.150272",
+    "total_items": 11,
+    "priority_stats": {
+      "high": 0,
+      "medium": 2,
+      "low": 8
+    },
+    "items": [
+      {
+        "id": "task_20250922_122703",
+        "title": "업무 처리: 네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4) ﻿ ...",
+        "description": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4) ﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항",
+        "priority": "high",
+        "deadline": null,
+        "requester": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+        "type": "task",
+        "status": "pending",
+        "source_message": {
+          "id": "52",
+          "sender": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+          "subject": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4)",
+          "platform": "email"
+        },
+        "created_at": "2025-09-22T12:27:03.130823"
+      },
+      {
+        "id": "deadline_20250922_122703",
+        "title": "마감 작업: -----------------------\r\n수강생 여러분, 반갑습니다...",
+        "description": "-----------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후",
+        "priority": "high",
+        "deadline": "2025-06-11T18:00:00",
+        "requester": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+        "type": "deadline",
+        "status": "pending",
+        "source_message": {
+          "id": "51",
+          "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+          "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 기말고사 유의사항",
+          "platform": "email"
+        },
+        "created_at": "2025-09-22T12:27:03.148745"
+      },
+      {
+        "id": "review_20250922_122703",
+        "title": "문서 검토: 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다...",
+        "description": "보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보",
+        "priority": "high",
+        "deadline": "2025-06-11T18:00:00",
+        "requester": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "51",
+          "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+          "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 기말고사 유의사항",
+          "platform": "email"
+        },
+        "created_at": "2025-09-22T12:27:03.148745"
+      },
+      {
+        "id": "task_20250922_122703",
+        "title": "업무 처리: 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내...",
+        "description": "감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WO",
+        "priority": "high",
+        "deadline": "2025-06-11T18:00:00",
+        "requester": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+        "type": "task",
+        "status": "pending",
+        "source_message": {
+          "id": "52",
+          "sender": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+          "subject": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4)",
+          "platform": "email"
+        },
+        "created_at": "2025-09-22T12:27:03.116173"
+      },
+      {
+        "id": "meeting_20250922_122703",
+        "title": "미팅 참석",
+        "description": "클라이언트 미팅 준비 자료 확인했습니다.",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "정대리",
+        "type": "meeting",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_005",
+          "sender": "정대리",
+          "subject": "",
+          "platform": "teams"
+        },
+        "created_at": "2025-09-22T12:27:03.150272"
+      },
+      {
+        "id": "review_20250922_122703",
+        "title": "문서 검토",
+        "description": "클라이언트 미팅 준비 자료 확인했습니다.",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "정대리",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_005",
+          "sender": "정대리",
+          "subject": "",
+          "platform": "teams"
+        },
+        "created_at": "2025-09-22T12:27:03.150272"
+      },
+      {
+        "id": "task_20250922_122703",
+        "title": "업무 처리",
+        "description": "프로젝트 문서 검토 부탁드립니다.",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "박대리",
+        "type": "task",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_002",
+          "sender": "박대리",
+          "subject": "",
+          "platform": "teams"
+        },
+        "created_at": "2025-09-22T12:27:03.150272"
+      },
+      {
+        "id": "review_20250922_122703",
+        "title": "문서 검토",
+        "description": "프로젝트 문서 검토 부탁드립니다.",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "박대리",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_002",
+          "sender": "박대리",
+          "subject": "",
+          "platform": "teams"
+        },
+        "created_at": "2025-09-22T12:27:03.150272"
+      },
+      {
+        "id": "review_20250922_122703",
+        "title": "문서 검토: ogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\n...",
+        "description": "ogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&contin",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "Google <no-reply@accounts.google.com>",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "54",
+          "sender": "Google <no-reply@accounts.google.com>",
+          "subject": "acrombie092@gmail.com 관련 보안 경고",
+          "platform": "email"
+        },
+        "created_at": "2025-09-22T12:27:03.110517"
+      },
+      {
+        "id": "deadline_20250922_122703",
+        "title": "마감 작업",
+        "description": "월요일까지 보고서 제출 바랍니다.",
+        "priority": "medium",
+        "deadline": "2025-09-29T18:00:00",
+        "requester": "이부장",
+        "type": "deadline",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_003",
+          "sender": "이부장",
+          "subject": "",
+          "platform": "kakaowork"
+        },
+        "created_at": "2025-09-22T12:27:03.150272"
+      },
+      {
+        "id": "meeting_20250922_122703",
+        "title": "미팅 참석",
+        "description": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+        "priority": "medium",
+        "deadline": "2025-09-23T18:00:00",
+        "requester": "김과장",
+        "type": "meeting",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_001",
+          "sender": "김과장",
+          "subject": "",
+          "platform": "slack"
+        },
+        "created_at": "2025-09-22T12:27:03.150272"
+      }
+    ],
+    "summary": {
+      "total_messages": 10,
+      "total_actions": 11,
+      "urgent_items": 4,
+      "deadline_items": 5
+    }
+  },
+  "messages": [
+    {
+      "msg_id": "54",
+      "sender": "Google <no-reply@accounts.google.com>",
+      "subject": "acrombie092@gmail.com 관련 보안 경고",
+      "body": "이 메일은 acrombie092@gmail.com 주소로 전송된 보안 경고의 사본입니다.  \r\nimyongjun@naver.com 주소는 이\r\n계정의 복구 이메일입니다. 모르는 계정이라면 삭제\r\n<https://accounts.google.com/AccountDisavow?adt=AOX8kirxfrKIcS0AwiwHEaP8hQgdVHk3ZNi0KMYfJgguCzPUroB_gkCwmqKlL9av&rfn=127>\r\n하세요\r\n[image: Google]\r\nGoogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1717512294000?rfn%3D127%26rfnc%3D1%26eid%3D-1172161920664456412%26et%3D1>\r\n다음 페이지에서 보안 활동도 확인할 수 있습니다.\r\nhttps://myaccount.google.com/notifications\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2024 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+      "content": "이 메일은 acrombie092@gmail.com 주소로 전송된 보안 경고의 사본입니다.  \r\nimyongjun@naver.com 주소는 이\r\n계정의 복구 이메일입니다. 모르는 계정이라면 삭제\r\n<https://accounts.google.com/AccountDisavow?adt=AOX8kirxfrKIcS0AwiwHEaP8hQgdVHk3ZNi0KMYfJgguCzPUroB_gkCwmqKlL9av&rfn=127>\r\n하세요\r\n[image: Google]\r\nGoogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1717512294000?rfn%3D127%26rfnc%3D1%26eid%3D-1172161920664456412%26et%3D1>\r\n다음 페이지에서 보안 활동도 확인할 수 있습니다.\r\nhttps://myaccount.google.com/notifications\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2024 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+      "date": "2024-06-04T14:44:54+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "53",
+      "sender": "카카오페이 <noreply_kakaopay@kakaocorp.com>",
+      "subject": "[카카오페이] 뿌리기 서비스 종료 안내",
+      "body": "카카오페이에서 알려드립니다. 안녕하세요. 카카오페이입니다. 항상 카카오페이를 이용해주셔서 감사드리며, 뿌리기 서비스가 종료될 예정임을 안내드립니다. ■ 종료 일시 - 2024년 7월 8일(월) ■ 종료 서비스 - 뿌리기 서비스 종료일 이후에는 뿌리기 서비스 이용이 불가한 점 참고 바랍니다. 더욱 편리하고 안전한 서비스를 위해 노력하는 카카오페이가 되겠습니다. 감사합니다. 본 메일은 발신전용 메일입니다. ©Kakao Pay Corp.",
+      "content": "카카오페이에서 알려드립니다. 안녕하세요. 카카오페이입니다. 항상 카카오페이를 이용해주셔서 감사드리며, 뿌리기 서비스가 종료될 예정임을 안내드립니다. ■ 종료 일시 - 2024년 7월 8일(월) ■ 종료 서비스 - 뿌리기 서비스 종료일 이후에는 뿌리기 서비스 이용이 불가한 점 참고 바랍니다. 더욱 편리하고 안전한 서비스를 위해 노력하는 카카오페이가 되겠습니다. 감사합니다. 본 메일은 발신전용 메일입니다. ©Kakao Pay Corp.",
+      "date": "2024-06-04T15:19:44+09:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "52",
+      "sender": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+      "subject": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4)",
+      "body": "﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WORKPLACE 서비스 신청 시 수집하는 항목 삭제 및 NAVER WORKS 서비스 신청 시 수집하는 항목으로 통합 WORKPLACE업무지원서비스가 앱마켓으로 변경되어 용어 및 파트너리스트 링크 변경 * NAVER WORKS, WORKPLACE가 신규 NAVER WORKS로 통합 2. 적용 일자 2024년 6월 11일 3. 개정 내역 상세 1) 위치기반서비스 이용약관 2) 개인정보처리방침 [민간 - 국내향] ▶ 개정 내역 상세 바로가기 4. 이의제기 및 문의 1) 변경된 ‘개인정보처리방침’ 내용에 대한 문의사항이 있으신 경우, 고객센터로 접수해 주시면 신속하고 친절하게 안내해 드리겠습니다. 2) 변경된 ‘개인정보처리방침’ 내용에 동의하지 않으시는 경우, 네이버 클라우드 플랫폼 서비스의 원활한 이용에 제약이 발생할 수 있습니다. 이러한 경우 고객센터로 이의 제기를 하실 수 있으며 당사는 이용 자의 서비스 이용 편의를 위해 최선의 노력을 아끼지 않겠습니다. 문의사항은 네이버 클라우드 플랫폼 고객센터 를 통해 문의해 주시기 바랍니다. 감사합니다 . 네이버 클라우드 플랫폼 바로가기 본 메일은 발신전용 입니다. 궁금하신 점이나 불편한 사항은 고객지원 에 문의해 주시기 바랍니다. ⓒ NAVER Cloud Corp, All Right Reserved. ​ ​ ​",
+      "content": "﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WORKPLACE 서비스 신청 시 수집하는 항목 삭제 및 NAVER WORKS 서비스 신청 시 수집하는 항목으로 통합 WORKPLACE업무지원서비스가 앱마켓으로 변경되어 용어 및 파트너리스트 링크 변경 * NAVER WORKS, WORKPLACE가 신규 NAVER WORKS로 통합 2. 적용 일자 2024년 6월 11일 3. 개정 내역 상세 1) 위치기반서비스 이용약관 2) 개인정보처리방침 [민간 - 국내향] ▶ 개정 내역 상세 바로가기 4. 이의제기 및 문의 1) 변경된 ‘개인정보처리방침’ 내용에 대한 문의사항이 있으신 경우, 고객센터로 접수해 주시면 신속하고 친절하게 안내해 드리겠습니다. 2) 변경된 ‘개인정보처리방침’ 내용에 동의하지 않으시는 경우, 네이버 클라우드 플랫폼 서비스의 원활한 이용에 제약이 발생할 수 있습니다. 이러한 경우 고객센터로 이의 제기를 하실 수 있으며 당사는 이용 자의 서비스 이용 편의를 위해 최선의 노력을 아끼지 않겠습니다. 문의사항은 네이버 클라우드 플랫폼 고객센터 를 통해 문의해 주시기 바랍니다. 감사합니다 . 네이버 클라우드 플랫폼 바로가기 본 메일은 발신전용 입니다. 궁금하신 점이나 불편한 사항은 고객지원 에 문의해 주시기 바랍니다. ⓒ NAVER Cloud Corp, All Right Reserved. ​ ​ ​",
+      "date": "2024-06-04T15:01:56+09:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "51",
+      "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+      "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 기말고사 유의사항",
+      "body": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 기말고사 유의사항 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51965#p120514\r\n도시와 언어로 만나는 러시아 기말고사 유의사항\r\n2024-06-04 09:31 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보내주시면 감사하겠습니다. \r\n\r\n(러시아어문학과 사무실: lhg0105@suwon.ac.kr) \r\n\r\n \r\n\r\n이 점 꼭 숙지하시고 학기 마무리에 차질 없으시길\r\n바랍니다.\r\n\r\n \r\n\r\n지금까지 함께 해주신 모든 수강생 여러분께 감사의\r\n인사를 전하며, 시험에서 좋은 결과 있길 바랍니다.\r\n\r\n \r\n\r\n여러분의 앞날에 성공이 가득하길 진심으로 기원합니다.\r\n\r\n \r\n\r\n감사합니다.\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+      "content": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 기말고사 유의사항 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51965#p120514\r\n도시와 언어로 만나는 러시아 기말고사 유의사항\r\n2024-06-04 09:31 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보내주시면 감사하겠습니다. \r\n\r\n(러시아어문학과 사무실: lhg0105@suwon.ac.kr) \r\n\r\n \r\n\r\n이 점 꼭 숙지하시고 학기 마무리에 차질 없으시길\r\n바랍니다.\r\n\r\n \r\n\r\n지금까지 함께 해주신 모든 수강생 여러분께 감사의\r\n인사를 전하며, 시험에서 좋은 결과 있길 바랍니다.\r\n\r\n \r\n\r\n여러분의 앞날에 성공이 가득하길 진심으로 기원합니다.\r\n\r\n \r\n\r\n감사합니다.\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+      "date": "2024-06-04T10:01:36+09:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "50",
+      "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+      "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 14주차 공지",
+      "body": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 14주차 공지 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51957#p120496\r\n도시와 언어로 만나는 러시아 14주차 공지\r\n2024-06-04 08:59 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n2024년 06월 04일 화요일,\r\n\r\n \r\n\r\n14주차 <원어민에게 배워보기2[에바]> 강의가\r\n열렸습니다.\r\n\r\n \r\n\r\n각 주차 강좌는 화요일마다 게재되며, 게재된 강의는\r\n종강일까지 자유롭게 수강 가능합니다.\r\n\r\n \r\n\r\n강의를 통해 다음과 같은 내용을 학습하실 수 있습니다.\r\n\r\n \r\n\r\n \r\n\r\n- 문화탐방1\r\n\r\n \r\n\r\n- 문화탐방2\r\n\r\n \r\n\r\n- 여행일지\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n각각의 컨텐츠들은 이수율에 반영이 되는 활동이니 꼭\r\n참여 부탁드립니다.\r\n\r\n \r\n\r\n저희 강좌를 통해 한 학기 동안 많이 배워가는 시간이\r\n되기를 바랍니다.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n수원대학교 K-MOOC 운영팀\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+      "content": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 14주차 공지 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51957#p120496\r\n도시와 언어로 만나는 러시아 14주차 공지\r\n2024-06-04 08:59 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n2024년 06월 04일 화요일,\r\n\r\n \r\n\r\n14주차 <원어민에게 배워보기2[에바]> 강의가\r\n열렸습니다.\r\n\r\n \r\n\r\n각 주차 강좌는 화요일마다 게재되며, 게재된 강의는\r\n종강일까지 자유롭게 수강 가능합니다.\r\n\r\n \r\n\r\n강의를 통해 다음과 같은 내용을 학습하실 수 있습니다.\r\n\r\n \r\n\r\n \r\n\r\n- 문화탐방1\r\n\r\n \r\n\r\n- 문화탐방2\r\n\r\n \r\n\r\n- 여행일지\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n각각의 컨텐츠들은 이수율에 반영이 되는 활동이니 꼭\r\n참여 부탁드립니다.\r\n\r\n \r\n\r\n저희 강좌를 통해 한 학기 동안 많이 배워가는 시간이\r\n되기를 바랍니다.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n수원대학교 K-MOOC 운영팀\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+      "date": "2024-06-04T09:31:29+09:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "msg_005",
+      "sender": "정대리",
+      "subject": "",
+      "body": "클라이언트 미팅 준비 자료 확인했습니다.",
+      "content": "클라이언트 미팅 준비 자료 확인했습니다.",
+      "date": "2025-09-22T10:39:15.694418",
+      "type": "messenger",
+      "platform": "teams"
+    },
+    {
+      "msg_id": "msg_004",
+      "sender": "최팀장",
+      "subject": "",
+      "body": "오늘 점심 같이 드실까요?",
+      "content": "오늘 점심 같이 드실까요?",
+      "date": "2025-09-22T10:24:15.694416",
+      "type": "messenger",
+      "platform": "slack"
+    },
+    {
+      "msg_id": "msg_003",
+      "sender": "이부장",
+      "subject": "",
+      "body": "월요일까지 보고서 제출 바랍니다.",
+      "content": "월요일까지 보고서 제출 바랍니다.",
+      "date": "2025-09-22T10:09:15.694413",
+      "type": "messenger",
+      "platform": "kakaowork"
+    },
+    {
+      "msg_id": "msg_002",
+      "sender": "박대리",
+      "subject": "",
+      "body": "프로젝트 문서 검토 부탁드립니다.",
+      "content": "프로젝트 문서 검토 부탁드립니다.",
+      "date": "2025-09-22T09:39:15.694401",
+      "type": "messenger",
+      "platform": "teams"
+    },
+    {
+      "msg_id": "msg_001",
+      "sender": "김과장",
+      "subject": "",
+      "body": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+      "content": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+      "date": "2025-09-22T08:39:15.691829",
+      "type": "messenger",
+      "platform": "slack"
+    }
+  ],
+  "analysis_results": [
+    {
+      "message": {
+        "msg_id": "msg_001",
+        "sender": "김과장",
+        "subject": "",
+        "body": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+        "content": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+        "date": "2025-09-22T08:39:15.691829",
+        "type": "messenger",
+        "platform": "slack"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.53,
+        "priority_level": "medium",
+        "urgency_score": 0.6000000000000001,
+        "importance_score": 0.3,
+        "deadline_score": 0.0,
+        "sender_score": 0.8,
+        "keyword_score": 0.6,
+        "reasoning": [
+          "긴급 키워드가 포함되어 높은 긴급도를 보임",
+          "중요한 발신자로부터 온 메시지",
+          "중요 키워드가 다수 포함됨"
+        ],
+        "suggested_action": "일반 처리",
+        "estimated_time": "반나절"
+      },
+      "actions": [
+        {
+          "action_id": "meeting_20250922_122703",
+          "action_type": "meeting",
+          "title": "미팅 참석",
+          "description": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+          "deadline": "2025-09-23T18:00:00",
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "김과장",
+          "source_message_id": "msg_001",
+          "context": {
+            "keyword": "미팅",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-22T12:27:03.150272",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-22T12:27:03.150272"
+    },
+    {
+      "message": {
+        "msg_id": "msg_005",
+        "sender": "정대리",
+        "subject": "",
+        "body": "클라이언트 미팅 준비 자료 확인했습니다.",
+        "content": "클라이언트 미팅 준비 자료 확인했습니다.",
+        "date": "2025-09-22T10:39:15.694418",
+        "type": "messenger",
+        "platform": "teams"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.405,
+        "priority_level": "medium",
+        "urgency_score": 0.4,
+        "importance_score": 0.3,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.8999999999999999,
+        "reasoning": [
+          "중요 키워드가 다수 포함됨"
+        ],
+        "suggested_action": "검토 후 답변",
+        "estimated_time": "2-3시간"
+      },
+      "actions": [
+        {
+          "action_id": "meeting_20250922_122703",
+          "action_type": "meeting",
+          "title": "미팅 참석",
+          "description": "클라이언트 미팅 준비 자료 확인했습니다.",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "정대리",
+          "source_message_id": "msg_005",
+          "context": {
+            "keyword": "미팅",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-22T12:27:03.150272",
+          "status": "pending"
+        },
+        {
+          "action_id": "review_20250922_122703",
+          "action_type": "review",
+          "title": "문서 검토",
+          "description": "클라이언트 미팅 준비 자료 확인했습니다.",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "정대리",
+          "source_message_id": "msg_005",
+          "context": {
+            "keyword": "확인",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-22T12:27:03.150272",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-22T12:27:03.150272"
+    },
+    {
+      "message": {
+        "msg_id": "msg_003",
+        "sender": "이부장",
+        "subject": "",
+        "body": "월요일까지 보고서 제출 바랍니다.",
+        "content": "월요일까지 보고서 제출 바랍니다.",
+        "date": "2025-09-22T10:09:15.694413",
+        "type": "messenger",
+        "platform": "kakaowork"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.345,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.4,
+        "deadline_score": 0.7,
+        "sender_score": 0.8,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "중요한 발신자로부터 온 메시지",
+          "명시적인 데드라인이 있음"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "deadline_20250922_122703",
+          "action_type": "deadline",
+          "title": "마감 작업",
+          "description": "월요일까지 보고서 제출 바랍니다.",
+          "deadline": "2025-09-29T18:00:00",
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "이부장",
+          "source_message_id": "msg_003",
+          "context": {
+            "keyword": "제출",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-22T12:27:03.150272",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-22T12:27:03.150272"
+    },
+    {
+      "message": {
+        "msg_id": "51",
+        "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+        "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 기말고사 유의사항",
+        "body": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 기말고사 유의사항 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51965#p120514\r\n도시와 언어로 만나는 러시아 기말고사 유의사항\r\n2024-06-04 09:31 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보내주시면 감사하겠습니다. \r\n\r\n(러시아어문학과 사무실: lhg0105@suwon.ac.kr) \r\n\r\n \r\n\r\n이 점 꼭 숙지하시고 학기 마무리에 차질 없으시길\r\n바랍니다.\r\n\r\n \r\n\r\n지금까지 함께 해주신 모든 수강생 여러분께 감사의\r\n인사를 전하며, 시험에서 좋은 결과 있길 바랍니다.\r\n\r\n \r\n\r\n여러분의 앞날에 성공이 가득하길 진심으로 기원합니다.\r\n\r\n \r\n\r\n감사합니다.\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+        "content": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 기말고사 유의사항 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51965#p120514\r\n도시와 언어로 만나는 러시아 기말고사 유의사항\r\n2024-06-04 09:31 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보내주시면 감사하겠습니다. \r\n\r\n(러시아어문학과 사무실: lhg0105@suwon.ac.kr) \r\n\r\n \r\n\r\n이 점 꼭 숙지하시고 학기 마무리에 차질 없으시길\r\n바랍니다.\r\n\r\n \r\n\r\n지금까지 함께 해주신 모든 수강생 여러분께 감사의\r\n인사를 전하며, 시험에서 좋은 결과 있길 바랍니다.\r\n\r\n \r\n\r\n여러분의 앞날에 성공이 가득하길 진심으로 기원합니다.\r\n\r\n \r\n\r\n감사합니다.\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+        "date": "2024-06-04T10:01:36+09:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.28,
+        "priority_level": "low",
+        "urgency_score": 0.1,
+        "importance_score": 0.0,
+        "deadline_score": 0.6,
+        "sender_score": 0.4,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "명시적인 데드라인이 있음"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "deadline_20250922_122703",
+          "action_type": "deadline",
+          "title": "마감 작업: -----------------------\r\n수강생 여러분, 반갑습니다...",
+          "description": "-----------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후",
+          "deadline": "2025-06-11T18:00:00",
+          "priority": "high",
+          "assignee": "나",
+          "requester": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+          "source_message_id": "51",
+          "context": {
+            "match": "06월 11일",
+            "pattern": "(\\d{1,2}월\\s*\\d{1,2}일).*?까지",
+            "extracted_from": "pattern"
+          },
+          "created_at": "2025-09-22T12:27:03.148745",
+          "status": "pending"
+        },
+        {
+          "action_id": "review_20250922_122703",
+          "action_type": "review",
+          "title": "문서 검토: 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다...",
+          "description": "보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보",
+          "deadline": "2025-06-11T18:00:00",
+          "priority": "high",
+          "assignee": "나",
+          "requester": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+          "source_message_id": "51",
+          "context": {
+            "keyword": "확인",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-22T12:27:03.148745",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-22T12:27:03.150272"
+    },
+    {
+      "message": {
+        "msg_id": "msg_004",
+        "sender": "최팀장",
+        "subject": "",
+        "body": "오늘 점심 같이 드실까요?",
+        "content": "오늘 점심 같이 드실까요?",
+        "date": "2025-09-22T10:24:15.694416",
+        "type": "messenger",
+        "platform": "slack"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.26,
+        "priority_level": "low",
+        "urgency_score": 0.2,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.8,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "중요한 발신자로부터 온 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-22T12:27:03.150272"
+    },
+    {
+      "message": {
+        "msg_id": "msg_002",
+        "sender": "박대리",
+        "subject": "",
+        "body": "프로젝트 문서 검토 부탁드립니다.",
+        "content": "프로젝트 문서 검토 부탁드립니다.",
+        "date": "2025-09-22T09:39:15.694401",
+        "type": "messenger",
+        "platform": "teams"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.21500000000000002,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.8,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "업무상 중요한 내용 포함"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "task_20250922_122703",
+          "action_type": "task",
+          "title": "업무 처리",
+          "description": "프로젝트 문서 검토 부탁드립니다.",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "박대리",
+          "source_message_id": "msg_002",
+          "context": {
+            "keyword": "프로젝트",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-22T12:27:03.150272",
+          "status": "pending"
+        },
+        {
+          "action_id": "review_20250922_122703",
+          "action_type": "review",
+          "title": "문서 검토",
+          "description": "프로젝트 문서 검토 부탁드립니다.",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "박대리",
+          "source_message_id": "msg_002",
+          "context": {
+            "keyword": "검토",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-22T12:27:03.150272",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-22T12:27:03.150272"
+    },
+    {
+      "message": {
+        "msg_id": "52",
+        "sender": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+        "subject": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4)",
+        "body": "﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WORKPLACE 서비스 신청 시 수집하는 항목 삭제 및 NAVER WORKS 서비스 신청 시 수집하는 항목으로 통합 WORKPLACE업무지원서비스가 앱마켓으로 변경되어 용어 및 파트너리스트 링크 변경 * NAVER WORKS, WORKPLACE가 신규 NAVER WORKS로 통합 2. 적용 일자 2024년 6월 11일 3. 개정 내역 상세 1) 위치기반서비스 이용약관 2) 개인정보처리방침 [민간 - 국내향] ▶ 개정 내역 상세 바로가기 4. 이의제기 및 문의 1) 변경된 ‘개인정보처리방침’ 내용에 대한 문의사항이 있으신 경우, 고객센터로 접수해 주시면 신속하고 친절하게 안내해 드리겠습니다. 2) 변경된 ‘개인정보처리방침’ 내용에 동의하지 않으시는 경우, 네이버 클라우드 플랫폼 서비스의 원활한 이용에 제약이 발생할 수 있습니다. 이러한 경우 고객센터로 이의 제기를 하실 수 있으며 당사는 이용 자의 서비스 이용 편의를 위해 최선의 노력을 아끼지 않겠습니다. 문의사항은 네이버 클라우드 플랫폼 고객센터 를 통해 문의해 주시기 바랍니다. 감사합니다 . 네이버 클라우드 플랫폼 바로가기 본 메일은 발신전용 입니다. 궁금하신 점이나 불편한 사항은 고객지원 에 문의해 주시기 바랍니다. ⓒ NAVER Cloud Corp, All Right Reserved. ​ ​ ​",
+        "content": "﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WORKPLACE 서비스 신청 시 수집하는 항목 삭제 및 NAVER WORKS 서비스 신청 시 수집하는 항목으로 통합 WORKPLACE업무지원서비스가 앱마켓으로 변경되어 용어 및 파트너리스트 링크 변경 * NAVER WORKS, WORKPLACE가 신규 NAVER WORKS로 통합 2. 적용 일자 2024년 6월 11일 3. 개정 내역 상세 1) 위치기반서비스 이용약관 2) 개인정보처리방침 [민간 - 국내향] ▶ 개정 내역 상세 바로가기 4. 이의제기 및 문의 1) 변경된 ‘개인정보처리방침’ 내용에 대한 문의사항이 있으신 경우, 고객센터로 접수해 주시면 신속하고 친절하게 안내해 드리겠습니다. 2) 변경된 ‘개인정보처리방침’ 내용에 동의하지 않으시는 경우, 네이버 클라우드 플랫폼 서비스의 원활한 이용에 제약이 발생할 수 있습니다. 이러한 경우 고객센터로 이의 제기를 하실 수 있으며 당사는 이용 자의 서비스 이용 편의를 위해 최선의 노력을 아끼지 않겠습니다. 문의사항은 네이버 클라우드 플랫폼 고객센터 를 통해 문의해 주시기 바랍니다. 감사합니다 . 네이버 클라우드 플랫폼 바로가기 본 메일은 발신전용 입니다. 궁금하신 점이나 불편한 사항은 고객지원 에 문의해 주시기 바랍니다. ⓒ NAVER Cloud Corp, All Right Reserved. ​ ​ ​",
+        "date": "2024-06-04T15:01:56+09:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.215,
+        "priority_level": "low",
+        "urgency_score": 0.1,
+        "importance_score": 0.4,
+        "deadline_score": 0.3,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "task_20250922_122703",
+          "action_type": "task",
+          "title": "업무 처리: 네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4) ﻿ ...",
+          "description": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4) ﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항",
+          "deadline": null,
+          "priority": "high",
+          "assignee": "나",
+          "requester": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+          "source_message_id": "52",
+          "context": {
+            "match": "네이버",
+            "pattern": "(\\w+).*?업무.*?처리",
+            "extracted_from": "pattern"
+          },
+          "created_at": "2025-09-22T12:27:03.130823",
+          "status": "pending"
+        },
+        {
+          "action_id": "task_20250922_122703",
+          "action_type": "task",
+          "title": "업무 처리: 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내...",
+          "description": "감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WO",
+          "deadline": "2025-06-11T18:00:00",
+          "priority": "high",
+          "assignee": "나",
+          "requester": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+          "source_message_id": "52",
+          "context": {
+            "keyword": "업무",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-22T12:27:03.116173",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-22T12:27:03.150272"
+    },
+    {
+      "message": {
+        "msg_id": "50",
+        "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+        "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 14주차 공지",
+        "body": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 14주차 공지 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51957#p120496\r\n도시와 언어로 만나는 러시아 14주차 공지\r\n2024-06-04 08:59 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n2024년 06월 04일 화요일,\r\n\r\n \r\n\r\n14주차 <원어민에게 배워보기2[에바]> 강의가\r\n열렸습니다.\r\n\r\n \r\n\r\n각 주차 강좌는 화요일마다 게재되며, 게재된 강의는\r\n종강일까지 자유롭게 수강 가능합니다.\r\n\r\n \r\n\r\n강의를 통해 다음과 같은 내용을 학습하실 수 있습니다.\r\n\r\n \r\n\r\n \r\n\r\n- 문화탐방1\r\n\r\n \r\n\r\n- 문화탐방2\r\n\r\n \r\n\r\n- 여행일지\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n각각의 컨텐츠들은 이수율에 반영이 되는 활동이니 꼭\r\n참여 부탁드립니다.\r\n\r\n \r\n\r\n저희 강좌를 통해 한 학기 동안 많이 배워가는 시간이\r\n되기를 바랍니다.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n수원대학교 K-MOOC 운영팀\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+        "content": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 14주차 공지 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51957#p120496\r\n도시와 언어로 만나는 러시아 14주차 공지\r\n2024-06-04 08:59 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n2024년 06월 04일 화요일,\r\n\r\n \r\n\r\n14주차 <원어민에게 배워보기2[에바]> 강의가\r\n열렸습니다.\r\n\r\n \r\n\r\n각 주차 강좌는 화요일마다 게재되며, 게재된 강의는\r\n종강일까지 자유롭게 수강 가능합니다.\r\n\r\n \r\n\r\n강의를 통해 다음과 같은 내용을 학습하실 수 있습니다.\r\n\r\n \r\n\r\n \r\n\r\n- 문화탐방1\r\n\r\n \r\n\r\n- 문화탐방2\r\n\r\n \r\n\r\n- 여행일지\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n각각의 컨텐츠들은 이수율에 반영이 되는 활동이니 꼭\r\n참여 부탁드립니다.\r\n\r\n \r\n\r\n저희 강좌를 통해 한 학기 동안 많이 배워가는 시간이\r\n되기를 바랍니다.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n수원대학교 K-MOOC 운영팀\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+        "date": "2024-06-04T09:31:29+09:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.19,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.6,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "명시적인 데드라인이 있음"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-22T12:27:03.150272"
+    },
+    {
+      "message": {
+        "msg_id": "54",
+        "sender": "Google <no-reply@accounts.google.com>",
+        "subject": "acrombie092@gmail.com 관련 보안 경고",
+        "body": "이 메일은 acrombie092@gmail.com 주소로 전송된 보안 경고의 사본입니다.  \r\nimyongjun@naver.com 주소는 이\r\n계정의 복구 이메일입니다. 모르는 계정이라면 삭제\r\n<https://accounts.google.com/AccountDisavow?adt=AOX8kirxfrKIcS0AwiwHEaP8hQgdVHk3ZNi0KMYfJgguCzPUroB_gkCwmqKlL9av&rfn=127>\r\n하세요\r\n[image: Google]\r\nGoogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1717512294000?rfn%3D127%26rfnc%3D1%26eid%3D-1172161920664456412%26et%3D1>\r\n다음 페이지에서 보안 활동도 확인할 수 있습니다.\r\nhttps://myaccount.google.com/notifications\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2024 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+        "content": "이 메일은 acrombie092@gmail.com 주소로 전송된 보안 경고의 사본입니다.  \r\nimyongjun@naver.com 주소는 이\r\n계정의 복구 이메일입니다. 모르는 계정이라면 삭제\r\n<https://accounts.google.com/AccountDisavow?adt=AOX8kirxfrKIcS0AwiwHEaP8hQgdVHk3ZNi0KMYfJgguCzPUroB_gkCwmqKlL9av&rfn=127>\r\n하세요\r\n[image: Google]\r\nGoogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1717512294000?rfn%3D127%26rfnc%3D1%26eid%3D-1172161920664456412%26et%3D1>\r\n다음 페이지에서 보안 활동도 확인할 수 있습니다.\r\nhttps://myaccount.google.com/notifications\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2024 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+        "date": "2024-06-04T14:44:54+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.16,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "review_20250922_122703",
+          "action_type": "review",
+          "title": "문서 검토: ogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\n...",
+          "description": "ogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&contin",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "Google <no-reply@accounts.google.com>",
+          "source_message_id": "54",
+          "context": {
+            "keyword": "확인",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-22T12:27:03.110517",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-22T12:27:03.150272"
+    },
+    {
+      "message": {
+        "msg_id": "53",
+        "sender": "카카오페이 <noreply_kakaopay@kakaocorp.com>",
+        "subject": "[카카오페이] 뿌리기 서비스 종료 안내",
+        "body": "카카오페이에서 알려드립니다. 안녕하세요. 카카오페이입니다. 항상 카카오페이를 이용해주셔서 감사드리며, 뿌리기 서비스가 종료될 예정임을 안내드립니다. ■ 종료 일시 - 2024년 7월 8일(월) ■ 종료 서비스 - 뿌리기 서비스 종료일 이후에는 뿌리기 서비스 이용이 불가한 점 참고 바랍니다. 더욱 편리하고 안전한 서비스를 위해 노력하는 카카오페이가 되겠습니다. 감사합니다. 본 메일은 발신전용 메일입니다. ©Kakao Pay Corp.",
+        "content": "카카오페이에서 알려드립니다. 안녕하세요. 카카오페이입니다. 항상 카카오페이를 이용해주셔서 감사드리며, 뿌리기 서비스가 종료될 예정임을 안내드립니다. ■ 종료 일시 - 2024년 7월 8일(월) ■ 종료 서비스 - 뿌리기 서비스 종료일 이후에는 뿌리기 서비스 이용이 불가한 점 참고 바랍니다. 더욱 편리하고 안전한 서비스를 위해 노력하는 카카오페이가 되겠습니다. 감사합니다. 본 메일은 발신전용 메일입니다. ©Kakao Pay Corp.",
+        "date": "2024-06-04T15:19:44+09:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.14500000000000002,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.3,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-22T12:27:03.150272"
+    }
+  ]
+}
