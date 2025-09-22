@@ -1,0 +1,17 @@
+@echo off
+chcp 65001 >nul
+set PYTHONIOENCODING=utf-8
+set PYTHONUTF8=1
+
+echo ========================================
+echo    Smart Assistant exe 간단 빌드
+echo ========================================
+echo.
+echo PyInstaller를 사용하여 exe 파일을 생성합니다.
+echo.
+
+py build_simple.py
+
+echo.
+echo 빌드가 완료되었습니다.
+pause
