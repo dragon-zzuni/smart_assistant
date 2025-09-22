@@ -1,0 +1,26 @@
+# Smart Assistant 환경변수 설정 예시
+# 이 파일을 .env로 복사하고 실제 값으로 수정하세요
+
+# OpenAI API 설정 (LLM 기능용)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# 이메일 설정
+EMAIL_ADDRESS=your_email@example.com
+EMAIL_PASSWORD=your_app_password_here
+
+# 보안 설정
+ENCRYPTION_KEY=your_encryption_key_here
+
+# Slack 설정 (선택사항)
+SLACK_BOT_TOKEN=xoxb-your-slack-bot-token
+
+# Teams 설정 (선택사항)
+TEAMS_CLIENT_ID=your_teams_client_id
+TEAMS_CLIENT_SECRET=your_teams_client_secret
+TEAMS_TENANT_ID=your_teams_tenant_id
+
+# 데이터베이스 설정
+DATABASE_URL=sqlite:///data/assistant.db
+
+# 로깅 레벨
+LOG_LEVEL=INFO
