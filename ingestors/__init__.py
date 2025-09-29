@@ -7,3 +7,5 @@ from .email_imap import EmailIMAPCollector
 from .messenger_adapter import MessengerAdapter
 
 __all__ = ['EmailIMAPCollector', 'MessengerAdapter']
+
+

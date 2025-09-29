@@ -1,0 +1,944 @@
+{
+  "success": true,
+  "todo_list": {
+    "generated_at": "2025-09-29T13:38:47.984587",
+    "total_items": 4,
+    "priority_stats": {
+      "high": 0,
+      "medium": 0,
+      "low": 20
+    },
+    "items": [
+      {
+        "id": "review_20250929_133847",
+        "title": "문서 검토: New topic notification - \"https://healthonlinerevi...",
+        "description": "New topic notification - \"https://healthonlinereviews.com/cerebral-boost-intense-focus/\" Hello acrombies,\r\n\r\nYou are receiving this notification because",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "93",
+          "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "subject": "New topic notification - \"https://healthonlinereviews.com/cerebral-boost-intense-focus/\"",
+          "platform": "email"
+        },
+        "created_at": "2025-09-29T13:38:47.965676"
+      },
+      {
+        "id": "review_20250929_133847",
+        "title": "문서 검토: New topic notification - \"Jos Ureña returns Wednes...",
+        "description": "New topic notification - \"Jos Ureña returns Wednesday, Sandy hits disabled checklist\" Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"R",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "98",
+          "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "subject": "New topic notification - \"Jos Ureña returns Wednesday, Sandy hits disabled checklist\"",
+          "platform": "email"
+        },
+        "created_at": "2025-09-29T13:38:47.912326"
+      },
+      {
+        "id": "review_20250929_133847",
+        "title": "문서 검토: 기에서 로그인함\r\nacrombie092@gmail...",
+        "description": "기에서 로그인함\r\nacrombie092@gmail.com\r\n방금 Google 계정이 새 BKO-UH600 기기에서 로그인되었습니다. 이 이메일은  \r\n본인이 로그인한 것이 맞는지 확인하기 위해\r\n발송되었습니다.\r\n\r\n\r\n\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.co",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "Google <no-reply@accounts.google.com>",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "95",
+          "sender": "Google <no-reply@accounts.google.com>",
+          "subject": "보안 알림",
+          "platform": "email"
+        },
+        "created_at": "2025-09-29T13:38:47.940667"
+      },
+      {
+        "id": "response_20250929_133847",
+        "title": "답변 작성: Topic reply notification - \"Change to Weather...",
+        "description": "Topic reply notification - \"Change to Weather.com XML feed\" Hello acrombies,\r\n\r\nYou are receiving this notifica",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "type": "response",
+        "status": "pending",
+        "source_message": {
+          "id": "94",
+          "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "subject": "Topic reply notification - \"Change to Weather.com XML feed\"",
+          "platform": "email"
+        },
+        "created_at": "2025-09-29T13:38:47.959570"
+      }
+    ],
+    "summary": {
+      "total_messages": 20,
+      "total_actions": 4,
+      "urgent_items": 0,
+      "deadline_items": 0
+    }
+  },
+  "analysis_results": [
+    {
+      "message": {
+        "msg_id": "93",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"https://healthonlinereviews.com/cerebral-boost-intense-focus/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby keryurion since your last visit,\r\n\"https://healthonlinereviews.com/cerebral-boost-intense-focus/\". You can\r\nuse the following link to view the forum, no more notifications will be\r\nsent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby keryurion since your last visit,\r\n\"https://healthonlinereviews.com/cerebral-boost-intense-focus/\". You can\r\nuse the following link to view the forum, no more notifications will be\r\nsent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-07-26T10:53:24+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.2,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.4,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "review_20250929_133847",
+          "action_type": "review",
+          "title": "문서 검토: New topic notification - \"https://healthonlinerevi...",
+          "description": "New topic notification - \"https://healthonlinereviews.com/cerebral-boost-intense-focus/\" Hello acrombies,\r\n\r\nYou are receiving this notification because",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "source_message_id": "93",
+          "context": {
+            "keyword": "review",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-29T13:38:47.965676",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "98",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"Jos Ureña returns Wednesday, Sandy hits disabled checklist\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby VrentCelek since your last visit, \"Jos Ureña returns Wednesday, Sandy\r\nhits disabled checklist\". You can use the following link to view the forum,\r\nno more notifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby VrentCelek since your last visit, \"Jos Ureña returns Wednesday, Sandy\r\nhits disabled checklist\". You can use the following link to view the forum,\r\nno more notifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-08-18T06:07:39+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.16,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "review_20250929_133847",
+          "action_type": "review",
+          "title": "문서 검토: New topic notification - \"Jos Ureña returns Wednes...",
+          "description": "New topic notification - \"Jos Ureña returns Wednesday, Sandy hits disabled checklist\" Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"R",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "source_message_id": "98",
+          "context": {
+            "keyword": "check",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-29T13:38:47.912326",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "95",
+        "sender": "Google <no-reply@accounts.google.com>",
+        "subject": "보안 알림",
+        "body": "김용준\r\n\r\n새 기기에서 로그인함\r\nacrombie092@gmail.com\r\n방금 Google 계정이 새 BKO-UH600 기기에서 로그인되었습니다. 이 이메일은  \r\n본인이 로그인한 것이 맞는지 확인하기 위해\r\n발송되었습니다.\r\n\r\n\r\n\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1533635683000?rfn%3D100%26rfnc%3D1%26eid%3D-2712483643179560136%26et%3D0%26asae%3D2%26anexp%3Dapa-standalone>\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1533635683000?rfn%3D100%26rfnc%3D1%26eid%3D-2712483643179560136%26et%3D0%26asae%3D2%26anexp%3Dapa-standalone>\r\n\r\n\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2018 Google LLC,1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n1533635683000000",
+        "content": "김용준\r\n\r\n새 기기에서 로그인함\r\nacrombie092@gmail.com\r\n방금 Google 계정이 새 BKO-UH600 기기에서 로그인되었습니다. 이 이메일은  \r\n본인이 로그인한 것이 맞는지 확인하기 위해\r\n발송되었습니다.\r\n\r\n\r\n\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1533635683000?rfn%3D100%26rfnc%3D1%26eid%3D-2712483643179560136%26et%3D0%26asae%3D2%26anexp%3Dapa-standalone>\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1533635683000?rfn%3D100%26rfnc%3D1%26eid%3D-2712483643179560136%26et%3D0%26asae%3D2%26anexp%3Dapa-standalone>\r\n\r\n\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2018 Google LLC,1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n1533635683000000",
+        "date": "2018-08-07T09:54:43+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.16,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "review_20250929_133847",
+          "action_type": "review",
+          "title": "문서 검토: 기에서 로그인함\r\nacrombie092@gmail...",
+          "description": "기에서 로그인함\r\nacrombie092@gmail.com\r\n방금 Google 계정이 새 BKO-UH600 기기에서 로그인되었습니다. 이 이메일은  \r\n본인이 로그인한 것이 맞는지 확인하기 위해\r\n발송되었습니다.\r\n\r\n\r\n\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.co",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "Google <no-reply@accounts.google.com>",
+          "source_message_id": "95",
+          "context": {
+            "keyword": "확인",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-29T13:38:47.940667",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "96",
+        "sender": "Google <no-reply@accounts.google.com>",
+        "subject": "용준님, 새 BKO-UH600 에 최신 Google 앱이 설치되어 있지 않습니다",
+        "body": "새 BKO-UH600\r\n\r\n\r\n\r\n아래 공식 Google 앱을 다운로드하여 휴대전화 설정을 마무리하세요.\r\n\r\n\r\nGmail\r\n\r\nGmail\r\n\r\n앱 하나로 모든 이메일 계정을 관리하세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGoogle Maps\r\n\r\nGoogle Maps\r\n\r\n실시간 내비게이션과 교통상황 안내를 통해 빠른 길을 찾아보세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGoogle Drive\r\n\r\nGoogle Drive\r\n\r\n모든 문서와 파일을 한곳에서 만들고 공유하고 저장하세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n본 이메일은 발신 전용입니다. 최근 BKO-UH600에서 Google 계정을 활성화하셨기  \r\n때문에 발송된 환영 메시지입니다.\r\n\r\n\r\n\r\n© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n\r\n\r\n\r\n\r\n—————————————————————————————",
+        "content": "새 BKO-UH600\r\n\r\n\r\n\r\n아래 공식 Google 앱을 다운로드하여 휴대전화 설정을 마무리하세요.\r\n\r\n\r\nGmail\r\n\r\nGmail\r\n\r\n앱 하나로 모든 이메일 계정을 관리하세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGoogle Maps\r\n\r\nGoogle Maps\r\n\r\n실시간 내비게이션과 교통상황 안내를 통해 빠른 길을 찾아보세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGoogle Drive\r\n\r\nGoogle Drive\r\n\r\n모든 문서와 파일을 한곳에서 만들고 공유하고 저장하세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n본 이메일은 발신 전용입니다. 최근 BKO-UH600에서 Google 계정을 활성화하셨기  \r\n때문에 발송된 환영 메시지입니다.\r\n\r\n\r\n\r\n© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n\r\n\r\n\r\n\r\n—————————————————————————————",
+        "date": "2018-08-07T09:54:43+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.14500000000000002,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.3,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "101",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://supplementtalks.com/nutraher-lean/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby williemartinz since your last visit,\r\n\"http://supplementtalks.com/nutraher-lean/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby williemartinz since your last visit,\r\n\"http://supplementtalks.com/nutraher-lean/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-08-27T06:08:05+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "100",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://www.sharktankketo.com/rapid-results-keto/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby AlenaMeriyana since your last visit,\r\n\"http://www.sharktankketo.com/rapid-results-keto/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby AlenaMeriyana since your last visit,\r\n\"http://www.sharktankketo.com/rapid-results-keto/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-08-23T11:46:49+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "99",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://dietproducts4u.com/pure-essence-cbd-oil/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby CarmeTelford since your last visit,\r\n\"http://dietproducts4u.com/pure-essence-cbd-oil/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby CarmeTelford since your last visit,\r\n\"http://dietproducts4u.com/pure-essence-cbd-oil/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-08-22T11:28:44+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "97",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://trybionutrition.com/purefit-keto/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Georgebower since your last visit,\r\n\"http://trybionutrition.com/purefit-keto/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Georgebower since your last visit,\r\n\"http://trybionutrition.com/purefit-keto/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-08-09T04:06:29+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "94",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "Topic reply notification - \"Change to Weather.com XML feed\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Change to Weather.com XML feed\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by iron2000 since your last visit. No more notifications\r\nwill be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=23289&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=23289\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=23289&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Change to Weather.com XML feed\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by iron2000 since your last visit. No more notifications\r\nwill be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=23289&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=23289\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=23289&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-07-29T08:18:36+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "response_20250929_133847",
+          "action_type": "response",
+          "title": "답변 작성: Topic reply notification - \"Change to Weather...",
+          "description": "Topic reply notification - \"Change to Weather.com XML feed\" Hello acrombies,\r\n\r\nYou are receiving this notifica",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "source_message_id": "94",
+          "context": {
+            "keyword": "reply",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-29T13:38:47.959570",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "92",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"https://maleintalk.com/ketofirm-forskolin/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby banisoni since your last visit,\r\n\"https://maleintalk.com/ketofirm-forskolin/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby banisoni since your last visit,\r\n\"https://maleintalk.com/ketofirm-forskolin/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-07-26T06:03:35+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "10",
+        "sender": "system",
+        "subject": "",
+        "body": "1234님이 나갔습니다.",
+        "content": "1234님이 나갔습니다.",
+        "date": "2025-09-26T02:06:58",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "9",
+        "sender": "system",
+        "subject": "",
+        "body": "1234님이 입장했습니다.",
+        "content": "1234님이 입장했습니다.",
+        "date": "2025-09-26T02:06:57",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "8",
+        "sender": "네밋",
+        "subject": "",
+        "body": "좋다",
+        "content": "좋다",
+        "date": "2025-09-26T02:06:38",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "7",
+        "sender": "네밋",
+        "subject": "",
+        "body": ".",
+        "content": ".",
+        "date": "2025-09-26T02:06:36",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "3",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 나갔습니다.",
+        "content": "네밋님이 나갔습니다.",
+        "date": "2025-09-26T02:06:34",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "4",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 입장했습니다.",
+        "content": "네밋님이 입장했습니다.",
+        "date": "2025-09-26T02:06:34",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "5",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 나갔습니다.",
+        "content": "네밋님이 나갔습니다.",
+        "date": "2025-09-26T02:06:34",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "6",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 입장했습니다.",
+        "content": "네밋님이 입장했습니다.",
+        "date": "2025-09-26T02:06:34",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "2",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 입장했습니다.",
+        "content": "네밋님이 입장했습니다.",
+        "date": "2025-09-26T02:06:32",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    },
+    {
+      "message": {
+        "msg_id": "1",
+        "sender": "system",
+        "subject": "",
+        "body": "무야호님이 입장했습니다.",
+        "content": "무야호님이 입장했습니다.",
+        "date": "2025-09-26T02:04:24",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:38:47.983278"
+    }
+  ],
+  "messages": [
+    {
+      "msg_id": "101",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://supplementtalks.com/nutraher-lean/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby williemartinz since your last visit,\r\n\"http://supplementtalks.com/nutraher-lean/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby williemartinz since your last visit,\r\n\"http://supplementtalks.com/nutraher-lean/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-08-27T06:08:05+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "100",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://www.sharktankketo.com/rapid-results-keto/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby AlenaMeriyana since your last visit,\r\n\"http://www.sharktankketo.com/rapid-results-keto/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby AlenaMeriyana since your last visit,\r\n\"http://www.sharktankketo.com/rapid-results-keto/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-08-23T11:46:49+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "99",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://dietproducts4u.com/pure-essence-cbd-oil/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby CarmeTelford since your last visit,\r\n\"http://dietproducts4u.com/pure-essence-cbd-oil/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby CarmeTelford since your last visit,\r\n\"http://dietproducts4u.com/pure-essence-cbd-oil/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-08-22T11:28:44+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "98",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"Jos Ureña returns Wednesday, Sandy hits disabled checklist\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby VrentCelek since your last visit, \"Jos Ureña returns Wednesday, Sandy\r\nhits disabled checklist\". You can use the following link to view the forum,\r\nno more notifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby VrentCelek since your last visit, \"Jos Ureña returns Wednesday, Sandy\r\nhits disabled checklist\". You can use the following link to view the forum,\r\nno more notifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-08-18T06:07:39+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "97",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://trybionutrition.com/purefit-keto/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Georgebower since your last visit,\r\n\"http://trybionutrition.com/purefit-keto/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Georgebower since your last visit,\r\n\"http://trybionutrition.com/purefit-keto/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-08-09T04:06:29+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "96",
+      "sender": "Google <no-reply@accounts.google.com>",
+      "subject": "용준님, 새 BKO-UH600 에 최신 Google 앱이 설치되어 있지 않습니다",
+      "body": "새 BKO-UH600\r\n\r\n\r\n\r\n아래 공식 Google 앱을 다운로드하여 휴대전화 설정을 마무리하세요.\r\n\r\n\r\nGmail\r\n\r\nGmail\r\n\r\n앱 하나로 모든 이메일 계정을 관리하세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGoogle Maps\r\n\r\nGoogle Maps\r\n\r\n실시간 내비게이션과 교통상황 안내를 통해 빠른 길을 찾아보세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGoogle Drive\r\n\r\nGoogle Drive\r\n\r\n모든 문서와 파일을 한곳에서 만들고 공유하고 저장하세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n본 이메일은 발신 전용입니다. 최근 BKO-UH600에서 Google 계정을 활성화하셨기  \r\n때문에 발송된 환영 메시지입니다.\r\n\r\n\r\n\r\n© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n\r\n\r\n\r\n\r\n—————————————————————————————",
+      "content": "새 BKO-UH600\r\n\r\n\r\n\r\n아래 공식 Google 앱을 다운로드하여 휴대전화 설정을 마무리하세요.\r\n\r\n\r\nGmail\r\n\r\nGmail\r\n\r\n앱 하나로 모든 이메일 계정을 관리하세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGoogle Maps\r\n\r\nGoogle Maps\r\n\r\n실시간 내비게이션과 교통상황 안내를 통해 빠른 길을 찾아보세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGoogle Drive\r\n\r\nGoogle Drive\r\n\r\n모든 문서와 파일을 한곳에서 만들고 공유하고 저장하세요.\r\n\r\n4.5/5 Stars\r\n\r\n\r\n\r\n\r\n\r\n다운로드\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n본 이메일은 발신 전용입니다. 최근 BKO-UH600에서 Google 계정을 활성화하셨기  \r\n때문에 발송된 환영 메시지입니다.\r\n\r\n\r\n\r\n© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n\r\n\r\n\r\n\r\n—————————————————————————————",
+      "date": "2018-08-07T09:54:43+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "95",
+      "sender": "Google <no-reply@accounts.google.com>",
+      "subject": "보안 알림",
+      "body": "김용준\r\n\r\n새 기기에서 로그인함\r\nacrombie092@gmail.com\r\n방금 Google 계정이 새 BKO-UH600 기기에서 로그인되었습니다. 이 이메일은  \r\n본인이 로그인한 것이 맞는지 확인하기 위해\r\n발송되었습니다.\r\n\r\n\r\n\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1533635683000?rfn%3D100%26rfnc%3D1%26eid%3D-2712483643179560136%26et%3D0%26asae%3D2%26anexp%3Dapa-standalone>\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1533635683000?rfn%3D100%26rfnc%3D1%26eid%3D-2712483643179560136%26et%3D0%26asae%3D2%26anexp%3Dapa-standalone>\r\n\r\n\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2018 Google LLC,1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n1533635683000000",
+      "content": "김용준\r\n\r\n새 기기에서 로그인함\r\nacrombie092@gmail.com\r\n방금 Google 계정이 새 BKO-UH600 기기에서 로그인되었습니다. 이 이메일은  \r\n본인이 로그인한 것이 맞는지 확인하기 위해\r\n발송되었습니다.\r\n\r\n\r\n\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1533635683000?rfn%3D100%26rfnc%3D1%26eid%3D-2712483643179560136%26et%3D0%26asae%3D2%26anexp%3Dapa-standalone>\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1533635683000?rfn%3D100%26rfnc%3D1%26eid%3D-2712483643179560136%26et%3D0%26asae%3D2%26anexp%3Dapa-standalone>\r\n\r\n\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2018 Google LLC,1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n1533635683000000",
+      "date": "2018-08-07T09:54:43+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "94",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "Topic reply notification - \"Change to Weather.com XML feed\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Change to Weather.com XML feed\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by iron2000 since your last visit. No more notifications\r\nwill be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=23289&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=23289\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=23289&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Change to Weather.com XML feed\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by iron2000 since your last visit. No more notifications\r\nwill be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=23289&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=23289\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=23289&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-07-29T08:18:36+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "93",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"https://healthonlinereviews.com/cerebral-boost-intense-focus/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby keryurion since your last visit,\r\n\"https://healthonlinereviews.com/cerebral-boost-intense-focus/\". You can\r\nuse the following link to view the forum, no more notifications will be\r\nsent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby keryurion since your last visit,\r\n\"https://healthonlinereviews.com/cerebral-boost-intense-focus/\". You can\r\nuse the following link to view the forum, no more notifications will be\r\nsent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-07-26T10:53:24+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "92",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"https://maleintalk.com/ketofirm-forskolin/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby banisoni since your last visit,\r\n\"https://maleintalk.com/ketofirm-forskolin/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby banisoni since your last visit,\r\n\"https://maleintalk.com/ketofirm-forskolin/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-07-26T06:03:35+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "10",
+      "sender": "system",
+      "subject": "",
+      "body": "1234님이 나갔습니다.",
+      "content": "1234님이 나갔습니다.",
+      "date": "2025-09-26T02:06:58",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "9",
+      "sender": "system",
+      "subject": "",
+      "body": "1234님이 입장했습니다.",
+      "content": "1234님이 입장했습니다.",
+      "date": "2025-09-26T02:06:57",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "8",
+      "sender": "네밋",
+      "subject": "",
+      "body": "좋다",
+      "content": "좋다",
+      "date": "2025-09-26T02:06:38",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "7",
+      "sender": "네밋",
+      "subject": "",
+      "body": ".",
+      "content": ".",
+      "date": "2025-09-26T02:06:36",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "3",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 나갔습니다.",
+      "content": "네밋님이 나갔습니다.",
+      "date": "2025-09-26T02:06:34",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "4",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 입장했습니다.",
+      "content": "네밋님이 입장했습니다.",
+      "date": "2025-09-26T02:06:34",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "5",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 나갔습니다.",
+      "content": "네밋님이 나갔습니다.",
+      "date": "2025-09-26T02:06:34",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "6",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 입장했습니다.",
+      "content": "네밋님이 입장했습니다.",
+      "date": "2025-09-26T02:06:34",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "2",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 입장했습니다.",
+      "content": "네밋님이 입장했습니다.",
+      "date": "2025-09-26T02:06:32",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "1",
+      "sender": "system",
+      "subject": "",
+      "body": "무야호님이 입장했습니다.",
+      "content": "무야호님이 입장했습니다.",
+      "date": "2025-09-26T02:04:24",
+      "type": "messenger",
+      "platform": "구글"
+    }
+  ]
+}

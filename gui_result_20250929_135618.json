@@ -1,0 +1,839 @@
+{
+  "success": true,
+  "todo_list": {
+    "generated_at": "2025-09-29T13:56:18.256946",
+    "total_items": 1,
+    "priority_stats": {
+      "high": 0,
+      "medium": 0,
+      "low": 20
+    },
+    "items": [
+      {
+        "id": "response_20250929_135618",
+        "title": "답변 작성: Topic reply notification - \"Rainmeter 4...",
+        "description": "Topic reply notification - \"Rainmeter 4.3 Beta r3250 Available\" Hello acrombies,\r\n\r\nYou are receiving this noti",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "type": "response",
+        "status": "pending",
+        "source_message": {
+          "id": "131",
+          "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "subject": "Topic reply notification - \"Rainmeter 4.3 Beta r3250 Available\"",
+          "platform": "email"
+        },
+        "created_at": "2025-09-29T13:56:18.201045"
+      }
+    ],
+    "summary": {
+      "total_messages": 20,
+      "total_actions": 1,
+      "urgent_items": 0,
+      "deadline_items": 0
+    }
+  },
+  "analysis_results": [
+    {
+      "message": {
+        "msg_id": "132",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://wellnesscool.com/therma-trim-weight-loss/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby MichLyons since your last visit,\r\n\"http://wellnesscool.com/therma-trim-weight-loss/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby MichLyons since your last visit,\r\n\"http://wellnesscool.com/therma-trim-weight-loss/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-09-26T11:39:05+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "131",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "Topic reply notification - \"Rainmeter 4.3 Beta r3250 Available\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.3 Beta r3250 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by kyriakos876 since your last visit. No more\r\nnotifications will be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29391&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29391\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=29391&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.3 Beta r3250 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by kyriakos876 since your last visit. No more\r\nnotifications will be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29391&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29391\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=29391&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-09-25T15:11:44+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "response_20250929_135618",
+          "action_type": "response",
+          "title": "답변 작성: Topic reply notification - \"Rainmeter 4...",
+          "description": "Topic reply notification - \"Rainmeter 4.3 Beta r3250 Available\" Hello acrombies,\r\n\r\nYou are receiving this noti",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "source_message_id": "131",
+          "context": {
+            "keyword": "reply",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-29T13:56:18.201045",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "130",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"Rainmeter 4.3 Beta r3250 Available\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby jsmorley since your last visit, \"Rainmeter 4.3 Beta r3250 Available\".\r\nYou can use the following link to view the forum, no more notifications\r\nwill be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby jsmorley since your last visit, \"Rainmeter 4.3 Beta r3250 Available\".\r\nYou can use the following link to view the forum, no more notifications\r\nwill be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-09-25T14:10:32+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "129",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"https://www.first2supplement.com/therma-trim-pills/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Seelbak since your last visit,\r\n\"https://www.first2supplement.com/therma-trim-pills/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Seelbak since your last visit,\r\n\"https://www.first2supplement.com/therma-trim-pills/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-09-25T10:25:07+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "128",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"https://www.first2supplement.com/therma-trim-pills/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby HerminiClone since your last visit,\r\n\"https://www.first2supplement.com/therma-trim-pills/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby HerminiClone since your last visit,\r\n\"https://www.first2supplement.com/therma-trim-pills/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-09-25T08:13:32+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "127",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://www.testohub.com/primal1-testo/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby SharonDegroatio since your last visit,\r\n\"http://www.testohub.com/primal1-testo/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby SharonDegroatio since your last visit,\r\n\"http://www.testohub.com/primal1-testo/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-09-24T09:52:32+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "126",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://www.testohub.com/primal1-testo/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby KerenMoetel since your last visit,\r\n\"http://www.testohub.com/primal1-testo/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby KerenMoetel since your last visit,\r\n\"http://www.testohub.com/primal1-testo/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-09-24T07:12:39+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "125",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://www.facts4order.com/envytalyfe-cbd/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Cheeybol since your last visit,\r\n\"http://www.facts4order.com/envytalyfe-cbd/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Cheeybol since your last visit,\r\n\"http://www.facts4order.com/envytalyfe-cbd/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-09-22T12:09:27+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "124",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://www.facts4order.com/envytalyfe-cbd/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby AngelaGrosson since your last visit,\r\n\"http://www.facts4order.com/envytalyfe-cbd/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby AngelaGrosson since your last visit,\r\n\"http://www.facts4order.com/envytalyfe-cbd/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-09-22T07:28:43+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "123",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://www.supplementsleader.com/lojesete-cream/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby ChristineDenis since your last visit,\r\n\"http://www.supplementsleader.com/lojesete-cream/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby ChristineDenis since your last visit,\r\n\"http://www.supplementsleader.com/lojesete-cream/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-09-21T11:20:33+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "10",
+        "sender": "system",
+        "subject": "",
+        "body": "1234님이 나갔습니다.",
+        "content": "1234님이 나갔습니다.",
+        "date": "2025-09-26T02:06:58",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "9",
+        "sender": "system",
+        "subject": "",
+        "body": "1234님이 입장했습니다.",
+        "content": "1234님이 입장했습니다.",
+        "date": "2025-09-26T02:06:57",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "8",
+        "sender": "네밋",
+        "subject": "",
+        "body": "좋다",
+        "content": "좋다",
+        "date": "2025-09-26T02:06:38",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "7",
+        "sender": "네밋",
+        "subject": "",
+        "body": ".",
+        "content": ".",
+        "date": "2025-09-26T02:06:36",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "3",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 나갔습니다.",
+        "content": "네밋님이 나갔습니다.",
+        "date": "2025-09-26T02:06:34",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "4",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 입장했습니다.",
+        "content": "네밋님이 입장했습니다.",
+        "date": "2025-09-26T02:06:34",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "5",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 나갔습니다.",
+        "content": "네밋님이 나갔습니다.",
+        "date": "2025-09-26T02:06:34",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.255437"
+    },
+    {
+      "message": {
+        "msg_id": "6",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 입장했습니다.",
+        "content": "네밋님이 입장했습니다.",
+        "date": "2025-09-26T02:06:34",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.256441"
+    },
+    {
+      "message": {
+        "msg_id": "2",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 입장했습니다.",
+        "content": "네밋님이 입장했습니다.",
+        "date": "2025-09-26T02:06:32",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.256441"
+    },
+    {
+      "message": {
+        "msg_id": "1",
+        "sender": "system",
+        "subject": "",
+        "body": "무야호님이 입장했습니다.",
+        "content": "무야호님이 입장했습니다.",
+        "date": "2025-09-26T02:04:24",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-29T13:56:18.256441"
+    }
+  ],
+  "messages": [
+    {
+      "msg_id": "132",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://wellnesscool.com/therma-trim-weight-loss/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby MichLyons since your last visit,\r\n\"http://wellnesscool.com/therma-trim-weight-loss/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby MichLyons since your last visit,\r\n\"http://wellnesscool.com/therma-trim-weight-loss/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-09-26T11:39:05+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "131",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "Topic reply notification - \"Rainmeter 4.3 Beta r3250 Available\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.3 Beta r3250 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by kyriakos876 since your last visit. No more\r\nnotifications will be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29391&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29391\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=29391&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.3 Beta r3250 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by kyriakos876 since your last visit. No more\r\nnotifications will be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29391&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29391\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=29391&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-09-25T15:11:44+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "130",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"Rainmeter 4.3 Beta r3250 Available\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby jsmorley since your last visit, \"Rainmeter 4.3 Beta r3250 Available\".\r\nYou can use the following link to view the forum, no more notifications\r\nwill be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby jsmorley since your last visit, \"Rainmeter 4.3 Beta r3250 Available\".\r\nYou can use the following link to view the forum, no more notifications\r\nwill be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-09-25T14:10:32+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "129",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"https://www.first2supplement.com/therma-trim-pills/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Seelbak since your last visit,\r\n\"https://www.first2supplement.com/therma-trim-pills/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Seelbak since your last visit,\r\n\"https://www.first2supplement.com/therma-trim-pills/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-09-25T10:25:07+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "128",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"https://www.first2supplement.com/therma-trim-pills/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby HerminiClone since your last visit,\r\n\"https://www.first2supplement.com/therma-trim-pills/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby HerminiClone since your last visit,\r\n\"https://www.first2supplement.com/therma-trim-pills/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-09-25T08:13:32+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "127",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://www.testohub.com/primal1-testo/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby SharonDegroatio since your last visit,\r\n\"http://www.testohub.com/primal1-testo/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby SharonDegroatio since your last visit,\r\n\"http://www.testohub.com/primal1-testo/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-09-24T09:52:32+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "126",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://www.testohub.com/primal1-testo/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby KerenMoetel since your last visit,\r\n\"http://www.testohub.com/primal1-testo/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby KerenMoetel since your last visit,\r\n\"http://www.testohub.com/primal1-testo/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-09-24T07:12:39+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "125",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://www.facts4order.com/envytalyfe-cbd/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Cheeybol since your last visit,\r\n\"http://www.facts4order.com/envytalyfe-cbd/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Cheeybol since your last visit,\r\n\"http://www.facts4order.com/envytalyfe-cbd/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-09-22T12:09:27+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "124",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://www.facts4order.com/envytalyfe-cbd/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby AngelaGrosson since your last visit,\r\n\"http://www.facts4order.com/envytalyfe-cbd/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby AngelaGrosson since your last visit,\r\n\"http://www.facts4order.com/envytalyfe-cbd/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-09-22T07:28:43+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "123",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://www.supplementsleader.com/lojesete-cream/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby ChristineDenis since your last visit,\r\n\"http://www.supplementsleader.com/lojesete-cream/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby ChristineDenis since your last visit,\r\n\"http://www.supplementsleader.com/lojesete-cream/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-09-21T11:20:33+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "10",
+      "sender": "system",
+      "subject": "",
+      "body": "1234님이 나갔습니다.",
+      "content": "1234님이 나갔습니다.",
+      "date": "2025-09-26T02:06:58",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "9",
+      "sender": "system",
+      "subject": "",
+      "body": "1234님이 입장했습니다.",
+      "content": "1234님이 입장했습니다.",
+      "date": "2025-09-26T02:06:57",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "8",
+      "sender": "네밋",
+      "subject": "",
+      "body": "좋다",
+      "content": "좋다",
+      "date": "2025-09-26T02:06:38",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "7",
+      "sender": "네밋",
+      "subject": "",
+      "body": ".",
+      "content": ".",
+      "date": "2025-09-26T02:06:36",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "3",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 나갔습니다.",
+      "content": "네밋님이 나갔습니다.",
+      "date": "2025-09-26T02:06:34",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "4",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 입장했습니다.",
+      "content": "네밋님이 입장했습니다.",
+      "date": "2025-09-26T02:06:34",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "5",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 나갔습니다.",
+      "content": "네밋님이 나갔습니다.",
+      "date": "2025-09-26T02:06:34",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "6",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 입장했습니다.",
+      "content": "네밋님이 입장했습니다.",
+      "date": "2025-09-26T02:06:34",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "2",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 입장했습니다.",
+      "content": "네밋님이 입장했습니다.",
+      "date": "2025-09-26T02:06:32",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "1",
+      "sender": "system",
+      "subject": "",
+      "body": "무야호님이 입장했습니다.",
+      "content": "무야호님이 입장했습니다.",
+      "date": "2025-09-26T02:04:24",
+      "type": "messenger",
+      "platform": "구글"
+    }
+  ]
+}

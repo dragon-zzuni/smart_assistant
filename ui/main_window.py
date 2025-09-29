@@ -289,7 +289,9 @@ class SmartAssistantGUI(QMainWindow):
         self.worker_thread = None
         self.current_status = "offline"
         self.email_config = {}
-        self.messenger_config = {"use_simulator": True}
+        self.messenger_config = {"source": "sqlite",
+    "sqlite": { "db_path": "data/messenger/messages.db" },
+    "use_simulator": False}
         
         self.init_ui()
         self.setup_timers()

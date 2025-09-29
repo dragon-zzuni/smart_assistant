@@ -12,6 +12,10 @@ from typing import Dict, List, Optional
 from dataclasses import dataclass
 from pathlib import Path
 
+from messenger_adapter.sqlite_adapter import SQLiteMessageStore
+from datetime import datetime
+
+
 logger = logging.getLogger(__name__)
 
 
@@ -215,9 +219,42 @@ class MessengerAdapter:
         self.config = config
         self.adapters = {}
         self.simulator = MessengerSimulator()
-        
-        # 설정된 어댑터 초기화
+        self.sqlite_store = None  # ✅ 추가
+
+        # ✅ SQLite 소스 활성화 (config로 제어)
+        if self.config.get("source") == "sqlite":
+            db_path = self.config.get("sqlite", {}).get("db_path")
+            self.sqlite_store = SQLiteMessageStore(db_path)
+
         self._init_adapters()
+
+    def _parse_ts(self, s: str) -> datetime:
+        if not s:
+            return datetime.now()
+        try:
+            if "T" in s:
+                return datetime.fromisoformat(s)
+            return datetime.strptime(s, "%Y-%m-%d %H:%M:%S")
+        except Exception:
+            return datetime.now()
+
+    def _rows_to_messages(self, rows, limit: int):
+        out = []
+        for r in rows[:limit]:
+            out.append(
+                Message(
+                    msg_id=str(r.get("id")),
+                    sender=(r.get("username") or "unknown"),
+                    recipient="me",
+                    content=r.get("message") or "",
+                    timestamp=self._parse_ts(r.get("timestamp") or ""),
+                    platform=(r.get("room") or "messenger"),
+                    is_read=False,
+                    priority=None,
+                )
+            )
+        return out
+
     
     def _init_adapters(self):
         """어댑터 초기화"""
@@ -236,6 +273,14 @@ class MessengerAdapter:
         """모든 플랫폼에서 미확인 메시지 수집"""
         all_messages = []
         
+        if self.sqlite_store is not None:
+            cfg = self.config.get("sqlite", {})
+            rows = self.sqlite_store.fetch_messages(
+                room=cfg.get("room"),
+                since=cfg.get("since"),          # "YYYY-MM-DD HH:MM:SS" (옵션)
+                limit=limit_per_platform,
+            )
+            all_messages.extend(self._rows_to_messages(rows, limit_per_platform))
         # 실제 API 어댑터들에서 메시지 수집
         for platform, adapter in self.adapters.items():
             try:

@@ -29,6 +29,7 @@ from ingestors.messenger_adapter import MessengerAdapter, Message
 from nlp.summarize import MessageSummarizer
 from nlp.priority_ranker import PriorityRanker
 from nlp.action_extractor import ActionExtractor
+from config.settings import LLM_CONFIG
 
 # 로깅 설정 (간단하게)
 logging.basicConfig(
@@ -73,7 +74,7 @@ class SmartAssistant:
         
         logger.info("✅ 초기화 완료")
     
-    async def collect_messages(self, email_limit: int = 10, messenger_limit: int = 10) -> List[Dict]:
+    async def collect_messages(self, email_limit: int = 150, messenger_limit: int = 10000) -> List[Dict]:
         """메시지 수집"""
         logger.info("📥 메시지 수집 시작...")
         
