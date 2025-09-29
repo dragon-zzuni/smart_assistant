@@ -89,7 +89,7 @@ class EmailIMAPCollector:
         except Exception as e:
             logger.error(f"연결 종료 오류: {e}")
     
-    async def get_unread_emails(self, limit: int = 10) -> List[EmailMessage]:
+    async def get_unread_emails(self, limit: int = 30) -> List[EmailMessage]:
         """미확인 이메일 가져오기"""
         if not self._is_connected or not self.client:
             await self.connect()

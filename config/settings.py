@@ -5,16 +5,20 @@ Smart Assistant 설정 파일
 import os
 from pathlib import Path
 from typing import Optional
+from dotenv import load_dotenv
+
+
 
 # 프로젝트 루트 디렉토리
 PROJECT_ROOT = Path(__file__).parent.parent
-
+load_dotenv(PROJECT_ROOT / ".env")
 # 데이터베이스 경로
 DATABASE_PATH = PROJECT_ROOT / "data" / "assistant.db"
 FAISS_INDEX_PATH = PROJECT_ROOT / "data" / "faiss_index"
 
 # 로그 경로
 LOG_PATH = PROJECT_ROOT / "logs"
+
 
 # 이메일 설정
 EMAIL_CONFIG = {

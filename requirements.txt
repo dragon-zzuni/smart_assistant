@@ -11,7 +11,6 @@ PyQt6==6.6.1
 imaplib2==3.6
 
 # Database & Storage
-sqlite3
 faiss-cpu==1.7.4
 
 # NLP & LLM

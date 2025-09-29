@@ -10,6 +10,10 @@ from datetime import datetime
 from typing import Dict, List, Optional
 from pathlib import Path
 
+from PyQt6.QtGui import QFont, QFontDatabase
+from PyQt6.QtWidgets import QApplication, QStyleFactory
+
+
 # Windows 한글 출력 설정
 if sys.platform == "win32":
     import io
@@ -140,70 +144,140 @@ class StatusIndicator(QLabel):
                 }
             """)
 
-
 class TodoItemWidget(QWidget):
-    """TODO 아이템 위젯"""
+    """TODO 아이템 위젯(통일 스타일)"""
+    PRIORITY_COLORS = {
+        "high":   ("High",   "#FEE2E2", "#991B1B"),   # red
+        "medium": ("Medium", "#FEF3C7", "#92400E"),   # amber
+        "low":    ("Low",    "#DCFCE7", "#166534"),   # green
+    }
+
     def __init__(self, todo_item):
         super().__init__()
         self.todo_item = todo_item
+        self.setMinimumHeight(64)
         self.init_ui()
-    
+
     def init_ui(self):
-        layout = QVBoxLayout(self)
-        layout.setContentsMargins(10, 5, 10, 5)
-        
-        # 제목과 우선순위
-        title_layout = QHBoxLayout()
-        
-        priority_icon = {"high": "🔴", "medium": "🟡", "low": "🟢"}
-        icon = priority_icon.get(self.todo_item.get("priority", "low"), "⚪")
-        
-        self.title_label = QLabel(f"{icon} {self.todo_item.get('title', '')}")
-        self.title_label.setFont(QFont("Arial", 10, QFont.Weight.Bold))
-        title_layout.addWidget(self.title_label)
-        
-        title_layout.addStretch()
-        
-        # 상태 표시
-        self.status_label = QLabel(self.todo_item.get("status", "pending"))
-        self.status_label.setStyleSheet("color: #666; font-size: 9px;")
-        title_layout.addWidget(self.status_label)
-        
-        layout.addLayout(title_layout)
-        
-        # 요청자와 타입
-        info_layout = QHBoxLayout()
-        self.requester_label = QLabel(f"👤 {self.todo_item.get('requester', '')}")
-        self.requester_label.setStyleSheet("color: #666; font-size: 9px;")
-        info_layout.addWidget(self.requester_label)
-        
-        info_layout.addStretch()
-        
-        self.type_label = QLabel(f"🏷️ {self.todo_item.get('type', '')}")
-        self.type_label.setStyleSheet("color: #666; font-size: 9px;")
-        info_layout.addWidget(self.type_label)
-        
-        layout.addLayout(info_layout)
-        
-        # 데드라인
-        if self.todo_item.get('deadline'):
-            self.deadline_label = QLabel(f"⏰ {self.todo_item.get('deadline')}")
-            self.deadline_label.setStyleSheet("color: #e74c3c; font-size: 9px; font-weight: bold;")
-            layout.addWidget(self.deadline_label)
-        
-        # 스타일링
+        root = QVBoxLayout(self)
+        root.setContentsMargins(12, 8, 12, 8)
+        root.setSpacing(6)
+
+        # 1) 상단: 제목 + 우선순위칩 + 상태칩
+        top = QHBoxLayout()
+        top.setSpacing(8)
+
+        title = QLabel(self.todo_item.get("title", ""))
+        title.setStyleSheet("font-weight: 700;")
+        top.addWidget(title, 1)
+
+        # priority chip
+        pr = self.todo_item.get("priority", "low")
+        text, bg, fg = self.PRIORITY_COLORS.get(pr, self.PRIORITY_COLORS["low"])
+        top.addWidget(Chip(text, bg, fg), 0)
+
+        # status chip
+        status_txt = self.todo_item.get("status", "pending").capitalize()
+        top.addWidget(Chip(status_txt, "#E0E7FF", "#3730A3"), 0)
+
+        root.addLayout(top)
+
+        # 2) 하단: 메타 정보(요청자/타입/데드라인)
+        meta = QHBoxLayout()
+        meta.setSpacing(12)
+
+        requester = Chip(f"요청자 · {self.todo_item.get('requester','')}", "#F3F4F6", "#374151")
+        typechip  = Chip(f"유형 · {self.todo_item.get('type','')}", "#F3F4F6", "#374151")
+        meta.addWidget(requester, 0)
+        meta.addWidget(typechip, 0)
+
+        deadline = self.todo_item.get("deadline")
+        if deadline:
+            meta.addWidget(Chip(f"마감 · {deadline}", "#FFE4E6", "#9F1239"), 0)
+
+        meta.addStretch(1)
+        root.addLayout(meta)
+
+        # 카드 스타일
         self.setStyleSheet("""
             QWidget {
-                border: 1px solid #ddd;
-                border-radius: 5px;
-                background-color: white;
-                margin: 2px;
+                border: 1px solid #E5E7EB;
+                border-radius: 10px;
+                background: #FFFFFF;
             }
-            QWidget:hover {
-                border-color: #4CAF50;
-                background-color: #f8f9fa;
-            }
+            QWidget:hover { border-color: #60A5FA; background: #F8FAFC; }
         """)
+
+# class TodoItemWidget(QWidget):
+#     """TODO 아이템 위젯"""
+#     def __init__(self, todo_item):
+#         super().__init__()
+#         self.todo_item = todo_item
+#         self.init_ui()
+    
+#     def init_ui(self):
+#         layout = QVBoxLayout(self)
+#         layout.setContentsMargins(10, 5, 10, 5)
+        
+#         # 제목과 우선순위
+#         title_layout = QHBoxLayout()
+        
+#         priority_icon = {"high": "🔴", "medium": "🟡", "low": "🟢"}
+#         icon = priority_icon.get(self.todo_item.get("priority", "low"), "⚪")
+        
+#         self.title_label = QLabel(f"{icon} {self.todo_item.get('title', '')}")
+#         self.title_label.setFont(QFont("Arial", 10, QFont.Weight.Bold))
+#         title_layout.addWidget(self.title_label)
+        
+#         title_layout.addStretch()
+        
+#         # 상태 표시
+#         self.status_label = QLabel(self.todo_item.get("status", "pending"))
+#         self.status_label.setStyleSheet("color: #666; font-size: 9px;")
+#         title_layout.addWidget(self.status_label)
+        
+#         layout.addLayout(title_layout)
+        
+#         # 요청자와 타입
+#         info_layout = QHBoxLayout()
+#         self.requester_label = QLabel(f"👤 {self.todo_item.get('requester', '')}")
+#         self.requester_label.setStyleSheet("color: #666; font-size: 9px;")
+#         info_layout.addWidget(self.requester_label)
+        
+#         info_layout.addStretch()
+        
+#         self.type_label = QLabel(f"🏷️ {self.todo_item.get('type', '')}")
+#         self.type_label.setStyleSheet("color: #666; font-size: 9px;")
+#         info_layout.addWidget(self.type_label)
+        
+#         layout.addLayout(info_layout)
+        
+#         # 데드라인
+#         if self.todo_item.get('deadline'):
+#             self.deadline_label = QLabel(f"⏰ {self.todo_item.get('deadline')}")
+#             self.deadline_label.setStyleSheet("color: #e74c3c; font-size: 9px; font-weight: bold;")
+#             layout.addWidget(self.deadline_label)
+        
+#         # 스타일링
+#         self.setStyleSheet("""
+#             QWidget {
+#                 border: 1px solid #ddd;
+#                 border-radius: 5px;
+#                 background-color: white;
+#                 margin: 2px;
+#             }
+#             QWidget:hover {
+#                 border-color: #4CAF50;
+#                 background-color: #f8f9fa;
+#             }
+#         """)
+
+class EmojiLabel(QLabel):
+    def __init__(self, text="", parent=None):
+        super().__init__(text, parent)
+        f = self.font()
+        f.setFamily("Segoe UI Emoji")  # 이모지 전용 폰트
+        self.setFont(f)
 
 
 class SmartAssistantGUI(QMainWindow):
@@ -420,30 +494,70 @@ class SmartAssistantGUI(QMainWindow):
         
         return panel
     
+    # def create_todo_tab(self):
+ 
+    #     tab = QWidget()
+    #     layout = QVBoxLayout(tab)
+
+    #     self.todo_list = QListWidget()
+    #     self.todo_list.setStyleSheet("""
+    #         QListWidget {
+    #             border: 1px solid #ddd;
+    #             border-radius: 5px;
+    #             background-color: #f8f9fa;
+    #         }
+    #         QListWidget::item {
+    #             padding: 5px;
+    #             border-bottom: 1px solid #eee;
+    #         }
+    #         QListWidget::item:selected {
+    #             background-color: #e3f2fd;
+    #         }
+    #     """)
+    #     layout.addWidget(self.todo_list)
+        
+    #     return tab
     def create_todo_tab(self):
-        """TODO 탭 생성"""
         tab = QWidget()
         layout = QVBoxLayout(tab)
-        
-        # TODO 리스트
+
         self.todo_list = QListWidget()
+        self.todo_list.setUniformItemSizes(True)      # 행 높이 균일
+        self.todo_list.setSpacing(6)
         self.todo_list.setStyleSheet("""
-            QListWidget {
-                border: 1px solid #ddd;
-                border-radius: 5px;
-                background-color: #f8f9fa;
-            }
-            QListWidget::item {
-                padding: 5px;
-                border-bottom: 1px solid #eee;
-            }
-            QListWidget::item:selected {
-                background-color: #e3f2fd;
-            }
+            QListWidget::item { padding: 0px; margin: 4px; }
+            QListWidget { background: #F8FAFC; }
         """)
         layout.addWidget(self.todo_list)
-        
         return tab
+
+    def update_message_table(self, messages):
+        self.message_table.setRowCount(len(messages))
+        self.message_table.verticalHeader().setDefaultSectionSize(36)  # 고정 행 높이
+        self.message_table.setWordWrap(False)
+
+        for i, msg in enumerate(messages):
+            def item(text):  # 엘라이드용
+                it = QTableWidgetItem(text or "")
+                it.setToolTip(text or "")
+                return it
+
+            self.message_table.setItem(i, 0, item(msg.get("platform", "")))
+            self.message_table.setItem(i, 1, item(msg.get("sender", "")))
+
+            content = msg.get("subject") or (msg.get("content", "")[:120])
+            self.message_table.setItem(i, 2, item(content))
+
+            date_str = msg.get("date", "")
+            if date_str:
+                try:
+                    from datetime import datetime
+                    dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+                    date_str = dt.strftime("%m-%d %H:%M")
+                except:
+                    pass
+            self.message_table.setItem(i, 3, item(date_str))
+
     
     def create_message_tab(self):
         """메시지 탭 생성"""
@@ -729,17 +843,75 @@ class SmartAssistantGUI(QMainWindow):
         
         event.accept()
 
+class Chip(QLabel):
+    def __init__(self, text, bg="#E5E7EB", fg="#111827"):
+        super().__init__(text)
+        self.setProperty("chip", True)
+        self.setStyleSheet(f"""
+            QLabel[chip="true"] {{
+                background: {bg};
+                color: {fg};
+                padding: 2px 8px;
+                border-radius: 999px;
+                font-weight: 600;
+            }}
+        """)
+
+# def main():
+#     """메인 함수"""
+#     app = QApplication(sys.argv)
+#     app.setApplicationName("Smart Assistant")
+#     app.setApplicationVersion("1.0")
+    
+#     window = SmartAssistantGUI()
+#     window.show()
+    
+#     sys.exit(app.exec())
 
 def main():
-    """메인 함수"""
     app = QApplication(sys.argv)
     app.setApplicationName("Smart Assistant")
     app.setApplicationVersion("1.0")
-    
+
+    # 1) OS 일관 테마
+    app.setStyle(QStyleFactory.create("Fusion"))
+
+    # 2) 전역 기본 글꼴(한글)
+    #  - 윈도우: 맑은 고딕이 가장 안정적
+    #  - Noto Sans KR 폰트를 동봉했다면 addApplicationFont로 등록 후 이름만 바꾸면 됩니다.
+    base_korean_font = QFont("Malgun Gothic", 10)
+    app.setFont(base_korean_font)
+
+    # 3) 전역 팔레트(살짝 명도 올린 중립 톤)
+    from PyQt6.QtGui import QPalette, QColor
+    pal = app.palette()
+    pal.setColor(QPalette.ColorRole.Window, QColor("#FAFAFA"))
+    pal.setColor(QPalette.ColorRole.Base,   QColor("#FFFFFF"))
+    pal.setColor(QPalette.ColorRole.Text,   QColor("#222222"))
+    pal.setColor(QPalette.ColorRole.Button, QColor("#FFFFFF"))
+    app.setPalette(pal)
+
+    # 4) 전역 스타일시트(여백/모서리/폰트크기 통일)
+    app.setStyleSheet("""
+        * { font-size: 12px; }
+        QGroupBox { font-weight: 600; border: 1px solid #E5E7EB; border-radius: 8px; margin-top: 8px; }
+        QGroupBox::title { subcontrol-origin: margin; left: 10px; padding: 0 4px; color:#111827; }
+        QLabel[role="title"] { font-size: 18px; font-weight: 800; color:#1F2937; }
+        QPushButton {
+            border: 0; border-radius: 8px; padding: 10px 12px; font-weight: 700;
+        }
+        QTableWidget, QListWidget {
+            border: 1px solid #E5E7EB; border-radius: 8px; background: #FFFFFF;
+        }
+        QHeaderView::section {
+            background: #F3F4F6; border: 0; padding: 8px; font-weight: 600;
+        }
+    """)
+
     window = SmartAssistantGUI()
     window.show()
-    
     sys.exit(app.exec())
+
 
 
 if __name__ == "__main__":

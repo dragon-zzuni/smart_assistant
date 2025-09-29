@@ -10,9 +10,9 @@ from dataclasses import dataclass
 from datetime import datetime
 
 try:
-    import openai
-except ImportError:
-    openai = None
+    from openai import AsyncOpenAI
+except Exception:
+    AsyncOpenAI = None
 
 from config.settings import LLM_CONFIG, PRIORITY_RULES
 
@@ -58,13 +58,13 @@ class MessageSummarizer:
         self.max_tokens = LLM_CONFIG.get("max_tokens", 1000)
         self.temperature = LLM_CONFIG.get("temperature", 0.3)
         
-        if openai and self.api_key:
-            openai.api_key = self.api_key
+        if AsyncOpenAI and self.api_key:
+            self.client = AsyncOpenAI(api_key=self.api_key)
             self.is_available = True
         else:
             self.is_available = False
             logger.warning("OpenAI API 키가 설정되지 않았습니다. 기본 요약 모드로 동작합니다.")
-    
+
     async def summarize_message(self, content: str, sender: str = "", subject: str = "") -> MessageSummary:
         """메시지 요약"""
         if self.is_available:
@@ -77,7 +77,7 @@ class MessageSummarizer:
         try:
             prompt = self._create_summarization_prompt(content, sender, subject)
             
-            response = await openai.ChatCompletion.acreate(
+            response = await self.client.chat.completions.create(
                 model=self.model,
                 messages=[
                     {"role": "system", "content": "당신은 업무용 메시지 분석 전문가입니다. 이메일과 메신저 메시지를 분석하여 요약, 핵심 포인트, 감정, 긴급도, 필요한 액션을 파악합니다."},
@@ -86,7 +86,6 @@ class MessageSummarizer:
                 max_tokens=self.max_tokens,
                 temperature=self.temperature
             )
-            
             result_text = response.choices[0].message.content
             return self._parse_llm_response(result_text, sender)
             

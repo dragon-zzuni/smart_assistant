@@ -1,0 +1,994 @@
+{
+  "success": true,
+  "todo_list": {
+    "generated_at": "2025-09-24T16:35:58.468569",
+    "total_items": 11,
+    "priority_stats": {
+      "high": 0,
+      "medium": 2,
+      "low": 13
+    },
+    "items": [
+      {
+        "id": "meeting_20250924_163558",
+        "title": "미팅 참석",
+        "description": "클라이언트 미팅 준비 자료 확인했습니다.",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "정대리",
+        "type": "meeting",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_005",
+          "sender": "정대리",
+          "subject": "",
+          "platform": "teams"
+        },
+        "created_at": "2025-09-24T16:35:58.463873"
+      },
+      {
+        "id": "review_20250924_163558",
+        "title": "문서 검토",
+        "description": "클라이언트 미팅 준비 자료 확인했습니다.",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "정대리",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_005",
+          "sender": "정대리",
+          "subject": "",
+          "platform": "teams"
+        },
+        "created_at": "2025-09-24T16:35:58.463873"
+      },
+      {
+        "id": "task_20250924_163558",
+        "title": "업무 처리",
+        "description": "프로젝트 문서 검토 부탁드립니다.",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "박대리",
+        "type": "task",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_002",
+          "sender": "박대리",
+          "subject": "",
+          "platform": "teams"
+        },
+        "created_at": "2025-09-24T16:35:58.467541"
+      },
+      {
+        "id": "review_20250924_163558",
+        "title": "문서 검토",
+        "description": "프로젝트 문서 검토 부탁드립니다.",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "박대리",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_002",
+          "sender": "박대리",
+          "subject": "",
+          "platform": "teams"
+        },
+        "created_at": "2025-09-24T16:35:58.467541"
+      },
+      {
+        "id": "review_20250924_163558",
+        "title": "문서 검토: New topic notification - \"https://www...",
+        "description": "New topic notification - \"https://www.click2trial.com/rapid-tone-reviews/\" Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rai",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "43",
+          "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "subject": "New topic notification - \"https://www.click2trial.com/rapid-tone-reviews/\"",
+          "platform": "email"
+        },
+        "created_at": "2025-09-24T16:35:58.460669"
+      },
+      {
+        "id": "deadline_20250924_163558",
+        "title": "마감 작업",
+        "description": "링크를 눌러 로그인을 완료하세요 Your link to log in.",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "Tumblr <no-reply@tumblr.com>",
+        "type": "deadline",
+        "status": "pending",
+        "source_message": {
+          "id": "46",
+          "sender": "Tumblr <no-reply@tumblr.com>",
+          "subject": "링크를 눌러 로그인을 완료하세요",
+          "platform": "email"
+        },
+        "created_at": "2025-09-24T16:35:58.452505"
+      },
+      {
+        "id": "response_20250924_163558",
+        "title": "답변 작성: Topic reply notification - \"Rainmeter 4...",
+        "description": "Topic reply notification - \"Rainmeter 4.2 Beta r3048 Available\" Hello acrombies,\r\n\r\nYou are receiving this noti",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "type": "response",
+        "status": "pending",
+        "source_message": {
+          "id": "42",
+          "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "subject": "Topic reply notification - \"Rainmeter 4.2 Beta r3048 Available\"",
+          "platform": "email"
+        },
+        "created_at": "2025-09-24T16:35:58.463873"
+      },
+      {
+        "id": "deadline_20250924_163558",
+        "title": "마감 작업",
+        "description": "월요일까지 보고서 제출 바랍니다.",
+        "priority": "medium",
+        "deadline": "2025-09-29T18:00:00",
+        "requester": "이부장",
+        "type": "deadline",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_003",
+          "sender": "이부장",
+          "subject": "",
+          "platform": "kakaowork"
+        },
+        "created_at": "2025-09-24T16:35:58.463873"
+      },
+      {
+        "id": "meeting_20250924_163558",
+        "title": "미팅 참석",
+        "description": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+        "priority": "medium",
+        "deadline": "2025-09-25T18:00:00",
+        "requester": "김과장",
+        "type": "meeting",
+        "status": "pending",
+        "source_message": {
+          "id": "msg_001",
+          "sender": "김과장",
+          "subject": "",
+          "platform": "slack"
+        },
+        "created_at": "2025-09-24T16:35:58.467541"
+      },
+      {
+        "id": "review_20250924_163558",
+        "title": "문서 검토: 개인정보 보호 설정\r\n\r\n개인정보 보호와 관련된 설정을 쉽게 선택할 수 있도록 정책에서 주...",
+        "description": "개인정보 보호 설정\r\n\r\n개인정보 보호와 관련된 설정을 쉽게 선택할 수 있도록 정책에서 주요 설정으로  \r\n더욱 간편하게 건너뛸 수 있도록 했습니다.\r\n\r\n개정된 정책은 여기에서 확인  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fp",
+        "priority": "low",
+        "deadline": "2025-05-25T18:00:00",
+        "requester": "Google <privacy-noreply@policies.google.com>",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "51",
+          "sender": "Google <privacy-noreply@policies.google.com>",
+          "subject": "개인정보처리방침 및 개인정보 보호 설정 개선",
+          "platform": "email"
+        },
+        "created_at": "2025-09-24T16:35:58.428214"
+      },
+      {
+        "id": "review_20250924_163558",
+        "title": "문서 검토: com/AccountChooser?Email=acrombie092@gmail...",
+        "description": "com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Fprivacycheckup%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n이번 달에 업데이트했습니다. 광고주의 기본",
+        "priority": "low",
+        "deadline": "2025-05-25T18:00:00",
+        "requester": "Google <privacy-noreply@policies.google.com>",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "51",
+          "sender": "Google <privacy-noreply@policies.google.com>",
+          "subject": "개인정보처리방침 및 개인정보 보호 설정 개선",
+          "platform": "email"
+        },
+        "created_at": "2025-09-24T16:35:58.428214"
+      }
+    ],
+    "summary": {
+      "total_messages": 15,
+      "total_actions": 11,
+      "urgent_items": 0,
+      "deadline_items": 4
+    }
+  },
+  "analysis_results": [
+    {
+      "message": {
+        "msg_id": "msg_001",
+        "sender": "김과장",
+        "subject": "",
+        "body": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+        "content": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+        "date": "2025-09-22T08:39:15.691829",
+        "type": "messenger",
+        "platform": "slack"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.53,
+        "priority_level": "medium",
+        "urgency_score": 0.6000000000000001,
+        "importance_score": 0.3,
+        "deadline_score": 0.0,
+        "sender_score": 0.8,
+        "keyword_score": 0.6,
+        "reasoning": [
+          "긴급 키워드가 포함되어 높은 긴급도를 보임",
+          "중요한 발신자로부터 온 메시지",
+          "중요 키워드가 다수 포함됨"
+        ],
+        "suggested_action": "일반 처리",
+        "estimated_time": "반나절"
+      },
+      "actions": [
+        {
+          "action_id": "meeting_20250924_163558",
+          "action_type": "meeting",
+          "title": "미팅 참석",
+          "description": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+          "deadline": "2025-09-25T18:00:00",
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "김과장",
+          "source_message_id": "msg_001",
+          "context": {
+            "keyword": "미팅",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-24T16:35:58.467541",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "msg_005",
+        "sender": "정대리",
+        "subject": "",
+        "body": "클라이언트 미팅 준비 자료 확인했습니다.",
+        "content": "클라이언트 미팅 준비 자료 확인했습니다.",
+        "date": "2025-09-22T10:39:15.694418",
+        "type": "messenger",
+        "platform": "teams"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.405,
+        "priority_level": "medium",
+        "urgency_score": 0.4,
+        "importance_score": 0.3,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.8999999999999999,
+        "reasoning": [
+          "중요 키워드가 다수 포함됨"
+        ],
+        "suggested_action": "검토 후 답변",
+        "estimated_time": "2-3시간"
+      },
+      "actions": [
+        {
+          "action_id": "meeting_20250924_163558",
+          "action_type": "meeting",
+          "title": "미팅 참석",
+          "description": "클라이언트 미팅 준비 자료 확인했습니다.",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "정대리",
+          "source_message_id": "msg_005",
+          "context": {
+            "keyword": "미팅",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-24T16:35:58.463873",
+          "status": "pending"
+        },
+        {
+          "action_id": "review_20250924_163558",
+          "action_type": "review",
+          "title": "문서 검토",
+          "description": "클라이언트 미팅 준비 자료 확인했습니다.",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "정대리",
+          "source_message_id": "msg_005",
+          "context": {
+            "keyword": "확인",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-24T16:35:58.463873",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "msg_003",
+        "sender": "이부장",
+        "subject": "",
+        "body": "월요일까지 보고서 제출 바랍니다.",
+        "content": "월요일까지 보고서 제출 바랍니다.",
+        "date": "2025-09-22T10:09:15.694413",
+        "type": "messenger",
+        "platform": "kakaowork"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.345,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.4,
+        "deadline_score": 0.7,
+        "sender_score": 0.8,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "중요한 발신자로부터 온 메시지",
+          "명시적인 데드라인이 있음"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "deadline_20250924_163558",
+          "action_type": "deadline",
+          "title": "마감 작업",
+          "description": "월요일까지 보고서 제출 바랍니다.",
+          "deadline": "2025-09-29T18:00:00",
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "이부장",
+          "source_message_id": "msg_003",
+          "context": {
+            "keyword": "제출",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-24T16:35:58.463873",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "51",
+        "sender": "Google <privacy-noreply@policies.google.com>",
+        "subject": "개인정보처리방침 및 개인정보 보호 설정 개선",
+        "body": "acrombie092@gmail.com\r\n\r\nGoogle은 Google에서 수집하는 정보와 해당 정보를 수집하는 이유를 광고주가 더  \r\n쉽게 이해할 수 있도록 개인정보처리방침을 이번 달에 업데이트합니다. 또한  \r\n광고주의 데이터를 보호하고 개인정보를 안전하게 유지하고자 Google에서  \r\n제공하는 개인정보 보호 진단 및 다른 설정을 개선하기 위한 조치도 취했습니다.\r\n\r\n기존 설정이나 정보가 처리되는 방식에는 변화가 없습니다. Google의 데이터  \r\n처리를 설명하는 방식과 사용자가 데이터의 업데이트, 관리, 내보내기, 삭제에  \r\n사용할 수 있는 옵션을 설명하는 방법이 개선되었을 뿐입니다.\r\n\r\n이러한 업데이트는 유럽연합에서 새로운 데이터 보호 규정이 적용되는 데 따른  \r\n것으로 Google에서는 이번 기회에 전 세계 Google 사용자에게 더 나은 환경을  \r\n제공하고자 합니다.\r\n\r\n개인정보처리방침에 대한 이해 증진\r\n\r\n단순해진 구조와 명확해진 표현\r\n\r\n원하는 정보를 더욱 쉽게 찾을 수 있도록 정책의 탐색 방식과 구성을  \r\n개선했습니다. 또한 Google의 데이터 처리 방식을 보다 명확한 표현으로 더욱  \r\n상세하게 설명했습니다.\r\n\r\n이해를 돕기 위해 추가된 동영상과 삽화\r\n\r\n텍스트 자체보다는 시각적 이미지를 곁들인 설명이 이해하기가 더 쉬운 경우가  \r\n많으므로 정책 전반에 간단한 동영상과 삽화를 추가했습니다.\r\n\r\n내장된 개인정보 보호 설정\r\n\r\n개인정보 보호와 관련된 설정을 쉽게 선택할 수 있도록 정책에서 주요 설정으로  \r\n더욱 간편하게 건너뛸 수 있도록 했습니다.\r\n\r\n개정된 정책은 여기에서 확인  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fpolicies.google.com%2Fprivacy%2Fupdate%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>할  \r\n수 있으며 2018년 5월 25일부터 적용됩니다.\r\n\r\n개인정보 보호 설정 개선\r\n\r\n지난해 Google에서는 광고주가 Google 계정에서 더욱 효율적으로 데이터를  \r\n액세스 및 관리할 수 있도록 내 활동  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyactivity.google.com%2Fmyactivity%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n업데이트했습니다. 또한 대시보드  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Fdashboard%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>를  \r\n재설계하여 사용 중인 제품 및 제품과 연결된 데이터에 대한 개요를 쉽게 파악할  \r\n수 있게 했습니다.\r\n\r\nGoogle에서는 광고주가 더욱 정확한 정보를 토대로 주요 개인정보 보호 설정을  \r\n선택할 수 있도록 새로운 삽화와 예를 추가하여 개인정보 보호 진단  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Fprivacycheckup%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n이번 달에 업데이트했습니다. 광고주의 기본설정은 시간이 지나면서 변경될 수  \r\n있기 때문에 새로운 개인정보 보호 진단에서는 정기 알림을 신청하여 개인정보  \r\n보호 설정을 점검할 수 있도록 했습니다.\r\n\r\n이를 비롯한 다른 개인정보 보호 관리 설정에 대해 자세히 알아보려면 Google  \r\n계정  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n방문하세요.\r\n\r\n(c) 2018 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043\r\n\r\n본 이메일은 Google 계정에 관한 새로운 소식을 전하고자 acrombie092@gmail.com  \r\n(으)로 발송되었습니다.",
+        "content": "acrombie092@gmail.com\r\n\r\nGoogle은 Google에서 수집하는 정보와 해당 정보를 수집하는 이유를 광고주가 더  \r\n쉽게 이해할 수 있도록 개인정보처리방침을 이번 달에 업데이트합니다. 또한  \r\n광고주의 데이터를 보호하고 개인정보를 안전하게 유지하고자 Google에서  \r\n제공하는 개인정보 보호 진단 및 다른 설정을 개선하기 위한 조치도 취했습니다.\r\n\r\n기존 설정이나 정보가 처리되는 방식에는 변화가 없습니다. Google의 데이터  \r\n처리를 설명하는 방식과 사용자가 데이터의 업데이트, 관리, 내보내기, 삭제에  \r\n사용할 수 있는 옵션을 설명하는 방법이 개선되었을 뿐입니다.\r\n\r\n이러한 업데이트는 유럽연합에서 새로운 데이터 보호 규정이 적용되는 데 따른  \r\n것으로 Google에서는 이번 기회에 전 세계 Google 사용자에게 더 나은 환경을  \r\n제공하고자 합니다.\r\n\r\n개인정보처리방침에 대한 이해 증진\r\n\r\n단순해진 구조와 명확해진 표현\r\n\r\n원하는 정보를 더욱 쉽게 찾을 수 있도록 정책의 탐색 방식과 구성을  \r\n개선했습니다. 또한 Google의 데이터 처리 방식을 보다 명확한 표현으로 더욱  \r\n상세하게 설명했습니다.\r\n\r\n이해를 돕기 위해 추가된 동영상과 삽화\r\n\r\n텍스트 자체보다는 시각적 이미지를 곁들인 설명이 이해하기가 더 쉬운 경우가  \r\n많으므로 정책 전반에 간단한 동영상과 삽화를 추가했습니다.\r\n\r\n내장된 개인정보 보호 설정\r\n\r\n개인정보 보호와 관련된 설정을 쉽게 선택할 수 있도록 정책에서 주요 설정으로  \r\n더욱 간편하게 건너뛸 수 있도록 했습니다.\r\n\r\n개정된 정책은 여기에서 확인  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fpolicies.google.com%2Fprivacy%2Fupdate%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>할  \r\n수 있으며 2018년 5월 25일부터 적용됩니다.\r\n\r\n개인정보 보호 설정 개선\r\n\r\n지난해 Google에서는 광고주가 Google 계정에서 더욱 효율적으로 데이터를  \r\n액세스 및 관리할 수 있도록 내 활동  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyactivity.google.com%2Fmyactivity%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n업데이트했습니다. 또한 대시보드  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Fdashboard%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>를  \r\n재설계하여 사용 중인 제품 및 제품과 연결된 데이터에 대한 개요를 쉽게 파악할  \r\n수 있게 했습니다.\r\n\r\nGoogle에서는 광고주가 더욱 정확한 정보를 토대로 주요 개인정보 보호 설정을  \r\n선택할 수 있도록 새로운 삽화와 예를 추가하여 개인정보 보호 진단  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Fprivacycheckup%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n이번 달에 업데이트했습니다. 광고주의 기본설정은 시간이 지나면서 변경될 수  \r\n있기 때문에 새로운 개인정보 보호 진단에서는 정기 알림을 신청하여 개인정보  \r\n보호 설정을 점검할 수 있도록 했습니다.\r\n\r\n이를 비롯한 다른 개인정보 보호 관리 설정에 대해 자세히 알아보려면 Google  \r\n계정  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n방문하세요.\r\n\r\n(c) 2018 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043\r\n\r\n본 이메일은 Google 계정에 관한 새로운 소식을 전하고자 acrombie092@gmail.com  \r\n(으)로 발송되었습니다.",
+        "date": "2018-05-12T11:41:14-07:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.265,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.3,
+        "sender_score": 0.4,
+        "keyword_score": 0.6,
+        "reasoning": [
+          "중요 키워드가 다수 포함됨"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "review_20250924_163558",
+          "action_type": "review",
+          "title": "문서 검토: 개인정보 보호 설정\r\n\r\n개인정보 보호와 관련된 설정을 쉽게 선택할 수 있도록 정책에서 주...",
+          "description": "개인정보 보호 설정\r\n\r\n개인정보 보호와 관련된 설정을 쉽게 선택할 수 있도록 정책에서 주요 설정으로  \r\n더욱 간편하게 건너뛸 수 있도록 했습니다.\r\n\r\n개정된 정책은 여기에서 확인  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fp",
+          "deadline": "2025-05-25T18:00:00",
+          "priority": "low",
+          "assignee": "나",
+          "requester": "Google <privacy-noreply@policies.google.com>",
+          "source_message_id": "51",
+          "context": {
+            "keyword": "확인",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-24T16:35:58.428214",
+          "status": "pending"
+        },
+        {
+          "action_id": "review_20250924_163558",
+          "action_type": "review",
+          "title": "문서 검토: com/AccountChooser?Email=acrombie092@gmail...",
+          "description": "com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Fprivacycheckup%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n이번 달에 업데이트했습니다. 광고주의 기본",
+          "deadline": "2025-05-25T18:00:00",
+          "priority": "low",
+          "assignee": "나",
+          "requester": "Google <privacy-noreply@policies.google.com>",
+          "source_message_id": "51",
+          "context": {
+            "keyword": "check",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-24T16:35:58.428214",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "msg_004",
+        "sender": "최팀장",
+        "subject": "",
+        "body": "오늘 점심 같이 드실까요?",
+        "content": "오늘 점심 같이 드실까요?",
+        "date": "2025-09-22T10:24:15.694416",
+        "type": "messenger",
+        "platform": "slack"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.26,
+        "priority_level": "low",
+        "urgency_score": 0.2,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.8,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "중요한 발신자로부터 온 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "msg_002",
+        "sender": "박대리",
+        "subject": "",
+        "body": "프로젝트 문서 검토 부탁드립니다.",
+        "content": "프로젝트 문서 검토 부탁드립니다.",
+        "date": "2025-09-22T09:39:15.694401",
+        "type": "messenger",
+        "platform": "teams"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.21500000000000002,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.8,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "업무상 중요한 내용 포함"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "task_20250924_163558",
+          "action_type": "task",
+          "title": "업무 처리",
+          "description": "프로젝트 문서 검토 부탁드립니다.",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "박대리",
+          "source_message_id": "msg_002",
+          "context": {
+            "keyword": "프로젝트",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-24T16:35:58.467541",
+          "status": "pending"
+        },
+        {
+          "action_id": "review_20250924_163558",
+          "action_type": "review",
+          "title": "문서 검토",
+          "description": "프로젝트 문서 검토 부탁드립니다.",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "박대리",
+          "source_message_id": "msg_002",
+          "context": {
+            "keyword": "검토",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-24T16:35:58.467541",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "43",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"https://www.click2trial.com/rapid-tone-reviews/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby JoyPhillips since your last visit,\r\n\"https://www.click2trial.com/rapid-tone-reviews/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby JoyPhillips since your last visit,\r\n\"https://www.click2trial.com/rapid-tone-reviews/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-05-02T09:47:11+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.2,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.4,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "review_20250924_163558",
+          "action_type": "review",
+          "title": "문서 검토: New topic notification - \"https://www...",
+          "description": "New topic notification - \"https://www.click2trial.com/rapid-tone-reviews/\" Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rai",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "source_message_id": "43",
+          "context": {
+            "keyword": "review",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-24T16:35:58.460669",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "50",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://advisorwellness.com/rapid-tone/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby LevSmith since your last visit,\r\n\"http://advisorwellness.com/rapid-tone/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby LevSmith since your last visit,\r\n\"http://advisorwellness.com/rapid-tone/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-05-12T12:28:53+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "49",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://order4healthsupplement.com/rapid-tone-weight-loss/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby RobiChung since your last visit,\r\n\"http://order4healthsupplement.com/rapid-tone-weight-loss/\". You can use\r\nthe following link to view the forum, no more notifications will be sent\r\nuntil you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby RobiChung since your last visit,\r\n\"http://order4healthsupplement.com/rapid-tone-weight-loss/\". You can use\r\nthe following link to view the forum, no more notifications will be sent\r\nuntil you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-05-11T07:12:36+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "48",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://www.facts4supplement.com/keto-6x/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Georder since your last visit,\r\n\"http://www.facts4supplement.com/keto-6x/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Georder since your last visit,\r\n\"http://www.facts4supplement.com/keto-6x/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-05-10T12:43:25+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "47",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://advisorwellness.com/keto-purefit/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby JasmineQuinones since your last visit,\r\n\"http://advisorwellness.com/keto-purefit/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby JasmineQuinones since your last visit,\r\n\"http://advisorwellness.com/keto-purefit/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-05-10T09:53:01+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "46",
+        "sender": "Tumblr <no-reply@tumblr.com>",
+        "subject": "링크를 눌러 로그인을 완료하세요",
+        "body": "Your link to log in.",
+        "content": "Your link to log in.",
+        "date": "2018-05-08T18:22:14+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "deadline_20250924_163558",
+          "action_type": "deadline",
+          "title": "마감 작업",
+          "description": "링크를 눌러 로그인을 완료하세요 Your link to log in.",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "Tumblr <no-reply@tumblr.com>",
+          "source_message_id": "46",
+          "context": {
+            "keyword": "완료",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-24T16:35:58.452505",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "45",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"https://www.click2trial.com/natural-keto-diet/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby MachelleOrtiz since your last visit,\r\n\"https://www.click2trial.com/natural-keto-diet/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby MachelleOrtiz since your last visit,\r\n\"https://www.click2trial.com/natural-keto-diet/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-05-07T09:56:58+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "44",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://chiefsupplement.com/rapid-tone-diet/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby LindaSalinas since your last visit,\r\n\"http://chiefsupplement.com/rapid-tone-diet/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby LindaSalinas since your last visit,\r\n\"http://chiefsupplement.com/rapid-tone-diet/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-05-04T07:29:12+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    },
+    {
+      "message": {
+        "msg_id": "42",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "Topic reply notification - \"Rainmeter 4.2 Beta r3048 Available\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.2 Beta r3048 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by jsmorley since your last visit. No more notifications\r\nwill be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=28388&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=28388\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=28388&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.2 Beta r3048 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by jsmorley since your last visit. No more notifications\r\nwill be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=28388&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=28388\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=28388&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-05-02T02:55:53+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": null,
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "response_20250924_163558",
+          "action_type": "response",
+          "title": "답변 작성: Topic reply notification - \"Rainmeter 4...",
+          "description": "Topic reply notification - \"Rainmeter 4.2 Beta r3048 Available\" Hello acrombies,\r\n\r\nYou are receiving this noti",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "source_message_id": "42",
+          "context": {
+            "keyword": "reply",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-09-24T16:35:58.463873",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-09-24T16:35:58.467541"
+    }
+  ],
+  "messages": [
+    {
+      "msg_id": "51",
+      "sender": "Google <privacy-noreply@policies.google.com>",
+      "subject": "개인정보처리방침 및 개인정보 보호 설정 개선",
+      "body": "acrombie092@gmail.com\r\n\r\nGoogle은 Google에서 수집하는 정보와 해당 정보를 수집하는 이유를 광고주가 더  \r\n쉽게 이해할 수 있도록 개인정보처리방침을 이번 달에 업데이트합니다. 또한  \r\n광고주의 데이터를 보호하고 개인정보를 안전하게 유지하고자 Google에서  \r\n제공하는 개인정보 보호 진단 및 다른 설정을 개선하기 위한 조치도 취했습니다.\r\n\r\n기존 설정이나 정보가 처리되는 방식에는 변화가 없습니다. Google의 데이터  \r\n처리를 설명하는 방식과 사용자가 데이터의 업데이트, 관리, 내보내기, 삭제에  \r\n사용할 수 있는 옵션을 설명하는 방법이 개선되었을 뿐입니다.\r\n\r\n이러한 업데이트는 유럽연합에서 새로운 데이터 보호 규정이 적용되는 데 따른  \r\n것으로 Google에서는 이번 기회에 전 세계 Google 사용자에게 더 나은 환경을  \r\n제공하고자 합니다.\r\n\r\n개인정보처리방침에 대한 이해 증진\r\n\r\n단순해진 구조와 명확해진 표현\r\n\r\n원하는 정보를 더욱 쉽게 찾을 수 있도록 정책의 탐색 방식과 구성을  \r\n개선했습니다. 또한 Google의 데이터 처리 방식을 보다 명확한 표현으로 더욱  \r\n상세하게 설명했습니다.\r\n\r\n이해를 돕기 위해 추가된 동영상과 삽화\r\n\r\n텍스트 자체보다는 시각적 이미지를 곁들인 설명이 이해하기가 더 쉬운 경우가  \r\n많으므로 정책 전반에 간단한 동영상과 삽화를 추가했습니다.\r\n\r\n내장된 개인정보 보호 설정\r\n\r\n개인정보 보호와 관련된 설정을 쉽게 선택할 수 있도록 정책에서 주요 설정으로  \r\n더욱 간편하게 건너뛸 수 있도록 했습니다.\r\n\r\n개정된 정책은 여기에서 확인  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fpolicies.google.com%2Fprivacy%2Fupdate%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>할  \r\n수 있으며 2018년 5월 25일부터 적용됩니다.\r\n\r\n개인정보 보호 설정 개선\r\n\r\n지난해 Google에서는 광고주가 Google 계정에서 더욱 효율적으로 데이터를  \r\n액세스 및 관리할 수 있도록 내 활동  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyactivity.google.com%2Fmyactivity%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n업데이트했습니다. 또한 대시보드  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Fdashboard%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>를  \r\n재설계하여 사용 중인 제품 및 제품과 연결된 데이터에 대한 개요를 쉽게 파악할  \r\n수 있게 했습니다.\r\n\r\nGoogle에서는 광고주가 더욱 정확한 정보를 토대로 주요 개인정보 보호 설정을  \r\n선택할 수 있도록 새로운 삽화와 예를 추가하여 개인정보 보호 진단  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Fprivacycheckup%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n이번 달에 업데이트했습니다. 광고주의 기본설정은 시간이 지나면서 변경될 수  \r\n있기 때문에 새로운 개인정보 보호 진단에서는 정기 알림을 신청하여 개인정보  \r\n보호 설정을 점검할 수 있도록 했습니다.\r\n\r\n이를 비롯한 다른 개인정보 보호 관리 설정에 대해 자세히 알아보려면 Google  \r\n계정  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n방문하세요.\r\n\r\n(c) 2018 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043\r\n\r\n본 이메일은 Google 계정에 관한 새로운 소식을 전하고자 acrombie092@gmail.com  \r\n(으)로 발송되었습니다.",
+      "content": "acrombie092@gmail.com\r\n\r\nGoogle은 Google에서 수집하는 정보와 해당 정보를 수집하는 이유를 광고주가 더  \r\n쉽게 이해할 수 있도록 개인정보처리방침을 이번 달에 업데이트합니다. 또한  \r\n광고주의 데이터를 보호하고 개인정보를 안전하게 유지하고자 Google에서  \r\n제공하는 개인정보 보호 진단 및 다른 설정을 개선하기 위한 조치도 취했습니다.\r\n\r\n기존 설정이나 정보가 처리되는 방식에는 변화가 없습니다. Google의 데이터  \r\n처리를 설명하는 방식과 사용자가 데이터의 업데이트, 관리, 내보내기, 삭제에  \r\n사용할 수 있는 옵션을 설명하는 방법이 개선되었을 뿐입니다.\r\n\r\n이러한 업데이트는 유럽연합에서 새로운 데이터 보호 규정이 적용되는 데 따른  \r\n것으로 Google에서는 이번 기회에 전 세계 Google 사용자에게 더 나은 환경을  \r\n제공하고자 합니다.\r\n\r\n개인정보처리방침에 대한 이해 증진\r\n\r\n단순해진 구조와 명확해진 표현\r\n\r\n원하는 정보를 더욱 쉽게 찾을 수 있도록 정책의 탐색 방식과 구성을  \r\n개선했습니다. 또한 Google의 데이터 처리 방식을 보다 명확한 표현으로 더욱  \r\n상세하게 설명했습니다.\r\n\r\n이해를 돕기 위해 추가된 동영상과 삽화\r\n\r\n텍스트 자체보다는 시각적 이미지를 곁들인 설명이 이해하기가 더 쉬운 경우가  \r\n많으므로 정책 전반에 간단한 동영상과 삽화를 추가했습니다.\r\n\r\n내장된 개인정보 보호 설정\r\n\r\n개인정보 보호와 관련된 설정을 쉽게 선택할 수 있도록 정책에서 주요 설정으로  \r\n더욱 간편하게 건너뛸 수 있도록 했습니다.\r\n\r\n개정된 정책은 여기에서 확인  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fpolicies.google.com%2Fprivacy%2Fupdate%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>할  \r\n수 있으며 2018년 5월 25일부터 적용됩니다.\r\n\r\n개인정보 보호 설정 개선\r\n\r\n지난해 Google에서는 광고주가 Google 계정에서 더욱 효율적으로 데이터를  \r\n액세스 및 관리할 수 있도록 내 활동  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyactivity.google.com%2Fmyactivity%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n업데이트했습니다. 또한 대시보드  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Fdashboard%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>를  \r\n재설계하여 사용 중인 제품 및 제품과 연결된 데이터에 대한 개요를 쉽게 파악할  \r\n수 있게 했습니다.\r\n\r\nGoogle에서는 광고주가 더욱 정확한 정보를 토대로 주요 개인정보 보호 설정을  \r\n선택할 수 있도록 새로운 삽화와 예를 추가하여 개인정보 보호 진단  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Fprivacycheckup%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n이번 달에 업데이트했습니다. 광고주의 기본설정은 시간이 지나면서 변경될 수  \r\n있기 때문에 새로운 개인정보 보호 진단에서는 정기 알림을 신청하여 개인정보  \r\n보호 설정을 점검할 수 있도록 했습니다.\r\n\r\n이를 비롯한 다른 개인정보 보호 관리 설정에 대해 자세히 알아보려면 Google  \r\n계정  \r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dpp-email%26utm_medium%3Demail%26utm_campaign%3Dglobal>을  \r\n방문하세요.\r\n\r\n(c) 2018 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043\r\n\r\n본 이메일은 Google 계정에 관한 새로운 소식을 전하고자 acrombie092@gmail.com  \r\n(으)로 발송되었습니다.",
+      "date": "2018-05-12T11:41:14-07:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "50",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://advisorwellness.com/rapid-tone/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby LevSmith since your last visit,\r\n\"http://advisorwellness.com/rapid-tone/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby LevSmith since your last visit,\r\n\"http://advisorwellness.com/rapid-tone/\". You can use the following link to\r\nview the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-05-12T12:28:53+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "49",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://order4healthsupplement.com/rapid-tone-weight-loss/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby RobiChung since your last visit,\r\n\"http://order4healthsupplement.com/rapid-tone-weight-loss/\". You can use\r\nthe following link to view the forum, no more notifications will be sent\r\nuntil you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby RobiChung since your last visit,\r\n\"http://order4healthsupplement.com/rapid-tone-weight-loss/\". You can use\r\nthe following link to view the forum, no more notifications will be sent\r\nuntil you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-05-11T07:12:36+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "48",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://www.facts4supplement.com/keto-6x/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Georder since your last visit,\r\n\"http://www.facts4supplement.com/keto-6x/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby Georder since your last visit,\r\n\"http://www.facts4supplement.com/keto-6x/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-05-10T12:43:25+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "47",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://advisorwellness.com/keto-purefit/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby JasmineQuinones since your last visit,\r\n\"http://advisorwellness.com/keto-purefit/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby JasmineQuinones since your last visit,\r\n\"http://advisorwellness.com/keto-purefit/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-05-10T09:53:01+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "46",
+      "sender": "Tumblr <no-reply@tumblr.com>",
+      "subject": "링크를 눌러 로그인을 완료하세요",
+      "body": "Your link to log in.",
+      "content": "Your link to log in.",
+      "date": "2018-05-08T18:22:14+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "45",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"https://www.click2trial.com/natural-keto-diet/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby MachelleOrtiz since your last visit,\r\n\"https://www.click2trial.com/natural-keto-diet/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby MachelleOrtiz since your last visit,\r\n\"https://www.click2trial.com/natural-keto-diet/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-05-07T09:56:58+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "44",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://chiefsupplement.com/rapid-tone-diet/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby LindaSalinas since your last visit,\r\n\"http://chiefsupplement.com/rapid-tone-diet/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby LindaSalinas since your last visit,\r\n\"http://chiefsupplement.com/rapid-tone-diet/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-05-04T07:29:12+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "43",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"https://www.click2trial.com/rapid-tone-reviews/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby JoyPhillips since your last visit,\r\n\"https://www.click2trial.com/rapid-tone-reviews/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby JoyPhillips since your last visit,\r\n\"https://www.click2trial.com/rapid-tone-reviews/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-05-02T09:47:11+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "42",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "Topic reply notification - \"Rainmeter 4.2 Beta r3048 Available\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.2 Beta r3048 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by jsmorley since your last visit. No more notifications\r\nwill be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=28388&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=28388\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=28388&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.2 Beta r3048 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by jsmorley since your last visit. No more notifications\r\nwill be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=28388&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=28388\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=28388&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-05-02T02:55:53+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "msg_005",
+      "sender": "정대리",
+      "subject": "",
+      "body": "클라이언트 미팅 준비 자료 확인했습니다.",
+      "content": "클라이언트 미팅 준비 자료 확인했습니다.",
+      "date": "2025-09-22T10:39:15.694418",
+      "type": "messenger",
+      "platform": "teams"
+    },
+    {
+      "msg_id": "msg_004",
+      "sender": "최팀장",
+      "subject": "",
+      "body": "오늘 점심 같이 드실까요?",
+      "content": "오늘 점심 같이 드실까요?",
+      "date": "2025-09-22T10:24:15.694416",
+      "type": "messenger",
+      "platform": "slack"
+    },
+    {
+      "msg_id": "msg_003",
+      "sender": "이부장",
+      "subject": "",
+      "body": "월요일까지 보고서 제출 바랍니다.",
+      "content": "월요일까지 보고서 제출 바랍니다.",
+      "date": "2025-09-22T10:09:15.694413",
+      "type": "messenger",
+      "platform": "kakaowork"
+    },
+    {
+      "msg_id": "msg_002",
+      "sender": "박대리",
+      "subject": "",
+      "body": "프로젝트 문서 검토 부탁드립니다.",
+      "content": "프로젝트 문서 검토 부탁드립니다.",
+      "date": "2025-09-22T09:39:15.694401",
+      "type": "messenger",
+      "platform": "teams"
+    },
+    {
+      "msg_id": "msg_001",
+      "sender": "김과장",
+      "subject": "",
+      "body": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+      "content": "내일 오전 10시에 팀 미팅 있습니다. 준비해주세요.",
+      "date": "2025-09-22T08:39:15.691829",
+      "type": "messenger",
+      "platform": "slack"
+    }
+  ]
+}
