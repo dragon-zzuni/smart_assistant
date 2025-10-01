@@ -146,7 +146,8 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-.json
+/data/messenger/**
+
 
 # Pyre type checker
 .pyre/

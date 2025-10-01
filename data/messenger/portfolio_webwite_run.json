@@ -1,0 +1,438 @@
+{
+  "auto_tick": {
+    "start": {
+      "auto_tick": true,
+      "current_tick": 0,
+      "is_running": true,
+      "message": "Automatic ticking enabled"
+    },
+    "state_before_stop": {
+      "auto_tick": true,
+      "current_tick": 2,
+      "is_running": true
+    },
+    "stop": {
+      "auto_tick": false,
+      "current_tick": 2,
+      "is_running": true,
+      "message": "Automatic ticking disabled"
+    }
+  },
+  "chat_messages": {
+    "developer": [
+      {
+        "body": "Tick 1: Hourly plan tick 1 for Hana Kim (auto)",
+        "id": 1,
+        "room_slug": "dm:elliot:hana",
+        "sender": "hana",
+        "sent_at": "2025-10-01T03:45:52"
+      },
+      {
+        "body": "Hana, I'm on Hourly plan tick 1 for Hana Kim (auto).",
+        "id": 2,
+        "room_slug": "dm:elliot:hana",
+        "sender": "elliot",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Tick 1: Hourly plan tick 1 for Elliot Park (auto)",
+        "id": 3,
+        "room_slug": "dm:elliot:hana",
+        "sender": "elliot",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Client request: add testimonial carousel. Let's sync on next steps.",
+        "id": 4,
+        "room_slug": "dm:elliot:hana",
+        "sender": "hana",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Elliot, I'm on Hourly plan tick 1 for Elliot Park (auto).",
+        "id": 5,
+        "room_slug": "dm:elliot:hana",
+        "sender": "hana",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Tick 2: Hourly plan tick 2 for Hana Kim (auto)",
+        "id": 6,
+        "room_slug": "dm:elliot:hana",
+        "sender": "hana",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Hana, I'm on Support Hana Kim on add testimonial carousel.",
+        "id": 7,
+        "room_slug": "dm:elliot:hana",
+        "sender": "elliot",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Hana, I'm on Hourly plan tick 2 for Hana Kim (auto).",
+        "id": 8,
+        "room_slug": "dm:elliot:hana",
+        "sender": "elliot",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Tick 2: Hourly plan tick 2 for Elliot Park (auto)",
+        "id": 9,
+        "room_slug": "dm:elliot:hana",
+        "sender": "elliot",
+        "sent_at": "2025-10-01T03:45:53"
+      }
+    ],
+    "hana": [
+      {
+        "body": "Tick 1: Hourly plan tick 1 for Hana Kim (auto)",
+        "id": 1,
+        "room_slug": "dm:elliot:hana",
+        "sender": "hana",
+        "sent_at": "2025-10-01T03:45:52"
+      },
+      {
+        "body": "Hana, I'm on Hourly plan tick 1 for Hana Kim (auto).",
+        "id": 2,
+        "room_slug": "dm:elliot:hana",
+        "sender": "elliot",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Tick 1: Hourly plan tick 1 for Elliot Park (auto)",
+        "id": 3,
+        "room_slug": "dm:elliot:hana",
+        "sender": "elliot",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Client request: add testimonial carousel. Let's sync on next steps.",
+        "id": 4,
+        "room_slug": "dm:elliot:hana",
+        "sender": "hana",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Elliot, I'm on Hourly plan tick 1 for Elliot Park (auto).",
+        "id": 5,
+        "room_slug": "dm:elliot:hana",
+        "sender": "hana",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Tick 2: Hourly plan tick 2 for Hana Kim (auto)",
+        "id": 6,
+        "room_slug": "dm:elliot:hana",
+        "sender": "hana",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Hana, I'm on Support Hana Kim on add testimonial carousel.",
+        "id": 7,
+        "room_slug": "dm:elliot:hana",
+        "sender": "elliot",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Hana, I'm on Hourly plan tick 2 for Hana Kim (auto).",
+        "id": 8,
+        "room_slug": "dm:elliot:hana",
+        "sender": "elliot",
+        "sent_at": "2025-10-01T03:45:53"
+      },
+      {
+        "body": "Tick 2: Hourly plan tick 2 for Elliot Park (auto)",
+        "id": 9,
+        "room_slug": "dm:elliot:hana",
+        "sender": "elliot",
+        "sent_at": "2025-10-01T03:45:53"
+      }
+    ]
+  },
+  "daily_reports": {
+    "developer": [
+      {
+        "created_at": "2025-10-01 03:45:53",
+        "day_index": 0,
+        "id": 2,
+        "model_used": "stub-daily-report",
+        "person_id": 2,
+        "report": "Daily report for Elliot Park day 0",
+        "schedule_outline": "08:00-08:15 Code review\n08:15-08:30 Code review\n08:30-08:45 Code review\n08:45-09:00 Code review\n09:00-09:15 Feature implementation\n09:15-09:30 Feature implementation\n09:30-09:45 Feature implementation\n09:45-10:00 Feature implementation\n10:00-10:15 Feature implementation\n10:15-10:30 Feature implementation\n10:30-10:45 Feature implementation\n10:45-11:00 Feature implementation",
+        "tokens_used": 1
+      }
+    ],
+    "hana": [
+      {
+        "created_at": "2025-10-01 03:45:53",
+        "day_index": 0,
+        "id": 1,
+        "model_used": "stub-daily-report",
+        "person_id": 1,
+        "report": "Daily report for Hana Kim day 0",
+        "schedule_outline": "09:00-09:15 Stand-up & triage\n09:15-09:30 Stand-up & triage\n09:30-09:45 Stand-up & triage\n09:45-10:00 Stand-up & triage\n10:00-10:15 Design sprint\n10:15-10:30 Design sprint\n10:30-10:45 Design sprint\n10:45-11:00 Design sprint\n11:00-11:15 Design sprint\n11:15-11:30 Design sprint\n11:30-11:45 Design sprint\n11:45-12:00 Design sprint",
+        "tokens_used": 1
+      }
+    ]
+  },
+  "emails": {
+    "developer": [
+      {
+        "bcc": [],
+        "body": "Hey Elliot,\n\nCurrent focus:\nHourly plan tick 2 for Hana Kim (auto)\nAdjustments from live collaboration:\n- Plan response to client request: add testimonial carousel.\n- Acknowledged by Elliot Park: Hana, I'm on Hourly plan tick 1 for Hana Kim (auto).\n\nRequest: Hourly plan tick 2 for Hana Kim (auto)\nPing me if you need anything shifted.",
+        "cc": [],
+        "id": 4,
+        "sender": "hana.kim@vdos.local",
+        "sent_at": "2025-10-01T03:45:53",
+        "subject": "[Tick 2] Hana Kim -> Elliot Park: Auto focus",
+        "thread_id": null,
+        "to": [
+          "elliot.park@vdos.local"
+        ]
+      },
+      {
+        "bcc": [],
+        "body": "Hey Elliot,\n\nCurrent focus:\nHourly plan tick 1 for Hana Kim (auto)\n\nRequest: Hourly plan tick 1 for Hana Kim (auto)\nPing me if you need anything shifted.",
+        "cc": [],
+        "id": 1,
+        "sender": "hana.kim@vdos.local",
+        "sent_at": "2025-10-01T03:45:52",
+        "subject": "[Tick 1] Hana Kim -> Elliot Park: Auto focus",
+        "thread_id": null,
+        "to": [
+          "elliot.park@vdos.local"
+        ]
+      }
+    ],
+    "hana": [
+      {
+        "bcc": [],
+        "body": "Hey Hana,\n\nCurrent focus:\nHourly plan tick 2 for Elliot Park (auto)\nAdjustments from live collaboration:\n- Partner with Hana Kim on client request: add testimonial carousel.\n- Handle request from Hana Kim: Support Hana Kim on add testimonial carousel.\n\nRequest: Hourly plan tick 2 for Elliot Park (auto)\nPing me if you need anything shifted.",
+        "cc": [],
+        "id": 5,
+        "sender": "elliot.park@vdos.local",
+        "sent_at": "2025-10-01T03:45:53",
+        "subject": "[Tick 2] Elliot Park -> Hana Kim: Auto focus",
+        "thread_id": null,
+        "to": [
+          "hana.kim@vdos.local"
+        ]
+      },
+      {
+        "bcc": [],
+        "body": "Client requested add testimonial carousel at tick 2. Align on next steps within this cycle.",
+        "cc": [],
+        "id": 3,
+        "sender": "simulator@vdos.local",
+        "sent_at": "2025-10-01T03:45:53",
+        "subject": "Client request: add testimonial carousel",
+        "thread_id": null,
+        "to": [
+          "hana.kim@vdos.local"
+        ]
+      },
+      {
+        "bcc": [],
+        "body": "Hey Hana,\n\nCurrent focus:\nHourly plan tick 1 for Elliot Park (auto)\nAdjustments from live collaboration:\n- Handle request from Hana Kim: Hourly plan tick 1 for Hana Kim (auto)\n\nRequest: Hourly plan tick 1 for Elliot Park (auto)\nPing me if you need anything shifted.",
+        "cc": [],
+        "id": 2,
+        "sender": "elliot.park@vdos.local",
+        "sent_at": "2025-10-01T03:45:53",
+        "subject": "[Tick 1] Elliot Park -> Hana Kim: Auto focus",
+        "thread_id": null,
+        "to": [
+          "hana.kim@vdos.local"
+        ]
+      }
+    ]
+  },
+  "events": [
+    {
+      "at_tick": 2,
+      "id": 1,
+      "payload": {
+        "feature": "add testimonial carousel"
+      },
+      "project_id": null,
+      "target_ids": [
+        1,
+        2
+      ],
+      "type": "client_feature_request"
+    }
+  ],
+  "hourly_plans": {
+    "developer": [
+      {
+        "content": "Hourly plan tick 2 for Elliot Park (auto)\n\nAdjustments from live collaboration:\n- Partner with Hana Kim on client request: add testimonial carousel.\n- Handle request from Hana Kim: Support Hana Kim on add testimonial carousel.\n- Acknowledged by Hana Kim: Elliot, I'm on Hourly plan tick 1 for Elliot Park (auto).\n- Handle request from Hana Kim: Hourly plan tick 2 for Hana Kim (auto)",
+        "context": "reason=auto;adjustments=4",
+        "created_at": "2025-10-01 03:45:53",
+        "id": 8,
+        "model_used": "stub-hourly",
+        "person_id": 2,
+        "plan_type": "hourly",
+        "tick": 2,
+        "tokens_used": 1
+      },
+      {
+        "content": "Hourly plan tick 1 for Elliot Park (auto)\n\nAdjustments from live collaboration:\n- Handle request from Hana Kim: Hourly plan tick 1 for Hana Kim (auto)",
+        "context": "reason=auto;adjustments=1",
+        "created_at": "2025-10-01 03:45:53",
+        "id": 6,
+        "model_used": "stub-hourly",
+        "person_id": 2,
+        "plan_type": "hourly",
+        "tick": 1,
+        "tokens_used": 1
+      },
+      {
+        "content": "Hourly plan tick 0 for Elliot Park (initialisation)",
+        "context": "reason=initialisation",
+        "created_at": "2025-10-01 03:45:52",
+        "id": 4,
+        "model_used": "stub-hourly",
+        "person_id": 2,
+        "plan_type": "hourly",
+        "tick": 0,
+        "tokens_used": 1
+      }
+    ],
+    "hana": [
+      {
+        "content": "Hourly plan tick 2 for Hana Kim (auto)\n\nAdjustments from live collaboration:\n- Plan response to client request: add testimonial carousel.\n- Acknowledged by Elliot Park: Hana, I'm on Hourly plan tick 1 for Hana Kim (auto).\n- Handle request from Elliot Park: Hourly plan tick 1 for Elliot Park (auto)\n- Handle request from Simulation Manager: Plan response to client request: add testimonial carousel.",
+        "context": "reason=auto;adjustments=4",
+        "created_at": "2025-10-01 03:45:53",
+        "id": 7,
+        "model_used": "stub-hourly",
+        "person_id": 1,
+        "plan_type": "hourly",
+        "tick": 2,
+        "tokens_used": 1
+      },
+      {
+        "content": "Hourly plan tick 1 for Hana Kim (auto)",
+        "context": "reason=auto",
+        "created_at": "2025-10-01 03:45:52",
+        "id": 5,
+        "model_used": "stub-hourly",
+        "person_id": 1,
+        "plan_type": "hourly",
+        "tick": 1,
+        "tokens_used": 1
+      },
+      {
+        "content": "Hourly plan tick 0 for Hana Kim (initialisation)",
+        "context": "reason=initialisation",
+        "created_at": "2025-10-01 03:45:52",
+        "id": 2,
+        "model_used": "stub-hourly",
+        "person_id": 1,
+        "plan_type": "hourly",
+        "tick": 0,
+        "tokens_used": 1
+      }
+    ]
+  },
+  "people": {
+    "developer": {
+      "break_frequency": "45/15 cadence",
+      "chat_handle": "elliot",
+      "communication_style": "Concise async",
+      "email_address": "elliot.park@vdos.local",
+      "event_playbook": {},
+      "id": 2,
+      "is_department_head": false,
+      "metrics": [],
+      "name": "Elliot Park",
+      "objectives": [],
+      "persona_markdown": "# Elliot Park ? Full-Stack Developer\n\n## Identity & Channels\n- Name: Elliot Park\n- Role: Full-Stack Developer\n- Timezone: America/Los_Angeles\n- Work hours: 08:00-16:00\n- Break cadence: 45/15 cadence\n- Email: elliot.park@vdos.local\n- Chat handle: elliot\n\n## Skills & Personality\n- Core skills: React, Python, CI/CD\n- Personality anchors: Pragmatic, Supportive\n- Communication style: Concise async\n\n## Operating Objectives\n- TBD\n\n## Success Metrics\n- TBD\n\n## Daily Schedule Blueprint\n| Start | End | Focus |\n| ----- | --- | ----- |\n| 08:00 | 09:00 | Code review |\n| 09:00 | 11:00 | Feature implementation |\n\n## Status Vocabulary\n- Working\n- Away\n- OffDuty\n- Overtime\n- SickLeave\n- Vacation\n\n## Hourly Planning Ritual\n- Review hourly plan for upcoming dependencies.\n- Log sent emails and chat updates before status changes.\n- Queue follow-ups for any blocked tasks before daily report.\n\n## Event Playbook\n- Document new playbook entries as scenarios emerge.\n\n## Daily Report Checklist\n- Summarise progress versus daily goals.\n- Call out blockers with owner and next action.\n- Note cross-team asks that need follow-up tomorrow.\n",
+      "personality": [
+        "Pragmatic",
+        "Supportive"
+      ],
+      "planning_guidelines": [],
+      "role": "Full-Stack Developer",
+      "schedule": [
+        {
+          "activity": "Code review",
+          "end": "09:00",
+          "start": "08:00"
+        },
+        {
+          "activity": "Feature implementation",
+          "end": "11:00",
+          "start": "09:00"
+        }
+      ],
+      "skills": [
+        "React",
+        "Python",
+        "CI/CD"
+      ],
+      "statuses": [],
+      "timezone": "America/Los_Angeles",
+      "work_hours": "08:00-16:00"
+    },
+    "hana": {
+      "break_frequency": "50/10 cadence",
+      "chat_handle": "hana",
+      "communication_style": "Warm async",
+      "email_address": "hana.kim@vdos.local",
+      "event_playbook": {},
+      "id": 1,
+      "is_department_head": true,
+      "metrics": [],
+      "name": "Hana Kim",
+      "objectives": [],
+      "persona_markdown": "# Hana Kim ? Designer\n\n## Identity & Channels\n- Name: Hana Kim\n- Role: Designer\n- Timezone: Asia/Seoul\n- Work hours: 09:00-18:00\n- Break cadence: 50/10 cadence\n- Email: hana.kim@vdos.local\n- Chat handle: hana\n\n## Skills & Personality\n- Core skills: Figma, UX\n- Personality anchors: Collaborative, Calm\n- Communication style: Warm async\n\n## Operating Objectives\n- TBD\n\n## Success Metrics\n- TBD\n\n## Daily Schedule Blueprint\n| Start | End | Focus |\n| ----- | --- | ----- |\n| 09:00 | 10:00 | Stand-up & triage |\n| 10:00 | 12:00 | Design sprint |\n\n## Status Vocabulary\n- Working\n- Away\n- OffDuty\n- Overtime\n- SickLeave\n- Vacation\n\n## Hourly Planning Ritual\n- Review hourly plan for upcoming dependencies.\n- Log sent emails and chat updates before status changes.\n- Queue follow-ups for any blocked tasks before daily report.\n\n## Event Playbook\n- Document new playbook entries as scenarios emerge.\n\n## Daily Report Checklist\n- Summarise progress versus daily goals.\n- Call out blockers with owner and next action.\n- Note cross-team asks that need follow-up tomorrow.\n",
+      "personality": [
+        "Collaborative",
+        "Calm"
+      ],
+      "planning_guidelines": [],
+      "role": "Designer",
+      "schedule": [
+        {
+          "activity": "Stand-up & triage",
+          "end": "10:00",
+          "start": "09:00"
+        },
+        {
+          "activity": "Design sprint",
+          "end": "12:00",
+          "start": "10:00"
+        }
+      ],
+      "skills": [
+        "Figma",
+        "UX"
+      ],
+      "statuses": [],
+      "timezone": "Asia/Seoul",
+      "work_hours": "09:00-18:00"
+    }
+  },
+  "project_plan": {
+    "created_at": "2025-10-01 03:45:52",
+    "duration_weeks": 1,
+    "generated_by": 1,
+    "id": 1,
+    "model_used": "stub-project",
+    "plan": "Project plan stub",
+    "project_name": "Portofolio Webwite",
+    "project_summary": "Deliver a polished portfolio experience for the client in one week.",
+    "tokens_used": 1
+  },
+  "start": {
+    "auto_tick": false,
+    "current_tick": 0,
+    "is_running": true,
+    "message": "Simulation started for project 'Portofolio Webwite'"
+  },
+  "state": {
+    "auto_tick": false,
+    "current_tick": 2,
+    "is_running": true
+  }
+}

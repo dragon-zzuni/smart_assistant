@@ -88,7 +88,8 @@ class WorkerThread(QThread):
                 "success": True,
                 "todo_list": todo_list,
                 "analysis_results": analysis_results,
-                "messages": messages
+                "messages": messages,
+                "analysis_report_text": getattr(self.assistant, "analysis_report_text", "")  # ✅ 추가
             }
             
             self.result_ready.emit(result)
@@ -585,6 +586,7 @@ class SmartAssistantGUI(QMainWindow):
         self.analysis_text = QTextEdit()
         self.analysis_text.setReadOnly(True)
         self.analysis_text.setPlaceholderText("분석 결과가 여기에 표시됩니다.")
+        self.analysis_text.setFont(QFont("Consolas", 10))
         
         layout.addWidget(self.analysis_text)
         
@@ -726,7 +728,7 @@ class SmartAssistantGUI(QMainWindow):
             self.update_message_table(result["messages"])
             
             # 분석 결과 업데이트
-            self.update_analysis_results(result["analysis_results"])
+            self.update_analysis_tab(result.get("analysis_report_text"), result.get("analysis_results"))
             
             self.status_bar.showMessage(f"수집 완료: {todo_list['total_items']}개 TODO 생성")
             
@@ -748,56 +750,44 @@ class SmartAssistantGUI(QMainWindow):
         """TODO 리스트 업데이트"""
         self.todo_list.clear()
         
-        for item in todo_items[:20]:  # 상위 20개만 표시
+        for item in todo_items[:30]:  # 상위 20개만 표시
             todo_widget = TodoItemWidget(item)
             list_item = QListWidgetItem()
             list_item.setSizeHint(todo_widget.sizeHint())
             
             self.todo_list.addItem(list_item)
             self.todo_list.setItemWidget(list_item, todo_widget)
-    
-    def update_message_table(self, messages):
-        """메시지 테이블 업데이트"""
-        self.message_table.setRowCount(len(messages))
-        
-        for i, msg in enumerate(messages):
-            self.message_table.setItem(i, 0, QTableWidgetItem(msg.get("platform", "")))
-            self.message_table.setItem(i, 1, QTableWidgetItem(msg.get("sender", "")))
-            
-            content = msg.get("subject", "") or msg.get("content", "")[:100]
-            self.message_table.setItem(i, 2, QTableWidgetItem(content))
-            
-            date_str = msg.get("date", "")
-            if date_str:
-                try:
-                    from datetime import datetime
-                    dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
-                    date_str = dt.strftime("%m-%d %H:%M")
-                except:
-                    pass
-            
-            self.message_table.setItem(i, 3, QTableWidgetItem(date_str))
-    
-    def update_analysis_results(self, analysis_results):
-        """분석 결과 업데이트"""
-        result_text = "📊 분석 결과 요약\n"
-        result_text += "=" * 50 + "\n\n"
-        
-        for i, result in enumerate(analysis_results[:10], 1):
-            msg = result["message"]
-            priority = result["priority"]
-            summary = result.get("summary")
-            
-            result_text += f"{i}. [{priority['priority_level'].upper()}] {msg['sender']}\n"
-            result_text += f"   플랫폼: {msg['platform']}\n"
-            result_text += f"   우선순위 점수: {priority['overall_score']:.2f}\n"
-            
-            if summary:
-                result_text += f"   요약: {summary['summary']}\n"
-            
-            result_text += f"   액션: {len(result['actions'])}개\n\n"
-        
-        self.analysis_text.setText(result_text)
+    # main_window.py - class SmartAssistantGUI 내부 어딘가(분석/메시지 업데이트 메서드들 근처)에 추가
+
+    def update_analysis_tab(self, analysis_report_text: Optional[str], analysis_results: Optional[list]):
+        """
+        분석결과 탭에 최종 텍스트를 채운다.
+        - 우선적으로 main.py에서 만들어둔 self.analysis_report_text(=analysis_report_text)를 사용
+        - 없으면 기존 방식으로 top 10 간단 요약을 만들어서 출력(폴백)
+        """
+        text = analysis_report_text or getattr(self.assistant, "analysis_report_text", "") or ""
+        if not text:
+            # 폴백: 기존 간단 요약
+            buf = []
+            buf.append("📊 분석 결과 요약")
+            buf.append("=" * 50)
+            buf.append("")
+            for i, result in enumerate((analysis_results or [])[:10], 1):
+                msg = result["message"]
+                priority = result["priority"]
+                summary = result.get("summary")
+                buf.append(f"{i}. [{priority['priority_level'].upper()}] {msg.get('sender','')}")
+                buf.append(f"   플랫폼: {msg.get('platform','')}")
+                buf.append(f"   우선순위 점수: {priority.get('overall_score',0):.2f}")
+                if summary:
+                    buf.append(f"   요약: {summary.get('summary','')}")
+                buf.append(f"   액션: {len(result.get('actions',[]))}개")
+                buf.append("")
+            text = "\n".join(buf)
+
+        # PlainText로 넣어야 ASCII 구분선과 레이아웃이 깔끔
+        self.analysis_text.setPlainText(text)
+
     
     def auto_refresh(self):
         """자동 새로고침 (온라인 모드)"""

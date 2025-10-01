@@ -1,0 +1,3347 @@
+{
+  "success": true,
+  "todo_list": {
+    "generated_at": "2025-10-01T16:40:01.415331",
+    "total_items": 10,
+    "priority_stats": {
+      "high": 1,
+      "medium": 0,
+      "low": 57
+    },
+    "items": [
+      {
+        "id": "deadline_20251001_163950",
+        "title": "마감 작업: [넥슨] 비밀번호 변경이 완료되었습니다...",
+        "description": "[넥슨] 비밀번호 변경이 완료되었습니다. 넥슨 비밀번호 변경 안내 넥슨 비밀번호 변경 안내 안녕하세요, acrombie 고객님 고객님의 넥슨 비밀번호가 변경되었습니다. 넥슨ID imyo*****@naver.c",
+        "priority": "high",
+        "deadline": null,
+        "requester": "\" 넥슨 \" <nexon_noreply@nexon.com>",
+        "type": "deadline",
+        "status": "pending",
+        "source_message": {
+          "id": "46",
+          "sender": "\" 넥슨 \" <nexon_noreply@nexon.com>",
+          "subject": "[넥슨] 비밀번호 변경이 완료되었습니다.",
+          "platform": "email"
+        },
+        "created_at": "2025-10-01T16:39:50.670935"
+      },
+      {
+        "id": "review_20251001_163950",
+        "title": "문서 검토: 나요? 타인이 고객님의 계정정보를 도용해 변경했을 수 있습니다...",
+        "description": "나요? 타인이 고객님의 계정정보를 도용해 변경했을 수 있습니다. 방법1. 계정정보 유출이 의심된다면 넥슨 내정보 의 ‘비밀번호 찾기‘를 통해 비밀번호를 변경해주세요. 방법2. 본인확인이 완료된 넥슨ID는 ‘넥슨ID보호잠금’을 설정하여, 넥슨ID의 접속을 제한할 수 있습니다. 넥슨ID 보호잠금 설정 긴급하게 넥슨ID보호가 필요하다면 넥슨ID보호잠금을 즉시 설정",
+        "priority": "high",
+        "deadline": null,
+        "requester": "\" 넥슨 \" <nexon_noreply@nexon.com>",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "46",
+          "sender": "\" 넥슨 \" <nexon_noreply@nexon.com>",
+          "subject": "[넥슨] 비밀번호 변경이 완료되었습니다.",
+          "platform": "email"
+        },
+        "created_at": "2025-10-01T16:39:50.670935"
+      },
+      {
+        "id": "task_20251001_163950",
+        "title": "업무 처리: 네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4) ﻿ ...",
+        "description": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4) ﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항",
+        "priority": "high",
+        "deadline": null,
+        "requester": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+        "type": "task",
+        "status": "pending",
+        "source_message": {
+          "id": "34",
+          "sender": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+          "subject": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4)",
+          "platform": "email"
+        },
+        "created_at": "2025-10-01T16:39:50.704935"
+      },
+      {
+        "id": "deadline_20251001_163950",
+        "title": "마감 작업: -----------------------\r\n수강생 여러분, 반갑습니다...",
+        "description": "-----------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후",
+        "priority": "high",
+        "deadline": "2025-06-11T18:00:00",
+        "requester": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+        "type": "deadline",
+        "status": "pending",
+        "source_message": {
+          "id": "33",
+          "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+          "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 기말고사 유의사항",
+          "platform": "email"
+        },
+        "created_at": "2025-10-01T16:39:50.692937"
+      },
+      {
+        "id": "review_20251001_163950",
+        "title": "문서 검토: 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다...",
+        "description": "보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보",
+        "priority": "high",
+        "deadline": "2025-06-11T18:00:00",
+        "requester": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "33",
+          "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+          "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 기말고사 유의사항",
+          "platform": "email"
+        },
+        "created_at": "2025-10-01T16:39:50.692937"
+      },
+      {
+        "id": "task_20251001_163950",
+        "title": "업무 처리: 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내...",
+        "description": "감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WO",
+        "priority": "high",
+        "deadline": "2025-06-11T18:00:00",
+        "requester": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+        "type": "task",
+        "status": "pending",
+        "source_message": {
+          "id": "34",
+          "sender": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+          "subject": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4)",
+          "platform": "email"
+        },
+        "created_at": "2025-10-01T16:39:50.693936"
+      },
+      {
+        "id": "review_20251001_163950",
+        "title": "문서 검토: ogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\n...",
+        "description": "ogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&contin",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "Google <no-reply@accounts.google.com>",
+        "type": "review",
+        "status": "pending",
+        "source_message": {
+          "id": "36",
+          "sender": "Google <no-reply@accounts.google.com>",
+          "subject": "acrombie092@gmail.com 관련 보안 경고",
+          "platform": "email"
+        },
+        "created_at": "2025-10-01T16:39:50.764203"
+      },
+      {
+        "id": "task_20251001_163950",
+        "title": "업무 처리",
+        "description": "으로 사전 안내 드립니다 . 1. 적용시기 : 2024 년 6 월 10 일 (월 요일 ) 2. 개정 약관 제 4 조 ( 서비스의 제공 및 변경 ) ① “ 회사 ” 는 다음과 같은 업무를 수행합니다 . 1. 재화 등의 거래 및 정보 제공을 위한 플랫폼의 운영 및 개발 업무 2. 재화 등의 정보 검색 지원 업무 3. 재화 등의 구매 관련 지원 업무 4. 대금의 결",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "\" 무신사 \"<mail@musinsa.com>",
+        "type": "task",
+        "status": "pending",
+        "source_message": {
+          "id": "37",
+          "sender": "\" 무신사 \"<mail@musinsa.com>",
+          "subject": "무신사스토어 이용약관 개정 관련",
+          "platform": "email"
+        },
+        "created_at": "2025-10-01T16:39:50.771185"
+      },
+      {
+        "id": "response_20251001_163950",
+        "title": "답변 작성",
+        "description": ". 주식회사 무신사는 더 나은 서비스 제공을 위해 항상 최선을 다하겠습니다 . 앞으로도 지속적인 서비스 이용과 관심 부탁드립니다 . 감사합니다 . 본 메일은 발신 전용 메일이며, 회신되지 않으므로 문의사항은 고객센터 를 이용해주세요. COPYRIGHTS (C)MUSINSA ALL RIGHTS RESERVED.",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "\" 무신사 \"<mail@musinsa.com>",
+        "type": "response",
+        "status": "pending",
+        "source_message": {
+          "id": "37",
+          "sender": "\" 무신사 \"<mail@musinsa.com>",
+          "subject": "무신사스토어 이용약관 개정 관련",
+          "platform": "email"
+        },
+        "created_at": "2025-10-01T16:39:50.804061"
+      },
+      {
+        "id": "deadline_20251001_163950",
+        "title": "마감 작업: [하나머니] 하나머니 서비스 이용 통합 약관 변경 안내 하나머니 [하나머니] 하나머니 서비...",
+        "description": "[하나머니] 하나머니 서비스 이용 통합 약관 변경 안내 하나머니 [하나머니] 하나머니 서비스 이용 통합 약관 변경 안내 하나머니를 이용해 주시는 손님께 진심으로 감사드립니다. &lsquo;하나머니 서비스 이용 통합 약관&rsquo;을 2024년 7월 10일 부로 아래와 같이 변경함을 알려드립니다. 하나머니 서비스 이용 통합 약관 개정 전 개정 후 제 1 장 총칙 제 3 조(약관의 변경 등) ① (생략) ② 제1항의 경우, \"회원이 변경에 동의하지 아니한 경우 통지일로부터 1개월이내에 계약을 해지할 수 있으며, 별도 계약",
+        "priority": "medium",
+        "deadline": "2025-07-10T18:00:00",
+        "requester": "\" 하나카드 \" <hanacard@hanacard.co.kr>",
+        "type": "deadline",
+        "status": "pending",
+        "source_message": {
+          "id": "41",
+          "sender": "\" 하나카드 \" <hanacard@hanacard.co.kr>",
+          "subject": "[하나머니] 하나머니 서비스 이용 통합 약관 변경 안내",
+          "platform": "email"
+        },
+        "created_at": "2025-10-01T16:39:50.742264"
+      }
+    ],
+    "summary": {
+      "total_messages": 58,
+      "total_actions": 10,
+      "urgent_items": 6,
+      "deadline_items": 4
+    }
+  },
+  "analysis_results": [
+    {
+      "message": {
+        "msg_id": "46",
+        "sender": "\" 넥슨 \" <nexon_noreply@nexon.com>",
+        "subject": "[넥슨] 비밀번호 변경이 완료되었습니다.",
+        "body": "넥슨 비밀번호 변경 안내 넥슨 비밀번호 변경 안내 안녕하세요, acrombie 고객님 고객님의 넥슨 비밀번호가 변경되었습니다. 넥슨ID imyo*****@naver.com 비밀번호 변경일 2024.06.12 &#8251; 비밀번호를 변경한 적이 없나요? 타인이 고객님의 계정정보를 도용해 변경했을 수 있습니다. 방법1. 계정정보 유출이 의심된다면 넥슨 내정보 의 ‘비밀번호 찾기‘를 통해 비밀번호를 변경해주세요. 방법2. 본인확인이 완료된 넥슨ID는 ‘넥슨ID보호잠금’을 설정하여, 넥슨ID의 접속을 제한할 수 있습니다. 넥슨ID 보호잠금 설정 긴급하게 넥슨ID보호가 필요하다면 넥슨ID보호잠금을 즉시 설정 해주세요. 즉시설정 링크는 2024.06.13 오후 10:12:51 까지만 유효합니다. &#8251; 안전하게 비밀번호를 관리하려면? 1. 이용하시는 사이트들의 아이디/비밀번호를 가급적 다르게 설정해 주세요. 2. 넥슨 계정에서 사용하시는 이메일과는 다른 비밀번호를 사용해주세요. (예:네이버 이메일(@naver.com)을 넥슨ID로 사용하시거나 계정 이메일로 등록하신 경우, 네이버의 비밀번호와 넥슨의 비밀번호를 다르게 설정해주세요.) 3. 비밀번호는 특수문자를 포함하여 최소 10자리 이상으로 설정해주시고, 최소 3개월에 한번씩 주기적으로 변경해주세요. 4. 친구 또는 주변 사람들과 아이디 및 비밀번호를 함께 사용하지 마세요. &#8251; 지금 받은 이메일로 넥슨에 가입한적이 없나요? 타인이 이메일을 도용했거나, 잘못 입력했을 수 있습니다. 본인이 직접 가입하지 않은 경우 이메일 도용신고 를 접수해주세요. 본 메일은 발신전용 입니다. 궁금하신 사항은 고객센터 로 문의해주세요. (주)넥슨코리아 대표이사 강대현·김정욱 경기도 성남시 분당구 판교로 256번길 7 사업자등록번호: 220-87-17483호 통신판매업 신고번호: 제2013-경기성남-1659호 전화: 1588-7701 이메일: contact-us@nexon.co.kr Copyright © NEXON Korea Corporation All Rights Reserved.",
+        "content": "넥슨 비밀번호 변경 안내 넥슨 비밀번호 변경 안내 안녕하세요, acrombie 고객님 고객님의 넥슨 비밀번호가 변경되었습니다. 넥슨ID imyo*****@naver.com 비밀번호 변경일 2024.06.12 &#8251; 비밀번호를 변경한 적이 없나요? 타인이 고객님의 계정정보를 도용해 변경했을 수 있습니다. 방법1. 계정정보 유출이 의심된다면 넥슨 내정보 의 ‘비밀번호 찾기‘를 통해 비밀번호를 변경해주세요. 방법2. 본인확인이 완료된 넥슨ID는 ‘넥슨ID보호잠금’을 설정하여, 넥슨ID의 접속을 제한할 수 있습니다. 넥슨ID 보호잠금 설정 긴급하게 넥슨ID보호가 필요하다면 넥슨ID보호잠금을 즉시 설정 해주세요. 즉시설정 링크는 2024.06.13 오후 10:12:51 까지만 유효합니다. &#8251; 안전하게 비밀번호를 관리하려면? 1. 이용하시는 사이트들의 아이디/비밀번호를 가급적 다르게 설정해 주세요. 2. 넥슨 계정에서 사용하시는 이메일과는 다른 비밀번호를 사용해주세요. (예:네이버 이메일(@naver.com)을 넥슨ID로 사용하시거나 계정 이메일로 등록하신 경우, 네이버의 비밀번호와 넥슨의 비밀번호를 다르게 설정해주세요.) 3. 비밀번호는 특수문자를 포함하여 최소 10자리 이상으로 설정해주시고, 최소 3개월에 한번씩 주기적으로 변경해주세요. 4. 친구 또는 주변 사람들과 아이디 및 비밀번호를 함께 사용하지 마세요. &#8251; 지금 받은 이메일로 넥슨에 가입한적이 없나요? 타인이 이메일을 도용했거나, 잘못 입력했을 수 있습니다. 본인이 직접 가입하지 않은 경우 이메일 도용신고 를 접수해주세요. 본 메일은 발신전용 입니다. 궁금하신 사항은 고객센터 로 문의해주세요. (주)넥슨코리아 대표이사 강대현·김정욱 경기도 성남시 분당구 판교로 256번길 7 사업자등록번호: 220-87-17483호 통신판매업 신고번호: 제2013-경기성남-1659호 전화: 1588-7701 이메일: contact-us@nexon.co.kr Copyright © NEXON Korea Corporation All Rights Reserved.",
+        "date": "2024-06-12T13:12:51+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "46",
+        "summary": "고객님의 넥슨 비밀번호가 변경되었으며, 만약 본인이 변경하지 않았다면 계정 도용이 의심됩니다. 비밀번호 변경 및 보호잠금 설정을 권장합니다.",
+        "key_points": [
+          "비밀번호가 2024.06.12에 변경됨",
+          "계정 도용 의심 시 비밀번호 변경 및 보호잠금 설정 필요",
+          "비밀번호 관리 및 안전한 설정 방법 안내"
+        ],
+        "sentiment": "negative",
+        "urgency_level": "high",
+        "action_required": true,
+        "suggested_response": "비밀번호 변경 및 보호잠금 설정을 즉시 진행하겠습니다.",
+        "created_at": "2025-10-01T16:39:07.864764"
+      },
+      "priority": {
+        "overall_score": 0.7000000000000002,
+        "priority_level": "high",
+        "urgency_score": 1.0,
+        "importance_score": 0.4,
+        "deadline_score": 0.4,
+        "sender_score": 0.4,
+        "keyword_score": 1.0,
+        "reasoning": [
+          "긴급 키워드가 포함되어 높은 긴급도를 보임",
+          "중요 키워드가 다수 포함됨"
+        ],
+        "suggested_action": "즉시 처리 필요",
+        "estimated_time": "15분"
+      },
+      "actions": [
+        {
+          "action_id": "deadline_20251001_163950",
+          "action_type": "deadline",
+          "title": "마감 작업: [넥슨] 비밀번호 변경이 완료되었습니다...",
+          "description": "[넥슨] 비밀번호 변경이 완료되었습니다. 넥슨 비밀번호 변경 안내 넥슨 비밀번호 변경 안내 안녕하세요, acrombie 고객님 고객님의 넥슨 비밀번호가 변경되었습니다. 넥슨ID imyo*****@naver.c",
+          "deadline": null,
+          "priority": "high",
+          "assignee": "나",
+          "requester": "\" 넥슨 \" <nexon_noreply@nexon.com>",
+          "source_message_id": "46",
+          "context": {
+            "keyword": "완료",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-10-01T16:39:50.670935",
+          "status": "pending"
+        },
+        {
+          "action_id": "review_20251001_163950",
+          "action_type": "review",
+          "title": "문서 검토: 나요? 타인이 고객님의 계정정보를 도용해 변경했을 수 있습니다...",
+          "description": "나요? 타인이 고객님의 계정정보를 도용해 변경했을 수 있습니다. 방법1. 계정정보 유출이 의심된다면 넥슨 내정보 의 ‘비밀번호 찾기‘를 통해 비밀번호를 변경해주세요. 방법2. 본인확인이 완료된 넥슨ID는 ‘넥슨ID보호잠금’을 설정하여, 넥슨ID의 접속을 제한할 수 있습니다. 넥슨ID 보호잠금 설정 긴급하게 넥슨ID보호가 필요하다면 넥슨ID보호잠금을 즉시 설정",
+          "deadline": null,
+          "priority": "high",
+          "assignee": "나",
+          "requester": "\" 넥슨 \" <nexon_noreply@nexon.com>",
+          "source_message_id": "46",
+          "context": {
+            "keyword": "확인",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-10-01T16:39:50.670935",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "33",
+        "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+        "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 기말고사 유의사항",
+        "body": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 기말고사 유의사항 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51965#p120514\r\n도시와 언어로 만나는 러시아 기말고사 유의사항\r\n2024-06-04 09:31 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보내주시면 감사하겠습니다. \r\n\r\n(러시아어문학과 사무실: lhg0105@suwon.ac.kr) \r\n\r\n \r\n\r\n이 점 꼭 숙지하시고 학기 마무리에 차질 없으시길\r\n바랍니다.\r\n\r\n \r\n\r\n지금까지 함께 해주신 모든 수강생 여러분께 감사의\r\n인사를 전하며, 시험에서 좋은 결과 있길 바랍니다.\r\n\r\n \r\n\r\n여러분의 앞날에 성공이 가득하길 진심으로 기원합니다.\r\n\r\n \r\n\r\n감사합니다.\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+        "content": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 기말고사 유의사항 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51965#p120514\r\n도시와 언어로 만나는 러시아 기말고사 유의사항\r\n2024-06-04 09:31 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보내주시면 감사하겠습니다. \r\n\r\n(러시아어문학과 사무실: lhg0105@suwon.ac.kr) \r\n\r\n \r\n\r\n이 점 꼭 숙지하시고 학기 마무리에 차질 없으시길\r\n바랍니다.\r\n\r\n \r\n\r\n지금까지 함께 해주신 모든 수강생 여러분께 감사의\r\n인사를 전하며, 시험에서 좋은 결과 있길 바랍니다.\r\n\r\n \r\n\r\n여러분의 앞날에 성공이 가득하길 진심으로 기원합니다.\r\n\r\n \r\n\r\n감사합니다.\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+        "date": "2024-06-04T01:01:36+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "33",
+        "summary": "이현경 교수님이 수강생들에게 기말고사 일정과 유의사항을 공지합니다. 기말고사는 6월 11일부터 17일까지 진행되며, 수원대 학생들은 추가로 온라인 시험을 응시해야 합니다.",
+        "key_points": [
+          "기말고사는 6월 11일 00:00부터 6월 17일 23:59까지 응시 가능",
+          "시험 내용은 중간고사 이후의 내용으로 출제됨",
+          "이수증 사진을 메일로 제출해야 함"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "medium",
+        "action_required": true,
+        "suggested_response": "기말고사 일정과 유의사항을 숙지하였음을 확인하는 답변",
+        "created_at": "2025-10-01T16:39:08.963437"
+      },
+      "priority": {
+        "overall_score": 0.28,
+        "priority_level": "low",
+        "urgency_score": 0.1,
+        "importance_score": 0.0,
+        "deadline_score": 0.6,
+        "sender_score": 0.4,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "명시적인 데드라인이 있음"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "deadline_20251001_163950",
+          "action_type": "deadline",
+          "title": "마감 작업: -----------------------\r\n수강생 여러분, 반갑습니다...",
+          "description": "-----------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후",
+          "deadline": "2025-06-11T18:00:00",
+          "priority": "high",
+          "assignee": "나",
+          "requester": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+          "source_message_id": "33",
+          "context": {
+            "match": "06월 11일",
+            "pattern": "(\\d{1,2}월\\s*\\d{1,2}일).*?까지",
+            "extracted_from": "pattern"
+          },
+          "created_at": "2025-10-01T16:39:50.692937",
+          "status": "pending"
+        },
+        {
+          "action_id": "review_20251001_163950",
+          "action_type": "review",
+          "title": "문서 검토: 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다...",
+          "description": "보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보",
+          "deadline": "2025-06-11T18:00:00",
+          "priority": "high",
+          "assignee": "나",
+          "requester": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+          "source_message_id": "33",
+          "context": {
+            "keyword": "확인",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-10-01T16:39:50.692937",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "34",
+        "sender": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+        "subject": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4)",
+        "body": "﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WORKPLACE 서비스 신청 시 수집하는 항목 삭제 및 NAVER WORKS 서비스 신청 시 수집하는 항목으로 통합 WORKPLACE업무지원서비스가 앱마켓으로 변경되어 용어 및 파트너리스트 링크 변경 * NAVER WORKS, WORKPLACE가 신규 NAVER WORKS로 통합 2. 적용 일자 2024년 6월 11일 3. 개정 내역 상세 1) 위치기반서비스 이용약관 2) 개인정보처리방침 [민간 - 국내향] ▶ 개정 내역 상세 바로가기 4. 이의제기 및 문의 1) 변경된 ‘개인정보처리방침’ 내용에 대한 문의사항이 있으신 경우, 고객센터로 접수해 주시면 신속하고 친절하게 안내해 드리겠습니다. 2) 변경된 ‘개인정보처리방침’ 내용에 동의하지 않으시는 경우, 네이버 클라우드 플랫폼 서비스의 원활한 이용에 제약이 발생할 수 있습니다. 이러한 경우 고객센터로 이의 제기를 하실 수 있으며 당사는 이용 자의 서비스 이용 편의를 위해 최선의 노력을 아끼지 않겠습니다. 문의사항은 네이버 클라우드 플랫폼 고객센터 를 통해 문의해 주시기 바랍니다. 감사합니다 . 네이버 클라우드 플랫폼 바로가기 본 메일은 발신전용 입니다. 궁금하신 점이나 불편한 사항은 고객지원 에 문의해 주시기 바랍니다. ⓒ NAVER Cloud Corp, All Right Reserved. ​ ​ ​",
+        "content": "﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WORKPLACE 서비스 신청 시 수집하는 항목 삭제 및 NAVER WORKS 서비스 신청 시 수집하는 항목으로 통합 WORKPLACE업무지원서비스가 앱마켓으로 변경되어 용어 및 파트너리스트 링크 변경 * NAVER WORKS, WORKPLACE가 신규 NAVER WORKS로 통합 2. 적용 일자 2024년 6월 11일 3. 개정 내역 상세 1) 위치기반서비스 이용약관 2) 개인정보처리방침 [민간 - 국내향] ▶ 개정 내역 상세 바로가기 4. 이의제기 및 문의 1) 변경된 ‘개인정보처리방침’ 내용에 대한 문의사항이 있으신 경우, 고객센터로 접수해 주시면 신속하고 친절하게 안내해 드리겠습니다. 2) 변경된 ‘개인정보처리방침’ 내용에 동의하지 않으시는 경우, 네이버 클라우드 플랫폼 서비스의 원활한 이용에 제약이 발생할 수 있습니다. 이러한 경우 고객센터로 이의 제기를 하실 수 있으며 당사는 이용 자의 서비스 이용 편의를 위해 최선의 노력을 아끼지 않겠습니다. 문의사항은 네이버 클라우드 플랫폼 고객센터 를 통해 문의해 주시기 바랍니다. 감사합니다 . 네이버 클라우드 플랫폼 바로가기 본 메일은 발신전용 입니다. 궁금하신 점이나 불편한 사항은 고객지원 에 문의해 주시기 바랍니다. ⓒ NAVER Cloud Corp, All Right Reserved. ​ ​ ​",
+        "date": "2024-06-04T06:01:56+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "34",
+        "summary": "네이버 클라우드 플랫폼에서 개인정보처리방침 및 위치기반서비스 이용약관이 개정되었음을 안내합니다. 주요 변경 사항은 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경과 관련된 내용입니다.",
+        "key_points": [
+          "위치기반서비스 이용약관 및 개인정보처리방침 개정 안내",
+          "주요 개정 사항: NAVER WORKS 통합으로 인한 용어 변경",
+          "적용 일자는 2024년 6월 11일"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "medium",
+        "action_required": true,
+        "suggested_response": "개정된 개인정보처리방침에 대한 동의 여부를 확인하고, 문의사항이 있을 경우 고객센터에 연락할 것.",
+        "created_at": "2025-10-01T16:39:09.853756"
+      },
+      "priority": {
+        "overall_score": 0.215,
+        "priority_level": "low",
+        "urgency_score": 0.1,
+        "importance_score": 0.4,
+        "deadline_score": 0.3,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "task_20251001_163950",
+          "action_type": "task",
+          "title": "업무 처리: 네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4) ﻿ ...",
+          "description": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4) ﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항",
+          "deadline": null,
+          "priority": "high",
+          "assignee": "나",
+          "requester": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+          "source_message_id": "34",
+          "context": {
+            "match": "네이버",
+            "pattern": "(\\w+).*?업무.*?처리",
+            "extracted_from": "pattern"
+          },
+          "created_at": "2025-10-01T16:39:50.704935",
+          "status": "pending"
+        },
+        {
+          "action_id": "task_20251001_163950",
+          "action_type": "task",
+          "title": "업무 처리: 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내...",
+          "description": "감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WO",
+          "deadline": "2025-06-11T18:00:00",
+          "priority": "high",
+          "assignee": "나",
+          "requester": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+          "source_message_id": "34",
+          "context": {
+            "keyword": "업무",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-10-01T16:39:50.693936",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "32",
+        "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+        "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 14주차 공지",
+        "body": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 14주차 공지 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51957#p120496\r\n도시와 언어로 만나는 러시아 14주차 공지\r\n2024-06-04 08:59 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n2024년 06월 04일 화요일,\r\n\r\n \r\n\r\n14주차 <원어민에게 배워보기2[에바]> 강의가\r\n열렸습니다.\r\n\r\n \r\n\r\n각 주차 강좌는 화요일마다 게재되며, 게재된 강의는\r\n종강일까지 자유롭게 수강 가능합니다.\r\n\r\n \r\n\r\n강의를 통해 다음과 같은 내용을 학습하실 수 있습니다.\r\n\r\n \r\n\r\n \r\n\r\n- 문화탐방1\r\n\r\n \r\n\r\n- 문화탐방2\r\n\r\n \r\n\r\n- 여행일지\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n각각의 컨텐츠들은 이수율에 반영이 되는 활동이니 꼭\r\n참여 부탁드립니다.\r\n\r\n \r\n\r\n저희 강좌를 통해 한 학기 동안 많이 배워가는 시간이\r\n되기를 바랍니다.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n수원대학교 K-MOOC 운영팀\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+        "content": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 14주차 공지 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51957#p120496\r\n도시와 언어로 만나는 러시아 14주차 공지\r\n2024-06-04 08:59 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n2024년 06월 04일 화요일,\r\n\r\n \r\n\r\n14주차 <원어민에게 배워보기2[에바]> 강의가\r\n열렸습니다.\r\n\r\n \r\n\r\n각 주차 강좌는 화요일마다 게재되며, 게재된 강의는\r\n종강일까지 자유롭게 수강 가능합니다.\r\n\r\n \r\n\r\n강의를 통해 다음과 같은 내용을 학습하실 수 있습니다.\r\n\r\n \r\n\r\n \r\n\r\n- 문화탐방1\r\n\r\n \r\n\r\n- 문화탐방2\r\n\r\n \r\n\r\n- 여행일지\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n각각의 컨텐츠들은 이수율에 반영이 되는 활동이니 꼭\r\n참여 부탁드립니다.\r\n\r\n \r\n\r\n저희 강좌를 통해 한 학기 동안 많이 배워가는 시간이\r\n되기를 바랍니다.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n수원대학교 K-MOOC 운영팀\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+        "date": "2024-06-04T00:31:29+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "32",
+        "summary": "2024년 06월 04일에 도시와 언어로 만나는 러시아 강좌의 14주차 강의가 열렸으며, 강의는 매주 화요일에 게재되고 자유롭게 수강할 수 있습니다. 강의 내용은 문화탐방과 여행일지 등으로 구성되어 있으며, 이수율에 반영되는 활동이므로 참여가 권장됩니다.",
+        "key_points": [
+          "14주차 강의가 2024년 06월 04일에 열림",
+          "강의는 매주 화요일에 게재되며 종강일까지 수강 가능",
+          "강의 내용은 문화탐방과 여행일지로 구성되어 있으며, 이수율에 반영됨"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": true,
+        "suggested_response": "강의 내용을 확인하고 참여하겠습니다.",
+        "created_at": "2025-10-01T16:39:09.658984"
+      },
+      "priority": {
+        "overall_score": 0.19,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.6,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "명시적인 데드라인이 있음"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "41",
+        "sender": "\" 하나카드 \" <hanacard@hanacard.co.kr>",
+        "subject": "[하나머니] 하나머니 서비스 이용 통합 약관 변경 안내",
+        "body": "하나머니 [하나머니] 하나머니 서비스 이용 통합 약관 변경 안내 하나머니를 이용해 주시는 손님께 진심으로 감사드립니다. &lsquo;하나머니 서비스 이용 통합 약관&rsquo;을 2024년 7월 10일 부로 아래와 같이 변경함을 알려드립니다. 하나머니 서비스 이용 통합 약관 개정 전 개정 후 제 1 장 총칙 제 3 조(약관의 변경 등) ① (생략) ② 제1항의 경우, \"회원이 변경에 동의하지 아니한 경우 통지일로부터 1개월이내에 계약을 해지할 수 있으며, 별도 계약해지 의사표시를 하지 않는 경우 변경에 동의한 것으로 본다\"는 내용을 명시하여 통지합니다. 회원이 변경 예정일까지 이의를 제기하지 않았을 때에는 변경된 약관을 승인한 것으로 간주합니다. 제 1 장 총칙 제 3 조(약관의 변경 등) ① (현행과 같음) ② 제1항의 경우, \"회원이 변경에 동의하지 아니한 경우 통지일로부터 변경된 약관의 시행일 전의 영업일까지 계약을 해지할 수 있으며, 별도 계약해지 의사표시를 하지 않는 경우 변경에 동의한 것으로 본다\"는 내용을 명시하여 통지합니다. 회원이 변경 시행예정일까지 이의를 제기하지 않았을 때에는 변경된 약관을 승인한 것으로 간주합니다. 제 3 장 서비스 이용 제 21 조(준회원 서비스 제공) ① 회사는 준회원에게 제2조 제17호에서 정한 준회원 쿠폰 구매 서비스를 제공해 드립니다. ② ~ ③ (생략) 제 3 장 서비스 이용 제 21 조(준회원 서비스 제공) ① 회사는 준회원에게 제2조 제14호에서 정한 준회원 쿠폰 구매 서비스를 제공해 드립니다. ② ~ ③ (현행과 같음) 제 4 장 계약당사자의 의무 제 23 조(회사의 의무) ① (생략) ② 제8조 제2항 및 제13조 제2항에 따라 안내한 제휴사, 제휴가맹점이 제공하는 서비스 및 제휴포인트의 전환&middot;합산 사용에 관한 내용이 회원에게 불리하게 변경되는 경우나 제10조 제6항의 충전 가능한 상품이 축소되는 경우 시행예정일 기준 1개월 전부터 APP(앱)의 PUSH 메시지나 팝업창을 통해 고지해 드립니다. 이 경우 회원이 통지일로부터 1개월 이내에 별도의 계약해지 의사를 표시하지 않는 경우 변경에 동의한 것으로 본다는 내용을 명시하여 통지하며, 변경 예정일까지 이의 제기를 하지 않는 경우 변경된 내용을 승인한 것으로 간주합니다. ③ ~ ④ (생략) 제 4 장 계약당사자의 의무 제 23 조(회사의 의무) ① (현행과 같음) ② 제8조 제2항 및 제13조 제 ...",
+        "content": "하나머니 [하나머니] 하나머니 서비스 이용 통합 약관 변경 안내 하나머니를 이용해 주시는 손님께 진심으로 감사드립니다. &lsquo;하나머니 서비스 이용 통합 약관&rsquo;을 2024년 7월 10일 부로 아래와 같이 변경함을 알려드립니다. 하나머니 서비스 이용 통합 약관 개정 전 개정 후 제 1 장 총칙 제 3 조(약관의 변경 등) ① (생략) ② 제1항의 경우, \"회원이 변경에 동의하지 아니한 경우 통지일로부터 1개월이내에 계약을 해지할 수 있으며, 별도 계약해지 의사표시를 하지 않는 경우 변경에 동의한 것으로 본다\"는 내용을 명시하여 통지합니다. 회원이 변경 예정일까지 이의를 제기하지 않았을 때에는 변경된 약관을 승인한 것으로 간주합니다. 제 1 장 총칙 제 3 조(약관의 변경 등) ① (현행과 같음) ② 제1항의 경우, \"회원이 변경에 동의하지 아니한 경우 통지일로부터 변경된 약관의 시행일 전의 영업일까지 계약을 해지할 수 있으며, 별도 계약해지 의사표시를 하지 않는 경우 변경에 동의한 것으로 본다\"는 내용을 명시하여 통지합니다. 회원이 변경 시행예정일까지 이의를 제기하지 않았을 때에는 변경된 약관을 승인한 것으로 간주합니다. 제 3 장 서비스 이용 제 21 조(준회원 서비스 제공) ① 회사는 준회원에게 제2조 제17호에서 정한 준회원 쿠폰 구매 서비스를 제공해 드립니다. ② ~ ③ (생략) 제 3 장 서비스 이용 제 21 조(준회원 서비스 제공) ① 회사는 준회원에게 제2조 제14호에서 정한 준회원 쿠폰 구매 서비스를 제공해 드립니다. ② ~ ③ (현행과 같음) 제 4 장 계약당사자의 의무 제 23 조(회사의 의무) ① (생략) ② 제8조 제2항 및 제13조 제2항에 따라 안내한 제휴사, 제휴가맹점이 제공하는 서비스 및 제휴포인트의 전환&middot;합산 사용에 관한 내용이 회원에게 불리하게 변경되는 경우나 제10조 제6항의 충전 가능한 상품이 축소되는 경우 시행예정일 기준 1개월 전부터 APP(앱)의 PUSH 메시지나 팝업창을 통해 고지해 드립니다. 이 경우 회원이 통지일로부터 1개월 이내에 별도의 계약해지 의사를 표시하지 않는 경우 변경에 동의한 것으로 본다는 내용을 명시하여 통지하며, 변경 예정일까지 이의 제기를 하지 않는 경우 변경된 내용을 승인한 것으로 간주합니다. ③ ~ ④ (생략) 제 4 장 계약당사자의 의무 제 23 조(회사의 의무) ① (현행과 같음) ② 제8조 제2항 및 제13조 제 ...",
+        "date": "2024-06-11T02:29:25+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "41",
+        "summary": "하나카드에서 하나머니 서비스 이용 통합 약관이 2024년 7월 10일 부로 변경된다는 안내를 보냈습니다. 변경된 약관에 동의하지 않을 경우, 통지일로부터 1개월 이내에 계약을 해지할 수 있으며, 이의를 제기하지 않으면 변경된 약관을 승인한 것으로 간주됩니다.",
+        "key_points": [
+          "하나머니 서비스 이용 통합 약관이 2024년 7월 10일 부로 변경됨",
+          "변경에 동의하지 않을 경우 1개월 이내에 계약 해지 가능",
+          "이의 제기를 하지 않으면 변경된 약관을 승인한 것으로 간주"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "medium",
+        "action_required": true,
+        "suggested_response": "약관 변경에 대한 이의 제기 여부를 검토하고, 필요시 계약 해지 의사를 전달할 것",
+        "created_at": "2025-10-01T16:39:09.875041"
+      },
+      "priority": {
+        "overall_score": 0.18500000000000003,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.4,
+        "deadline_score": 0.3,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "deadline_20251001_163950",
+          "action_type": "deadline",
+          "title": "마감 작업: [하나머니] 하나머니 서비스 이용 통합 약관 변경 안내 하나머니 [하나머니] 하나머니 서비...",
+          "description": "[하나머니] 하나머니 서비스 이용 통합 약관 변경 안내 하나머니 [하나머니] 하나머니 서비스 이용 통합 약관 변경 안내 하나머니를 이용해 주시는 손님께 진심으로 감사드립니다. &lsquo;하나머니 서비스 이용 통합 약관&rsquo;을 2024년 7월 10일 부로 아래와 같이 변경함을 알려드립니다. 하나머니 서비스 이용 통합 약관 개정 전 개정 후 제 1 장 총칙 제 3 조(약관의 변경 등) ① (생략) ② 제1항의 경우, \"회원이 변경에 동의하지 아니한 경우 통지일로부터 1개월이내에 계약을 해지할 수 있으며, 별도 계약",
+          "deadline": "2025-07-10T18:00:00",
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "\" 하나카드 \" <hanacard@hanacard.co.kr>",
+          "source_message_id": "41",
+          "context": {
+            "match": "7월 10일",
+            "pattern": "(\\d{1,2}월\\s*\\d{1,2}일).*?까지",
+            "extracted_from": "pattern"
+          },
+          "created_at": "2025-10-01T16:39:50.742264",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "36",
+        "sender": "Google <no-reply@accounts.google.com>",
+        "subject": "acrombie092@gmail.com 관련 보안 경고",
+        "body": "이 메일은 acrombie092@gmail.com 주소로 전송된 보안 경고의 사본입니다.  \r\nimyongjun@naver.com 주소는 이\r\n계정의 복구 이메일입니다. 모르는 계정이라면 삭제\r\n<https://accounts.google.com/AccountDisavow?adt=AOX8kirxfrKIcS0AwiwHEaP8hQgdVHk3ZNi0KMYfJgguCzPUroB_gkCwmqKlL9av&rfn=127>\r\n하세요\r\n[image: Google]\r\nGoogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1717512294000?rfn%3D127%26rfnc%3D1%26eid%3D-1172161920664456412%26et%3D1>\r\n다음 페이지에서 보안 활동도 확인할 수 있습니다.\r\nhttps://myaccount.google.com/notifications\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2024 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+        "content": "이 메일은 acrombie092@gmail.com 주소로 전송된 보안 경고의 사본입니다.  \r\nimyongjun@naver.com 주소는 이\r\n계정의 복구 이메일입니다. 모르는 계정이라면 삭제\r\n<https://accounts.google.com/AccountDisavow?adt=AOX8kirxfrKIcS0AwiwHEaP8hQgdVHk3ZNi0KMYfJgguCzPUroB_gkCwmqKlL9av&rfn=127>\r\n하세요\r\n[image: Google]\r\nGoogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1717512294000?rfn%3D127%26rfnc%3D1%26eid%3D-1172161920664456412%26et%3D1>\r\n다음 페이지에서 보안 활동도 확인할 수 있습니다.\r\nhttps://myaccount.google.com/notifications\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2024 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+        "date": "2024-06-04T14:44:54+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "36",
+        "summary": "이 이메일은 acrombie092@gmail.com 계정에 대한 보안 경고로, imyongjun@naver.com이 복구 이메일로 설정되어 있음을 알립니다. 만약 이 계정에 대한 액세스 권한을 부여한 적이 없다면, 즉시 활동을 확인하고 계정을 보호해야 합니다.",
+        "key_points": [
+          "acrombie092@gmail.com 계정에 대한 보안 경고",
+          "복구 이메일은 imyongjun@naver.com",
+          "액세스 권한을 부여한 적이 없다면 즉시 확인 필요"
+        ],
+        "sentiment": "negative",
+        "urgency_level": "high",
+        "action_required": true,
+        "suggested_response": "계정 활동을 즉시 확인하고 필요한 조치를 취하세요.",
+        "created_at": "2025-10-01T16:39:12.003712"
+      },
+      "priority": {
+        "overall_score": 0.16,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "review_20251001_163950",
+          "action_type": "review",
+          "title": "문서 검토: ogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\n...",
+          "description": "ogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&contin",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "Google <no-reply@accounts.google.com>",
+          "source_message_id": "36",
+          "context": {
+            "keyword": "확인",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-10-01T16:39:50.764203",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "35",
+        "sender": "카카오페이 <noreply_kakaopay@kakaocorp.com>",
+        "subject": "[카카오페이] 뿌리기 서비스 종료 안내",
+        "body": "카카오페이에서 알려드립니다. 안녕하세요. 카카오페이입니다. 항상 카카오페이를 이용해주셔서 감사드리며, 뿌리기 서비스가 종료될 예정임을 안내드립니다. ■ 종료 일시 - 2024년 7월 8일(월) ■ 종료 서비스 - 뿌리기 서비스 종료일 이후에는 뿌리기 서비스 이용이 불가한 점 참고 바랍니다. 더욱 편리하고 안전한 서비스를 위해 노력하는 카카오페이가 되겠습니다. 감사합니다. 본 메일은 발신전용 메일입니다. ©Kakao Pay Corp.",
+        "content": "카카오페이에서 알려드립니다. 안녕하세요. 카카오페이입니다. 항상 카카오페이를 이용해주셔서 감사드리며, 뿌리기 서비스가 종료될 예정임을 안내드립니다. ■ 종료 일시 - 2024년 7월 8일(월) ■ 종료 서비스 - 뿌리기 서비스 종료일 이후에는 뿌리기 서비스 이용이 불가한 점 참고 바랍니다. 더욱 편리하고 안전한 서비스를 위해 노력하는 카카오페이가 되겠습니다. 감사합니다. 본 메일은 발신전용 메일입니다. ©Kakao Pay Corp.",
+        "date": "2024-06-04T06:19:44+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "35",
+        "summary": "카카오페이가 뿌리기 서비스 종료를 안내합니다. 서비스는 2024년 7월 8일에 종료되며, 이후에는 해당 서비스를 이용할 수 없습니다.",
+        "key_points": [
+          "뿌리기 서비스 종료 예정",
+          "종료 일시: 2024년 7월 8일",
+          "종료 후 서비스 이용 불가"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "medium",
+        "action_required": false,
+        "suggested_response": "해당 내용 확인 후 서비스 이용 계획 조정",
+        "created_at": "2025-10-01T16:39:12.141260"
+      },
+      "priority": {
+        "overall_score": 0.14500000000000002,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.3,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "37",
+        "sender": "\" 무신사 \"<mail@musinsa.com>",
+        "subject": "무신사스토어 이용약관 개정 관련",
+        "body": "무신사스토어 서비스 이용약관 개정 안내 안녕하세요 . 주식회사 무신사 입니다 . 무신사스토어를 이용해 주시는 회원분들께 감사드리며 , 무신사스토어 서비스 이용약관이 개정될 예정으로 사전 안내 드립니다 . 1. 적용시기 : 2024 년 6 월 10 일 (월 요일 ) 2. 개정 약관 제 4 조 ( 서비스의 제공 및 변경 ) ① “ 회사 ” 는 다음과 같은 업무를 수행합니다 . 1. 재화 등의 거래 및 정보 제공을 위한 플랫폼의 운영 및 개발 업무 2. 재화 등의 정보 검색 지원 업무 3. 재화 등의 구매 관련 지원 업무 4. 대금의 결제 및 정산 관련 업무 5. 기타 전자상거래와 관련하여 “ 회사 ” 가 정하는 업무 제 4 조 ( 서비스의 제공 및 변경 ) ① “ 회사 ” 는 다음과 같은 업무를 수행합니다 1. 재화 등의 거래 및 정보 제공을 위한 플랫폼의 운영 및 개발 업무 2. 재화 등의 정보 검색 지원 업무 3. 재화 등의 구매 관련 지원 업무 4. 대금의 결제 및 정산 관련 업무 5. 이용자의 특성에 기반한 맞춤형 콘텐츠 추천 서비스의 제공 업무 6. 기타 전자상거래와 관련하여 “ 회사 ” 가 정하는 업무 3. 2024 년 6 월 10 일 까지 동의 또는 거부의 의사를 표시하지 않으실 경우 본 개정 약관에 동의하시는 것으로 간주합니다 . 주식회사 무신사는 더 나은 서비스 제공을 위해 항상 최선을 다하겠습니다 . 앞으로도 지속적인 서비스 이용과 관심 부탁드립니다 . 감사합니다 . 본 메일은 발신 전용 메일이며, 회신되지 않으므로 문의사항은 고객센터 를 이용해주세요. COPYRIGHTS (C)MUSINSA ALL RIGHTS RESERVED.",
+        "content": "무신사스토어 서비스 이용약관 개정 안내 안녕하세요 . 주식회사 무신사 입니다 . 무신사스토어를 이용해 주시는 회원분들께 감사드리며 , 무신사스토어 서비스 이용약관이 개정될 예정으로 사전 안내 드립니다 . 1. 적용시기 : 2024 년 6 월 10 일 (월 요일 ) 2. 개정 약관 제 4 조 ( 서비스의 제공 및 변경 ) ① “ 회사 ” 는 다음과 같은 업무를 수행합니다 . 1. 재화 등의 거래 및 정보 제공을 위한 플랫폼의 운영 및 개발 업무 2. 재화 등의 정보 검색 지원 업무 3. 재화 등의 구매 관련 지원 업무 4. 대금의 결제 및 정산 관련 업무 5. 기타 전자상거래와 관련하여 “ 회사 ” 가 정하는 업무 제 4 조 ( 서비스의 제공 및 변경 ) ① “ 회사 ” 는 다음과 같은 업무를 수행합니다 1. 재화 등의 거래 및 정보 제공을 위한 플랫폼의 운영 및 개발 업무 2. 재화 등의 정보 검색 지원 업무 3. 재화 등의 구매 관련 지원 업무 4. 대금의 결제 및 정산 관련 업무 5. 이용자의 특성에 기반한 맞춤형 콘텐츠 추천 서비스의 제공 업무 6. 기타 전자상거래와 관련하여 “ 회사 ” 가 정하는 업무 3. 2024 년 6 월 10 일 까지 동의 또는 거부의 의사를 표시하지 않으실 경우 본 개정 약관에 동의하시는 것으로 간주합니다 . 주식회사 무신사는 더 나은 서비스 제공을 위해 항상 최선을 다하겠습니다 . 앞으로도 지속적인 서비스 이용과 관심 부탁드립니다 . 감사합니다 . 본 메일은 발신 전용 메일이며, 회신되지 않으므로 문의사항은 고객센터 를 이용해주세요. COPYRIGHTS (C)MUSINSA ALL RIGHTS RESERVED.",
+        "date": "2024-06-05T20:50:27+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "37",
+        "summary": "무신사스토어의 서비스 이용약관이 2024년 6월 10일에 개정될 예정이며, 회원들은 동의 또는 거부 의사를 표시해야 합니다. 개정된 약관에는 맞춤형 콘텐츠 추천 서비스가 추가됩니다.",
+        "key_points": [
+          "2024년 6월 10일에 이용약관 개정 적용",
+          "개정 약관에 맞춤형 콘텐츠 추천 서비스 추가",
+          "동의 또는 거부 의사를 2024년 6월 10일까지 표시해야 함"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "medium",
+        "action_required": true,
+        "suggested_response": "약관 개정에 대한 동의 또는 거부 의사를 표시할 필요가 있습니다.",
+        "created_at": "2025-10-01T16:39:14.109287"
+      },
+      "priority": {
+        "overall_score": 0.14,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.4,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "task_20251001_163950",
+          "action_type": "task",
+          "title": "업무 처리",
+          "description": "으로 사전 안내 드립니다 . 1. 적용시기 : 2024 년 6 월 10 일 (월 요일 ) 2. 개정 약관 제 4 조 ( 서비스의 제공 및 변경 ) ① “ 회사 ” 는 다음과 같은 업무를 수행합니다 . 1. 재화 등의 거래 및 정보 제공을 위한 플랫폼의 운영 및 개발 업무 2. 재화 등의 정보 검색 지원 업무 3. 재화 등의 구매 관련 지원 업무 4. 대금의 결",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "\" 무신사 \"<mail@musinsa.com>",
+          "source_message_id": "37",
+          "context": {
+            "keyword": "업무",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-10-01T16:39:50.771185",
+          "status": "pending"
+        },
+        {
+          "action_id": "response_20251001_163950",
+          "action_type": "response",
+          "title": "답변 작성",
+          "description": ". 주식회사 무신사는 더 나은 서비스 제공을 위해 항상 최선을 다하겠습니다 . 앞으로도 지속적인 서비스 이용과 관심 부탁드립니다 . 감사합니다 . 본 메일은 발신 전용 메일이며, 회신되지 않으므로 문의사항은 고객센터 를 이용해주세요. COPYRIGHTS (C)MUSINSA ALL RIGHTS RESERVED.",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "\" 무신사 \"<mail@musinsa.com>",
+          "source_message_id": "37",
+          "context": {
+            "keyword": "회신",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-10-01T16:39:50.804061",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "39+40",
+        "sender": "YouTube <noreply@youtube.com>",
+        "subject": "TEN OF CLUBS loves your comment",
+        "body": "TEN OF CLUBS loves your comment\r\nTEN OF CLUBS loves your comment on Wow Bananas Go Bahamas Slot 360 Free  \r\nSpins Challenge! 🎰\r\n@user-vg3hc8vi1k\r\nComment: Good game\r\nVideo: http://www.youtube.com/watch?v=4HdUDao7-kY&feature=em-comments\r\nComment URL:  \r\nhttp://www.youtube.com/watch?v=4HdUDao7-kY&lc=Ugxpa5BoLZUJ6YSVDsR4AaABAg&feature=em-comments\r\nUnsubscribe:  \r\nhttps://www.youtube.com/email_unsubscribe?uid=AebNfqicQ8yPMdVbSJGpoX8lnNFD00-nEJX2XROOjSOmbfrn1GYjm71SHKfN&action_unsubscribe=comment&timestamp=1717661518&feature=em-comments\nTEN OF CLUBS loves your comment\r\nTEN OF CLUBS loves your comment on Wow Bananas Go Bahamas Slot 360 Free  \r\nSpins Challenge! 🎰\r\n@user-ne9qi7nu7h\r\nComment: Good game\r\nVideo: http://www.youtube.com/watch?v=4HdUDao7-kY&feature=em-comments\r\nComment URL:  \r\nhttp://www.youtube.com/watch?v=4HdUDao7-kY&lc=UgyeO29Gn1GbKRHuUjN4AaABAg&feature=em-comments\r\nUnsubscribe:  \r\nhttps://www.youtube.com/email_unsubscribe?uid=AebNfqgw5firUIHLv6inDqCUxjPJb7mErOhLDZllFGFkP28MKh1DOiQhk-g&action_unsubscribe=comment&timestamp=1717661587&feature=em-comments",
+        "content": "TEN OF CLUBS loves your comment\r\nTEN OF CLUBS loves your comment on Wow Bananas Go Bahamas Slot 360 Free  \r\nSpins Challenge! 🎰\r\n@user-vg3hc8vi1k\r\nComment: Good game\r\nVideo: http://www.youtube.com/watch?v=4HdUDao7-kY&feature=em-comments\r\nComment URL:  \r\nhttp://www.youtube.com/watch?v=4HdUDao7-kY&lc=Ugxpa5BoLZUJ6YSVDsR4AaABAg&feature=em-comments\r\nUnsubscribe:  \r\nhttps://www.youtube.com/email_unsubscribe?uid=AebNfqicQ8yPMdVbSJGpoX8lnNFD00-nEJX2XROOjSOmbfrn1GYjm71SHKfN&action_unsubscribe=comment&timestamp=1717661518&feature=em-comments\nTEN OF CLUBS loves your comment\r\nTEN OF CLUBS loves your comment on Wow Bananas Go Bahamas Slot 360 Free  \r\nSpins Challenge! 🎰\r\n@user-ne9qi7nu7h\r\nComment: Good game\r\nVideo: http://www.youtube.com/watch?v=4HdUDao7-kY&feature=em-comments\r\nComment URL:  \r\nhttp://www.youtube.com/watch?v=4HdUDao7-kY&lc=UgyeO29Gn1GbKRHuUjN4AaABAg&feature=em-comments\r\nUnsubscribe:  \r\nhttps://www.youtube.com/email_unsubscribe?uid=AebNfqgw5firUIHLv6inDqCUxjPJb7mErOhLDZllFGFkP28MKh1DOiQhk-g&action_unsubscribe=comment&timestamp=1717661587&feature=em-comments",
+        "date": "2024-06-06T08:13:07+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "39+40",
+        "summary": "YouTube에서 TEN OF CLUBS가 사용자의 댓글을 좋아했다는 알림을 보냈습니다. 댓글 내용은 'Good game'이며, 관련 비디오 링크도 포함되어 있습니다.",
+        "key_points": [
+          "TEN OF CLUBS가 사용자의 댓글을 좋아함",
+          "댓글 내용: 'Good game'",
+          "관련 비디오 링크 제공"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답이 필요하지 않음",
+        "created_at": "2025-10-01T16:39:13.745917"
+      },
+      "priority": {
+        "overall_score": 0.13,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.3,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:24:22+00:00_82+json_2025-09-26T02:24:24+00:00_83+json_2025-09-26T02:24:26+00:00_84+json_2025-09-26T02:24:29+00:00_85+json_2025-09-26T02:24:30+00:00_86",
+        "sender": "무야호",
+        "subject": "",
+        "body": "음\n담주에\n해봐야겠다\n오늘은일단\n뱃지따고",
+        "content": "음\n담주에\n해봐야겠다\n오늘은일단\n뱃지따고",
+        "date": "2025-09-26T02:24:30+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:24:22+00:00_82+json_2025-09-26T02:24:24+00:00_83+json_2025-09-26T02:24:26+00:00_84+json_2025-09-26T02:24:29+00:00_85+json_2025-09-26T02:24:30+00:00_86",
+        "summary": "발신자는 다음 주에 어떤 일을 해보겠다고 계획하고 있으며, 오늘은 뱃지를 따는 것에 집중할 것이라고 언급하고 있습니다.",
+        "key_points": [
+          "다음 주에 어떤 일을 해볼 계획",
+          "오늘은 뱃지 따기에 집중",
+          "메시지가 간결함"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "다음 주 계획에 대해 더 이야기해보세요.",
+        "created_at": "2025-10-01T16:39:12.624452"
+      },
+      "priority": {
+        "overall_score": 0.105,
+        "priority_level": "low",
+        "urgency_score": 0.1,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:07:10+00:00_2+json_2025-09-26T02:07:11+00:00_3+json_2025-09-26T02:07:17+00:00_4+json_2025-09-26T02:07:21+00:00_5+json_2025-09-26T02:07:25+00:00_6",
+        "sender": "무야호",
+        "subject": "",
+        "body": "근대\n대충\n요약하면\n퇴근하고싶다~ 점심뭐먹죠\n같은거 뽑아줄듯",
+        "content": "근대\n대충\n요약하면\n퇴근하고싶다~ 점심뭐먹죠\n같은거 뽑아줄듯",
+        "date": "2025-09-26T02:07:25+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:07:10+00:00_2+json_2025-09-26T02:07:11+00:00_3+json_2025-09-26T02:07:17+00:00_4+json_2025-09-26T02:07:21+00:00_5+json_2025-09-26T02:07:25+00:00_6",
+        "summary": "발신자는 퇴근하고 싶다는 감정을 표현하며 점심 메뉴에 대한 의견을 묻고 있습니다. 전체적으로 가벼운 대화의 톤을 가지고 있습니다.",
+        "key_points": [
+          "퇴근하고 싶다",
+          "점심 메뉴에 대한 질문",
+          "가벼운 대화 톤"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "점심 메뉴에 대한 아이디어를 공유해 주세요.",
+        "created_at": "2025-10-01T16:39:15.949065"
+      },
+      "priority": {
+        "overall_score": 0.105,
+        "priority_level": "low",
+        "urgency_score": 0.1,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T03:34:27+00:00_99",
+        "sender": "무야호",
+        "subject": "",
+        "body": "설마",
+        "content": "설마",
+        "date": "2025-09-26T03:34:27+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T03:34:27+00:00_99",
+        "summary": "메시지는 간단한 질문 형태로, 발신자가 어떤 상황에 대해 의문을 가지고 있는 것으로 보입니다. 내용이 짧아 구체적인 맥락은 부족하지만, 의문을 제기하는 톤이 느껴집니다.",
+        "key_points": [
+          "발신자가 의문을 가지고 있음",
+          "구체적인 내용이 부족함",
+          "짧은 메시지"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "더 구체적인 질문이나 상황을 요청하는 응답",
+        "created_at": "2025-10-01T16:39:15.287786"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T03:34:18+00:00_98",
+        "sender": "네밋",
+        "subject": "",
+        "body": "초기화되어있다고요?",
+        "content": "초기화되어있다고요?",
+        "date": "2025-09-26T03:34:18+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T03:34:18+00:00_98",
+        "summary": "발신자가 초기화 상태에 대한 언급을 하고 있습니다. 이 메시지는 문제 해결을 위한 추가적인 정보나 조치를 요구할 가능성이 있습니다.",
+        "key_points": [
+          "초기화 상태에 대한 언급",
+          "문제 해결 필요성 암시"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "medium",
+        "action_required": true,
+        "suggested_response": "초기화 상태에 대한 자세한 설명이나 추가 정보 요청",
+        "created_at": "2025-10-01T16:39:15.320614"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T03:33:59+00:00_94+json_2025-09-26T03:34:03+00:00_95+json_2025-09-26T03:34:07+00:00_96+json_2025-09-26T03:34:10+00:00_97",
+        "sender": "무야호",
+        "subject": "",
+        "body": "이거\ndata.integration\n왜 초기화되어있지?\n다들었는데퀴즈까지했는데",
+        "content": "이거\ndata.integration\n왜 초기화되어있지?\n다들었는데퀴즈까지했는데",
+        "date": "2025-09-26T03:34:10+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T03:33:59+00:00_94+json_2025-09-26T03:34:03+00:00_95+json_2025-09-26T03:34:07+00:00_96+json_2025-09-26T03:34:10+00:00_97",
+        "summary": "발신자가 data.integration의 초기화 문제에 대해 질문하고 있으며, 이전에 퀴즈를 진행했음을 언급하고 있습니다. 이 문제에 대한 해결책을 찾고자 하는 의도가 보입니다.",
+        "key_points": [
+          "data.integration이 초기화되어 있음",
+          "퀴즈를 진행한 후 문제 발생",
+          "문제 해결을 위한 질문"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "medium",
+        "action_required": true,
+        "suggested_response": "data.integration 초기화 문제에 대해 확인하고, 필요한 조치를 취하겠습니다.",
+        "created_at": "2025-10-01T16:39:17.671497"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:30:47+00:00_92+json_2025-09-26T02:30:48+00:00_93",
+        "sender": "네밋",
+        "subject": "",
+        "body": "보기도 같이 주고 풀라고 한거에요?\n뭐지",
+        "content": "보기도 같이 주고 풀라고 한거에요?\n뭐지",
+        "date": "2025-09-26T02:30:48+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:30:47+00:00_92+json_2025-09-26T02:30:48+00:00_93",
+        "summary": "발신자가 요청한 사항에 대한 확인을 하고 있으며, 상대방의 의도를 이해하지 못하고 혼란스러워하는 상황입니다.",
+        "key_points": [
+          "상대방에게 요청한 사항에 대한 확인",
+          "상대방의 의도에 대한 혼란",
+          "추가적인 정보 요청 가능성"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": true,
+        "suggested_response": "요청하신 사항에 대해 다시 확인해보겠습니다. 추가적인 정보가 필요하신가요?",
+        "created_at": "2025-10-01T16:39:17.586094"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:29:41+00:00_87+json_2025-09-26T02:29:46+00:00_88+json_2025-09-26T02:29:56+00:00_89+json_2025-09-26T02:29:57+00:00_90+json_2025-09-26T02:29:59+00:00_91",
+        "sender": "무야호",
+        "subject": "",
+        "body": "님들\nreal straming data 에서\ngpt 는 80퍼라는데\n보기에 없음\n;;;",
+        "content": "님들\nreal straming data 에서\ngpt 는 80퍼라는데\n보기에 없음\n;;;",
+        "date": "2025-09-26T02:29:59+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:29:41+00:00_87+json_2025-09-26T02:29:46+00:00_88+json_2025-09-26T02:29:56+00:00_89+json_2025-09-26T02:29:57+00:00_90+json_2025-09-26T02:29:59+00:00_91",
+        "summary": "발신자가 real streaming data에 대한 GPT의 성능에 대해 언급하고 있으며, 80%의 정확도를 주장하고 있지만 관련 정보가 보이지 않는다고 불만을 표출하고 있습니다.",
+        "key_points": [
+          "real streaming data에서 GPT의 성능이 80%라고 주장",
+          "해당 정보가 보이지 않음",
+          "불만의 표현"
+        ],
+        "sentiment": "negative",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "해당 정보에 대해 추가적인 확인이 필요합니다.",
+        "created_at": "2025-10-01T16:39:19.064731"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:23:57+00:00_78+json_2025-09-26T02:24:08+00:00_79+json_2025-09-26T02:24:12+00:00_80+json_2025-09-26T02:24:14+00:00_81",
+        "sender": "네밋",
+        "subject": "",
+        "body": "음 싱글스테이지면 리소스만 있으면 아마?\n이거 codex나 cursor같은거 말고\n챗지피티 agent mode 켜서\n그걸로 한번 시켜봐요",
+        "content": "음 싱글스테이지면 리소스만 있으면 아마?\n이거 codex나 cursor같은거 말고\n챗지피티 agent mode 켜서\n그걸로 한번 시켜봐요",
+        "date": "2025-09-26T02:24:14+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:23:57+00:00_78+json_2025-09-26T02:24:08+00:00_79+json_2025-09-26T02:24:12+00:00_80+json_2025-09-26T02:24:14+00:00_81",
+        "summary": "네밋은 싱글스테이지에서 리소스만 있으면 가능하다고 언급하며, 챗GPT의 agent mode를 사용해 보기를 제안하고 있습니다.",
+        "key_points": [
+          "싱글스테이지면 리소스만 있으면 가능할 것",
+          "codex나 cursor는 사용하지 않음",
+          "챗GPT agent mode를 사용해 보라는 제안"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": true,
+        "suggested_response": "챗GPT agent mode를 켜고 시도해 보겠습니다.",
+        "created_at": "2025-10-01T16:39:19.735963"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:23:40+00:00_75+json_2025-09-26T02:23:41+00:00_76+json_2025-09-26T02:23:42+00:00_77",
+        "sender": "무야호",
+        "subject": "",
+        "body": "까비\n마리오는\n가능:?",
+        "content": "까비\n마리오는\n가능:?",
+        "date": "2025-09-26T02:23:42+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:23:40+00:00_75+json_2025-09-26T02:23:41+00:00_76+json_2025-09-26T02:23:42+00:00_77",
+        "summary": "발신자가 '까비'라는 짧은 메시지를 통해 무언가 아쉬움을 표현하고 있으며, '마리오는 가능?'이라는 질문이 포함되어 있습니다. 이는 특정 상황에 대한 확인 요청으로 보입니다.",
+        "key_points": [
+          "발신자가 아쉬움을 표현",
+          "마리오와 관련된 가능성에 대한 질문",
+          "짧은 메시지로 간결하게 전달됨"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "상황에 대한 추가 정보 요청 또는 확인",
+        "created_at": "2025-10-01T16:39:19.469490"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:22:38+00:00_74",
+        "sender": "네밋",
+        "subject": "",
+        "body": "그런건 분기점이랑 리소스가 없어서 못만들죠",
+        "content": "그런건 분기점이랑 리소스가 없어서 못만들죠",
+        "date": "2025-09-26T02:22:38+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:22:38+00:00_74",
+        "summary": "네밋은 분기점과 리소스 부족으로 인해 특정 작업을 수행할 수 없다고 언급하고 있습니다. 이는 현재 상황에서 진행이 어렵다는 의미입니다.",
+        "key_points": [
+          "분기점이 부족함",
+          "리소스가 부족함",
+          "작업 수행 불가"
+        ],
+        "sentiment": "negative",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "리소스나 지원을 제공할 수 있는 방법을 논의해보세요.",
+        "created_at": "2025-10-01T16:39:20.602142"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:22:29+00:00_73",
+        "sender": "무야호",
+        "subject": "",
+        "body": "만들어달라하면만들어줄거같은데",
+        "content": "만들어달라하면만들어줄거같은데",
+        "date": "2025-09-26T02:22:29+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:22:29+00:00_73",
+        "summary": "발신자가 요청에 대해 긍정적인 반응을 보이며, 누군가가 만들어줄 것이라는 기대감을 표현하고 있습니다. 메시지는 다소 불완전하지만, 요청이 있을 경우 응답할 의사가 있는 것으로 보입니다.",
+        "key_points": [
+          "요청에 대한 긍정적인 반응",
+          "누군가가 만들어줄 것이라는 기대",
+          "내용이 길면 앞부분만 언급"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "어떤 것을 만들어줄지 구체적으로 알려주세요.",
+        "created_at": "2025-10-01T16:39:21.520074"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:22:27+00:00_72",
+        "sender": "네밋",
+        "subject": "",
+        "body": "https://www.pygame.org/tags/all",
+        "content": "https://www.pygame.org/tags/all",
+        "date": "2025-09-26T02:22:27+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:22:27+00:00_72",
+        "summary": "네밋이 Pygame 관련 링크를 공유했습니다. 이 링크는 Pygame의 모든 태그를 포함하고 있습니다.",
+        "key_points": [
+          "Pygame 관련 링크 공유",
+          "모든 태그 포함"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "링크를 확인하겠습니다. 감사합니다.",
+        "created_at": "2025-10-01T16:39:21.814664"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:22:17+00:00_69+json_2025-09-26T02:22:21+00:00_70+json_2025-09-26T02:22:24+00:00_71",
+        "sender": "무야호",
+        "subject": "",
+        "body": "오\n포켓몬 레드나\n골드 이런거",
+        "content": "오\n포켓몬 레드나\n골드 이런거",
+        "date": "2025-09-26T02:22:24+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:22:17+00:00_69+json_2025-09-26T02:22:21+00:00_70+json_2025-09-26T02:22:24+00:00_71",
+        "summary": "발신자가 포켓몬 게임에 대해 언급하고 있습니다. 구체적인 요청이나 질문은 없지만, 특정 게임 제목이 언급되었습니다.",
+        "key_points": [
+          "포켓몬 레드 언급",
+          "포켓몬 골드 언급"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "포켓몬 게임에 대해 더 이야기해보세요.",
+        "created_at": "2025-10-01T16:39:22.219795"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:22:14+00:00_68",
+        "sender": "네밋",
+        "subject": "",
+        "body": "pygame으로 만들수 이써요",
+        "content": "pygame으로 만들수 이써요",
+        "date": "2025-09-26T02:22:14+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:22:14+00:00_68",
+        "summary": "발신자가 pygame을 사용하여 무언가를 만들 수 있다는 내용을 전달하고 있습니다. 구체적인 요청이나 질문은 포함되어 있지 않습니다.",
+        "key_points": [
+          "pygame 사용 가능",
+          "구체적인 내용 없음"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "pygame으로 무엇을 만들고자 하는지 더 구체적으로 알려주세요.",
+        "created_at": "2025-10-01T16:39:23.953010"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:22:04+00:00_64+json_2025-09-26T02:22:07+00:00_65+json_2025-09-26T02:22:08+00:00_66+json_2025-09-26T02:22:12+00:00_67",
+        "sender": "무야호",
+        "subject": "",
+        "body": "ㅇㅇ\n만들만하지안나\n간단하게\ngpt정도면",
+        "content": "ㅇㅇ\n만들만하지안나\n간단하게\ngpt정도면",
+        "date": "2025-09-26T02:22:12+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:22:04+00:00_64+json_2025-09-26T02:22:07+00:00_65+json_2025-09-26T02:22:08+00:00_66+json_2025-09-26T02:22:12+00:00_67",
+        "summary": "발신자가 간단한 작업을 제안하고 있으며, GPT와 같은 도구를 활용할 수 있는 가능성을 언급하고 있습니다.",
+        "key_points": [
+          "간단한 작업 제안",
+          "GPT 활용 가능성 언급"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "작업에 대한 추가 정보나 구체적인 요구 사항을 요청하는 것이 좋습니다.",
+        "created_at": "2025-10-01T16:39:23.872213"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:21:55+00:00_59+json_2025-09-26T02:21:58+00:00_60+json_2025-09-26T02:22:01+00:00_61+json_2025-09-26T02:22:03+00:00_62",
+        "sender": "무야호",
+        "subject": "",
+        "body": "근대\n오래된 게임같은거있잖아요\n쯔꾸르나\n좀 도트게임들은",
+        "content": "근대\n오래된 게임같은거있잖아요\n쯔꾸르나\n좀 도트게임들은",
+        "date": "2025-09-26T02:22:03+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:21:55+00:00_59+json_2025-09-26T02:21:58+00:00_60+json_2025-09-26T02:22:01+00:00_61+json_2025-09-26T02:22:03+00:00_62",
+        "summary": "발신자가 오래된 게임, 특히 쯔꾸르와 도트 게임에 대해 언급하고 있습니다. 이 메시지는 게임에 대한 관심을 표현하고 있습니다.",
+        "key_points": [
+          "오래된 게임에 대한 언급",
+          "쯔꾸르와 도트 게임에 대한 관심"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "어떤 게임을 추천하시나요?",
+        "created_at": "2025-10-01T16:39:24.587481"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:22:03+00:00_63",
+        "sender": "네밋",
+        "subject": "",
+        "body": "레트로게임같은거요?",
+        "content": "레트로게임같은거요?",
+        "date": "2025-09-26T02:22:03+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:22:03+00:00_63",
+        "summary": "발신자가 레트로 게임에 대한 언급을 하고 있습니다. 구체적인 요청이나 질문은 포함되어 있지 않습니다.",
+        "key_points": [
+          "레트로 게임에 대한 언급",
+          "구체적인 요청 없음"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "레트로 게임에 대해 어떤 부분을 이야기하고 싶으신가요?",
+        "created_at": "2025-10-01T16:39:24.321196"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:21:33+00:00_58",
+        "sender": "네밋",
+        "subject": "",
+        "body": "네",
+        "content": "네",
+        "date": "2025-09-26T02:21:33+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:21:33+00:00_58",
+        "summary": "네밋의 메시지는 간단한 응답으로 보이며, 내용이 길 경우 앞부분만 포함되어 있습니다. 구체적인 요청이나 긴급한 사항은 나타나지 않습니다.",
+        "key_points": [],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "메시지 확인했습니다. 추가 정보가 필요하면 말씀해 주세요.",
+        "created_at": "2025-10-01T16:39:24.537885"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:20:52+00:00_57",
+        "sender": "무야호",
+        "subject": "",
+        "body": "준영님",
+        "content": "준영님",
+        "date": "2025-09-26T02:20:52+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:20:52+00:00_57",
+        "summary": "무야호가 준영님에게 메시지를 보냈습니다. 내용이 길 경우 앞부분만 포함되어 있습니다.",
+        "key_points": [],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "내용을 확인 후 필요한 경우 답변해주세요.",
+        "created_at": "2025-10-01T16:39:26.807823"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:18:56+00:00_56",
+        "sender": "네밋",
+        "subject": "",
+        "body": "오우",
+        "content": "오우",
+        "date": "2025-09-26T02:18:56+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:18:56+00:00_56",
+        "summary": "네밋의 메시지는 내용이 길어 앞부분만 확인할 수 있으며, 전체적인 맥락은 불분명합니다. 추가적인 정보가 필요합니다.",
+        "key_points": [],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "추가 정보를 요청하는 응답이 필요합니다.",
+        "created_at": "2025-10-01T16:39:26.244287"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:14:49+00:00_53+json_2025-09-26T02:15:06+00:00_54+json_2025-09-26T02:15:07+00:00_55",
+        "sender": "무야호",
+        "subject": "",
+        "body": "형우띠꺼임\n저는쫌\n카와이한편",
+        "content": "형우띠꺼임\n저는쫌\n카와이한편",
+        "date": "2025-09-26T02:15:07+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:14:49+00:00_53+json_2025-09-26T02:15:06+00:00_54+json_2025-09-26T02:15:07+00:00_55",
+        "summary": "무야호는 '형우띠꺼임'이라는 표현을 사용하며, 자신이 조금 귀엽다는 점을 강조하고 있습니다. 메시지는 가벼운 톤을 가지고 있습니다.",
+        "key_points": [
+          "형우띠꺼임이라는 표현 사용",
+          "자신이 귀엽다고 언급",
+          "가벼운 톤"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "그렇구나! 귀엽네~",
+        "created_at": "2025-10-01T16:39:28.431985"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:14:43+00:00_51+json_2025-09-26T02:14:49+00:00_52",
+        "sender": "네밋",
+        "subject": "",
+        "body": "아스트랄하네요\n메이플이에요?",
+        "content": "아스트랄하네요\n메이플이에요?",
+        "date": "2025-09-26T02:14:49+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:14:43+00:00_51+json_2025-09-26T02:14:49+00:00_52",
+        "summary": "발신자가 아스트랄하다는 표현을 사용하며, 메이플에 대한 질문을 하고 있습니다. 이는 긍정적인 감정을 나타내는 것으로 보입니다.",
+        "key_points": [
+          "아스트랄하다는 표현 사용",
+          "메이플에 대한 질문",
+          "긍정적인 감정"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "네, 메이플이에요! 아스트랄하다는 표현이 좋네요.",
+        "created_at": "2025-10-01T16:39:28.556683"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:14:07+00:00_50",
+        "sender": "1234",
+        "subject": "",
+        "body": ";;;//",
+        "content": ";;;//",
+        "date": "2025-09-26T02:14:07+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:14:07+00:00_50",
+        "summary": "메시지의 내용은 길어 보이며, 앞부분만 제공되었습니다. 구체적인 요청이나 긴급한 사항은 확인할 수 없습니다.",
+        "key_points": [],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "추가 정보를 요청하는 응답이 필요할 수 있습니다.",
+        "created_at": "2025-10-01T16:39:28.158746"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:14:02+00:00_49",
+        "sender": "무야호",
+        "subject": "",
+        "body": "코디센스어떄요",
+        "content": "코디센스어떄요",
+        "date": "2025-09-26T02:14:02+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:14:02+00:00_49",
+        "summary": "발신자가 코디센스에 대한 의견을 묻고 있습니다. 추가적인 정보가 필요할 수 있습니다.",
+        "key_points": [
+          "코디센스에 대한 질문",
+          "의견 요청"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "코디센스에 대해 어떻게 생각하는지 알려드리겠습니다.",
+        "created_at": "2025-10-01T16:39:30.171654"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:11:49+00:00_48",
+        "sender": "네밋",
+        "subject": "",
+        "body": "그냥 놔두죠",
+        "content": "그냥 놔두죠",
+        "date": "2025-09-26T02:11:49+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:11:49+00:00_48",
+        "summary": "발신자가 어떤 상황에 대해 '그냥 놔두자'고 제안하고 있습니다. 이는 특정 문제나 상황을 더 이상 다루지 않겠다는 의도로 해석될 수 있습니다.",
+        "key_points": [
+          "문제를 그냥 놔두자는 제안",
+          "상황에 대한 무관심 또는 포기",
+          "추가적인 조치가 필요 없음을 암시"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "이해했습니다. 추가 조치가 필요하지 않다면 그렇게 하겠습니다.",
+        "created_at": "2025-10-01T16:39:31.621274"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:11:25+00:00_43+json_2025-09-26T02:11:28+00:00_44+json_2025-09-26T02:11:31+00:00_45+json_2025-09-26T02:11:33+00:00_46+json_2025-09-26T02:11:35+00:00_47",
+        "sender": "무야호",
+        "subject": "",
+        "body": "님들 근대\n우리 ktop\n프사\n바꿔야대는거아님?\n안바꺼도대나",
+        "content": "님들 근대\n우리 ktop\n프사\n바꿔야대는거아님?\n안바꺼도대나",
+        "date": "2025-09-26T02:11:35+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:11:25+00:00_43+json_2025-09-26T02:11:28+00:00_44+json_2025-09-26T02:11:31+00:00_45+json_2025-09-26T02:11:33+00:00_46+json_2025-09-26T02:11:35+00:00_47",
+        "summary": "발신자가 Ktop의 프로필 사진 변경에 대해 논의하고 있습니다. 변경이 필요하다고 생각하는지에 대한 의견을 묻고 있습니다.",
+        "key_points": [
+          "Ktop의 프로필 사진 변경 필요성 언급",
+          "변경 여부에 대한 의견 요청"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "프로필 사진 변경에 대한 의견을 공유해주세요.",
+        "created_at": "2025-10-01T16:39:32.666967"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:11:20+00:00_41",
+        "sender": "무야호",
+        "subject": "",
+        "body": "핑까비",
+        "content": "핑까비",
+        "date": "2025-09-26T02:11:20+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:11:20+00:00_41",
+        "summary": "발신자가 '핑까비'라는 단어를 언급하며 메시지를 보냈습니다. 메시지의 내용이 짧아 구체적인 요청이나 정보는 포함되어 있지 않습니다.",
+        "key_points": [
+          "발신자: 무야호",
+          "내용: 핑까비"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "메시지에 대한 추가 정보 요청",
+        "created_at": "2025-10-01T16:39:32.411923"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:11:20+00:00_42",
+        "sender": "1234",
+        "subject": "",
+        "body": "가져오시는거에요",
+        "content": "가져오시는거에요",
+        "date": "2025-09-26T02:11:20+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:11:20+00:00_42",
+        "summary": "메시지는 '가져오시는거에요'라는 간단한 내용으로, 특정한 요청이나 지시가 포함되어 있습니다. 추가적인 정보가 필요할 수 있습니다.",
+        "key_points": [
+          "가져오는 것에 대한 언급",
+          "구체적인 요청이 필요할 수 있음"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "더 많은 정보를 요청하는 응답",
+        "created_at": "2025-10-01T16:39:31.466118"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:11:18+00:00_40",
+        "sender": "1234",
+        "subject": "",
+        "body": "대체 준영님은 저런짤들 어디서",
+        "content": "대체 준영님은 저런짤들 어디서",
+        "date": "2025-09-26T02:11:18+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:11:18+00:00_40",
+        "summary": "발신자가 준영님이 특정 이미지를 어디서 찾는지에 대해 궁금해하고 있습니다. 이는 대화의 일환으로 보이며, 특별한 요청은 없습니다.",
+        "key_points": [
+          "준영님에 대한 질문",
+          "특정 이미지의 출처에 대한 궁금증"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "준영님에게 해당 이미지를 어디서 찾았는지 물어보세요.",
+        "created_at": "2025-10-01T16:39:33.865043"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:10:31+00:00_36+json_2025-09-26T02:10:33+00:00_37+json_2025-09-26T02:10:37+00:00_38+json_2025-09-26T02:10:52+00:00_39",
+        "sender": "네밋",
+        "subject": "",
+        "body": "@네밋\n@무야호\n잉 뭐야 이건 안되있네\nhttps 안쓰면 아예 알람등록 자체가 안되나보네",
+        "content": "@네밋\n@무야호\n잉 뭐야 이건 안되있네\nhttps 안쓰면 아예 알람등록 자체가 안되나보네",
+        "date": "2025-09-26T02:10:52+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:10:31+00:00_36+json_2025-09-26T02:10:33+00:00_37+json_2025-09-26T02:10:37+00:00_38+json_2025-09-26T02:10:52+00:00_39",
+        "summary": "네밋이 무야호에게 알람 등록 문제에 대해 언급하고 있으며, HTTPS를 사용하지 않으면 알람 등록이 불가능하다는 점을 지적하고 있습니다.",
+        "key_points": [
+          "알람 등록이 제대로 되지 않음",
+          "HTTPS 사용이 필수임",
+          "문제가 발생한 상황에 대한 불만"
+        ],
+        "sentiment": "negative",
+        "urgency_level": "medium",
+        "action_required": false,
+        "suggested_response": "알람 등록 문제에 대해 추가 정보를 제공하거나 해결 방안을 논의할 수 있습니다.",
+        "created_at": "2025-10-01T16:39:34.918566"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:09:13+00:00_35",
+        "sender": "무야호",
+        "subject": "",
+        "body": "maybe",
+        "content": "maybe",
+        "date": "2025-09-26T02:09:13+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:09:13+00:00_35",
+        "summary": "메시지는 간단한 의견이나 제안으로 보이며, 구체적인 내용은 포함되어 있지 않습니다.",
+        "key_points": [
+          "메시지 내용이 간단함",
+          "구체적인 요청이 없음"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "추가적인 정보나 의견을 요청하는 응답",
+        "created_at": "2025-10-01T16:39:34.913450"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:09:08+00:00_33+json_2025-09-26T02:09:10+00:00_34",
+        "sender": "네밋",
+        "subject": "",
+        "body": "이것도 되긴 할꺼에요\n아마도",
+        "content": "이것도 되긴 할꺼에요\n아마도",
+        "date": "2025-09-26T02:09:10+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:09:08+00:00_33+json_2025-09-26T02:09:10+00:00_34",
+        "summary": "발신자가 어떤 일이 가능할 것이라는 긍정적인 의견을 표현하고 있습니다. 구체적인 내용은 언급되지 않았습니다.",
+        "key_points": [
+          "무언가가 가능할 것이라는 의견",
+          "구체적인 내용은 없음"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "더 구체적인 내용을 요청하는 것이 좋습니다.",
+        "created_at": "2025-10-01T16:39:35.139813"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:08:41+00:00_27+json_2025-09-26T02:08:43+00:00_28+json_2025-09-26T02:08:44+00:00_29+json_2025-09-26T02:08:49+00:00_30+json_2025-09-26T02:08:55+00:00_31+json_2025-09-26T02:09:00+00:00_32",
+        "sender": "무야호",
+        "subject": "",
+        "body": "아니면\n드래그앤드롭도\n기능추가할까\n우리 레시피고할떄는\n드래그앤드롭도 해놨었는데\n그건리액트긴함근대 ㅇㅇ;",
+        "content": "아니면\n드래그앤드롭도\n기능추가할까\n우리 레시피고할떄는\n드래그앤드롭도 해놨었는데\n그건리액트긴함근대 ㅇㅇ;",
+        "date": "2025-09-26T02:09:00+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:08:41+00:00_27+json_2025-09-26T02:08:43+00:00_28+json_2025-09-26T02:08:44+00:00_29+json_2025-09-26T02:08:49+00:00_30+json_2025-09-26T02:08:55+00:00_31+json_2025-09-26T02:09:00+00:00_32",
+        "summary": "발신자가 드래그앤드롭 기능 추가에 대해 고민하고 있으며, 이전 레시피 작업에서 이 기능을 사용한 경험을 언급하고 있습니다.",
+        "key_points": [
+          "드래그앤드롭 기능 추가에 대한 제안",
+          "이전 레시피 작업에서 드래그앤드롭 기능 사용 경험",
+          "리액트와 관련된 언급"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "드래그앤드롭 기능 추가에 대한 의견을 공유해주세요.",
+        "created_at": "2025-10-01T16:39:36.501738"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:08:37+00:00_25",
+        "sender": "무야호",
+        "subject": "",
+        "body": "ㅇㅇ",
+        "content": "ㅇㅇ",
+        "date": "2025-09-26T02:08:37+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:08:37+00:00_25",
+        "summary": "무야호가 보낸 메시지는 간단한 인사로 시작하며, 내용이 길 경우 앞부분만 포함되어 있습니다. 구체적인 요청이나 정보는 포함되어 있지 않습니다.",
+        "key_points": [],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "내용을 더 자세히 알려주세요.",
+        "created_at": "2025-10-01T16:39:37.669334"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:08:37+00:00_26",
+        "sender": "네밋",
+        "subject": "",
+        "body": "그냥 올리는게",
+        "content": "그냥 올리는게",
+        "date": "2025-09-26T02:08:37+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:08:37+00:00_26",
+        "summary": "네밋이 메시지를 전달하고 있으며, 내용이 길 경우 앞부분만 올리겠다는 의도를 나타내고 있습니다.",
+        "key_points": [
+          "메시지를 올리는 것에 대한 언급",
+          "내용이 길면 앞부분만 공유할 것이라는 계획"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "내용을 확인했습니다. 추가 정보가 필요하면 말씀해 주세요.",
+        "created_at": "2025-10-01T16:39:38.933016"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:08:00+00:00_19+json_2025-09-26T02:08:02+00:00_20+json_2025-09-26T02:08:26+00:00_21+json_2025-09-26T02:08:28+00:00_22+json_2025-09-26T02:08:34+00:00_23",
+        "sender": "무야호",
+        "subject": "",
+        "body": "좋소냥이\nㅋㅋ\n컨 c 컨 v 로는\n못올리죠 사진?\n가지고있는거만 가능하죠?",
+        "content": "좋소냥이\nㅋㅋ\n컨 c 컨 v 로는\n못올리죠 사진?\n가지고있는거만 가능하죠?",
+        "date": "2025-09-26T02:08:34+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:08:00+00:00_19+json_2025-09-26T02:08:02+00:00_20+json_2025-09-26T02:08:26+00:00_21+json_2025-09-26T02:08:28+00:00_22+json_2025-09-26T02:08:34+00:00_23",
+        "summary": "발신자는 사진을 올리는 방법에 대해 질문하고 있습니다. 복사 및 붙여넣기로는 사진을 올릴 수 없고, 가지고 있는 것만 가능하다는 점을 확인하고 싶어합니다.",
+        "key_points": [
+          "사진 올리기 방법에 대한 질문",
+          "복사 및 붙여넣기로는 사진을 올릴 수 없음",
+          "가지고 있는 사진만 가능하다는 점 확인"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "사진 올리는 방법에 대해 안내해 주세요.",
+        "created_at": "2025-10-01T16:39:38.335878"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:08:34+00:00_24",
+        "sender": "네밋",
+        "subject": "",
+        "body": "그거 안되는거같아요",
+        "content": "그거 안되는거같아요",
+        "date": "2025-09-26T02:08:34+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:08:34+00:00_24",
+        "summary": "발신자가 어떤 작업이나 요청이 불가능하다고 판단하고 있습니다. 추가적인 정보가 필요할 수 있습니다.",
+        "key_points": [
+          "작업이 불가능하다는 의견",
+          "추가적인 논의가 필요할 수 있음"
+        ],
+        "sentiment": "negative",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "더 구체적인 이유나 대안에 대해 논의해보는 것이 좋겠습니다.",
+        "created_at": "2025-10-01T16:39:38.867824"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:07:48+00:00_16+json_2025-09-26T02:07:51+00:00_17+json_2025-09-26T02:07:59+00:00_18",
+        "sender": "1234",
+        "subject": "",
+        "body": "개열받는 고양이도\n올려주세요\nㅋㅋ ;",
+        "content": "개열받는 고양이도\n올려주세요\nㅋㅋ ;",
+        "date": "2025-09-26T02:07:59+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:07:48+00:00_16+json_2025-09-26T02:07:51+00:00_17+json_2025-09-26T02:07:59+00:00_18",
+        "summary": "발신자가 고양이 관련 콘텐츠를 요청하고 있습니다. 메시지는 유머러스한 톤을 가지고 있으며, 요청이 간단합니다.",
+        "key_points": [
+          "고양이 관련 콘텐츠 요청",
+          "유머러스한 표현 사용",
+          "간단한 요청"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": true,
+        "suggested_response": "고양이 콘텐츠를 올려드리겠습니다!",
+        "created_at": "2025-10-01T16:39:41.086522"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:07:46+00:00_15",
+        "sender": "무야호",
+        "subject": "",
+        "body": "굳",
+        "content": "굳",
+        "date": "2025-09-26T02:07:46+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:07:46+00:00_15",
+        "summary": "발신자가 긍정적인 감정을 표현하며 간단한 메시지를 전달했습니다. 내용이 짧아 구체적인 요청이나 정보는 포함되어 있지 않습니다.",
+        "key_points": [
+          "긍정적인 감정 표현",
+          "내용이 짧음",
+          "구체적인 요청 없음"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "감사합니다! 더 이야기해요.",
+        "created_at": "2025-10-01T16:39:42.678964"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:07:44+00:00_14",
+        "sender": "1234",
+        "subject": "",
+        "body": "오?",
+        "content": "오?",
+        "date": "2025-09-26T02:07:44+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:07:44+00:00_14",
+        "summary": "발신자가 놀라움을 표현하는 짧은 메시지를 보냈습니다. 구체적인 내용은 없지만, 반응을 유도하는 듯한 느낌을 줍니다.",
+        "key_points": [
+          "발신자가 놀라움을 표현함",
+          "구체적인 요청이나 정보는 없음"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "더 자세한 내용을 요청하는 응답",
+        "created_at": "2025-10-01T16:39:41.528488"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:07:43+00:00_13",
+        "sender": "네밋",
+        "subject": "",
+        "body": "보이네요",
+        "content": "보이네요",
+        "date": "2025-09-26T02:07:43+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:07:43+00:00_13",
+        "summary": "메시지의 내용은 간단하게 '보이네요'라는 표현으로, 특정 상황이나 정보를 확인했음을 나타냅니다.",
+        "key_points": [
+          "상황 확인",
+          "간단한 응답"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "확인했습니다. 추가 정보가 필요하시면 말씀해 주세요.",
+        "created_at": "2025-10-01T16:39:41.524588"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:07:38+00:00_10+json_2025-09-26T02:07:40+00:00_11+json_2025-09-26T02:07:40+00:00_12",
+        "sender": "무야호",
+        "subject": "",
+        "body": "사진\n제대로보이나요?\n이제?",
+        "content": "사진\n제대로보이나요?\n이제?",
+        "date": "2025-09-26T02:07:40+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:07:38+00:00_10+json_2025-09-26T02:07:40+00:00_11+json_2025-09-26T02:07:40+00:00_12",
+        "summary": "발신자가 사진을 보내며 제대로 보이는지 확인하고 있습니다. 이는 확인 요청으로 보입니다.",
+        "key_points": [
+          "사진을 보냈음",
+          "제대로 보이는지 확인 요청",
+          "확인 여부에 대한 질문"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": true,
+        "suggested_response": "사진이 잘 보입니다. 확인해주셔서 감사합니다.",
+        "created_at": "2025-10-01T16:39:41.440797"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:07:28+00:00_9",
+        "sender": "네밋",
+        "subject": "",
+        "body": "오점모",
+        "content": "오점모",
+        "date": "2025-09-26T02:07:28+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:07:28+00:00_9",
+        "summary": "네밋이 보낸 메시지는 '오점모'라는 내용으로, 구체적인 설명이 부족하여 전체적인 맥락을 이해하기 어렵습니다.",
+        "key_points": [
+          "메시지 발신자는 네밋",
+          "내용은 '오점모'로 제한적",
+          "추가 정보가 필요함"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "추가 설명을 요청하는 답변을 고려해보세요.",
+        "created_at": "2025-10-01T16:39:44.307396"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:07:26+00:00_8",
+        "sender": "무야호",
+        "subject": "",
+        "body": "ㅋㅋ",
+        "content": "ㅋㅋ",
+        "date": "2025-09-26T02:07:26+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:07:26+00:00_8",
+        "summary": "발신자가 웃음을 표현하며 가벼운 분위기를 전달하고 있습니다. 메시지의 내용은 길지 않아 구체적인 요청이나 정보는 포함되어 있지 않습니다.",
+        "key_points": [
+          "발신자가 웃음을 표현함",
+          "가벼운 분위기",
+          "구체적인 요청 없음"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답 필요 없음, 가벼운 대화로 이어갈 수 있음",
+        "created_at": "2025-10-01T16:39:44.994499"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-09-26T02:07:25+00:00_7",
+        "sender": "데이터표준계약검증에이전트",
+        "subject": "",
+        "body": "아",
+        "content": "아",
+        "date": "2025-09-26T02:07:25+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "json_2025-09-26T02:07:25+00:00_7",
+        "summary": "데이터표준계약검증에이전트에서 발송된 메시지로, 내용이 길어 앞부분만 포함되어 있습니다. 구체적인 요청이나 정보는 포함되어 있지 않습니다.",
+        "key_points": [],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "추가 정보가 필요합니다.",
+        "created_at": "2025-10-01T16:39:44.363271"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "9+10",
+        "sender": "system",
+        "subject": "",
+        "body": "1234님이 입장했습니다.\n1234님이 나갔습니다.",
+        "content": "1234님이 입장했습니다.\n1234님이 나갔습니다.",
+        "date": "2025-09-26T02:06:58+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "9+10",
+        "summary": "사용자 1234님이 채팅에 입장하고 곧바로 나갔습니다. 이 메시지는 사용자의 입장과 퇴장을 알리는 내용입니다.",
+        "key_points": [
+          "사용자 1234님이 입장함",
+          "사용자 1234님이 나감"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답이 필요하지 않음",
+        "created_at": "2025-10-01T16:39:45.043474"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "7+json_2025-09-26T02:06:36+00:00_0+8+json_2025-09-26T02:06:38+00:00_1",
+        "sender": "네밋",
+        "subject": "",
+        "body": ".\n.\n좋다\n좋다",
+        "content": ".\n.\n좋다\n좋다",
+        "date": "2025-09-26T02:06:38+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "7+json_2025-09-26T02:06:36+00:00_0+8+json_2025-09-26T02:06:38+00:00_1",
+        "summary": "발신자가 긍정적인 감정을 표현하며 '좋다'라는 말을 반복하고 있습니다. 이는 긍정적인 피드백이나 동의를 나타낼 수 있습니다.",
+        "key_points": [
+          "발신자는 긍정적인 감정을 표현하고 있음",
+          "'좋다'라는 표현이 반복됨",
+          "특별한 요청이나 지시 사항 없음"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "감사합니다! 더 이야기해보죠.",
+        "created_at": "2025-10-01T16:39:46.969312"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "2+3+4+5+6",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.",
+        "content": "네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.",
+        "date": "2025-09-26T02:06:34+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "2+3+4+5+6",
+        "summary": "네밋님이 여러 번 입장하고 나간 기록이 있습니다. 이 메시지는 네밋님의 활동을 나타냅니다.",
+        "key_points": [
+          "네밋님이 입장했습니다.",
+          "네밋님이 나갔습니다.",
+          "이 활동이 반복되고 있습니다."
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답이 필요하지 않습니다.",
+        "created_at": "2025-10-01T16:39:50.643537"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    },
+    {
+      "message": {
+        "msg_id": "1",
+        "sender": "system",
+        "subject": "",
+        "body": "무야호님이 입장했습니다.",
+        "content": "무야호님이 입장했습니다.",
+        "date": "2025-09-26T02:04:24+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "1",
+        "summary": "무야호님이 시스템에 입장했습니다. 이는 사용자가 시스템에 접속했음을 알리는 메시지입니다.",
+        "key_points": [
+          "무야호님이 입장함",
+          "시스템에 접속한 사용자 알림"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "환영합니다, 무야호님!",
+        "created_at": "2025-10-01T16:39:48.360617"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:39:50.830267"
+    }
+  ],
+  "messages": [
+    {
+      "msg_id": "json_2025-09-26T03:34:27+00:00_99",
+      "sender": "무야호",
+      "subject": "",
+      "body": "설마",
+      "content": "설마",
+      "date": "2025-09-26T03:34:27+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T03:34:18+00:00_98",
+      "sender": "네밋",
+      "subject": "",
+      "body": "초기화되어있다고요?",
+      "content": "초기화되어있다고요?",
+      "date": "2025-09-26T03:34:18+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T03:33:59+00:00_94+json_2025-09-26T03:34:03+00:00_95+json_2025-09-26T03:34:07+00:00_96+json_2025-09-26T03:34:10+00:00_97",
+      "sender": "무야호",
+      "subject": "",
+      "body": "이거\ndata.integration\n왜 초기화되어있지?\n다들었는데퀴즈까지했는데",
+      "content": "이거\ndata.integration\n왜 초기화되어있지?\n다들었는데퀴즈까지했는데",
+      "date": "2025-09-26T03:34:10+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:30:47+00:00_92+json_2025-09-26T02:30:48+00:00_93",
+      "sender": "네밋",
+      "subject": "",
+      "body": "보기도 같이 주고 풀라고 한거에요?\n뭐지",
+      "content": "보기도 같이 주고 풀라고 한거에요?\n뭐지",
+      "date": "2025-09-26T02:30:48+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:29:41+00:00_87+json_2025-09-26T02:29:46+00:00_88+json_2025-09-26T02:29:56+00:00_89+json_2025-09-26T02:29:57+00:00_90+json_2025-09-26T02:29:59+00:00_91",
+      "sender": "무야호",
+      "subject": "",
+      "body": "님들\nreal straming data 에서\ngpt 는 80퍼라는데\n보기에 없음\n;;;",
+      "content": "님들\nreal straming data 에서\ngpt 는 80퍼라는데\n보기에 없음\n;;;",
+      "date": "2025-09-26T02:29:59+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:24:22+00:00_82+json_2025-09-26T02:24:24+00:00_83+json_2025-09-26T02:24:26+00:00_84+json_2025-09-26T02:24:29+00:00_85+json_2025-09-26T02:24:30+00:00_86",
+      "sender": "무야호",
+      "subject": "",
+      "body": "음\n담주에\n해봐야겠다\n오늘은일단\n뱃지따고",
+      "content": "음\n담주에\n해봐야겠다\n오늘은일단\n뱃지따고",
+      "date": "2025-09-26T02:24:30+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:23:57+00:00_78+json_2025-09-26T02:24:08+00:00_79+json_2025-09-26T02:24:12+00:00_80+json_2025-09-26T02:24:14+00:00_81",
+      "sender": "네밋",
+      "subject": "",
+      "body": "음 싱글스테이지면 리소스만 있으면 아마?\n이거 codex나 cursor같은거 말고\n챗지피티 agent mode 켜서\n그걸로 한번 시켜봐요",
+      "content": "음 싱글스테이지면 리소스만 있으면 아마?\n이거 codex나 cursor같은거 말고\n챗지피티 agent mode 켜서\n그걸로 한번 시켜봐요",
+      "date": "2025-09-26T02:24:14+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:23:40+00:00_75+json_2025-09-26T02:23:41+00:00_76+json_2025-09-26T02:23:42+00:00_77",
+      "sender": "무야호",
+      "subject": "",
+      "body": "까비\n마리오는\n가능:?",
+      "content": "까비\n마리오는\n가능:?",
+      "date": "2025-09-26T02:23:42+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:22:38+00:00_74",
+      "sender": "네밋",
+      "subject": "",
+      "body": "그런건 분기점이랑 리소스가 없어서 못만들죠",
+      "content": "그런건 분기점이랑 리소스가 없어서 못만들죠",
+      "date": "2025-09-26T02:22:38+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:22:29+00:00_73",
+      "sender": "무야호",
+      "subject": "",
+      "body": "만들어달라하면만들어줄거같은데",
+      "content": "만들어달라하면만들어줄거같은데",
+      "date": "2025-09-26T02:22:29+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:22:27+00:00_72",
+      "sender": "네밋",
+      "subject": "",
+      "body": "https://www.pygame.org/tags/all",
+      "content": "https://www.pygame.org/tags/all",
+      "date": "2025-09-26T02:22:27+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:22:17+00:00_69+json_2025-09-26T02:22:21+00:00_70+json_2025-09-26T02:22:24+00:00_71",
+      "sender": "무야호",
+      "subject": "",
+      "body": "오\n포켓몬 레드나\n골드 이런거",
+      "content": "오\n포켓몬 레드나\n골드 이런거",
+      "date": "2025-09-26T02:22:24+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:22:14+00:00_68",
+      "sender": "네밋",
+      "subject": "",
+      "body": "pygame으로 만들수 이써요",
+      "content": "pygame으로 만들수 이써요",
+      "date": "2025-09-26T02:22:14+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:22:04+00:00_64+json_2025-09-26T02:22:07+00:00_65+json_2025-09-26T02:22:08+00:00_66+json_2025-09-26T02:22:12+00:00_67",
+      "sender": "무야호",
+      "subject": "",
+      "body": "ㅇㅇ\n만들만하지안나\n간단하게\ngpt정도면",
+      "content": "ㅇㅇ\n만들만하지안나\n간단하게\ngpt정도면",
+      "date": "2025-09-26T02:22:12+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:21:55+00:00_59+json_2025-09-26T02:21:58+00:00_60+json_2025-09-26T02:22:01+00:00_61+json_2025-09-26T02:22:03+00:00_62",
+      "sender": "무야호",
+      "subject": "",
+      "body": "근대\n오래된 게임같은거있잖아요\n쯔꾸르나\n좀 도트게임들은",
+      "content": "근대\n오래된 게임같은거있잖아요\n쯔꾸르나\n좀 도트게임들은",
+      "date": "2025-09-26T02:22:03+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:22:03+00:00_63",
+      "sender": "네밋",
+      "subject": "",
+      "body": "레트로게임같은거요?",
+      "content": "레트로게임같은거요?",
+      "date": "2025-09-26T02:22:03+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:21:33+00:00_58",
+      "sender": "네밋",
+      "subject": "",
+      "body": "네",
+      "content": "네",
+      "date": "2025-09-26T02:21:33+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:20:52+00:00_57",
+      "sender": "무야호",
+      "subject": "",
+      "body": "준영님",
+      "content": "준영님",
+      "date": "2025-09-26T02:20:52+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:18:56+00:00_56",
+      "sender": "네밋",
+      "subject": "",
+      "body": "오우",
+      "content": "오우",
+      "date": "2025-09-26T02:18:56+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:14:49+00:00_53+json_2025-09-26T02:15:06+00:00_54+json_2025-09-26T02:15:07+00:00_55",
+      "sender": "무야호",
+      "subject": "",
+      "body": "형우띠꺼임\n저는쫌\n카와이한편",
+      "content": "형우띠꺼임\n저는쫌\n카와이한편",
+      "date": "2025-09-26T02:15:07+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:14:43+00:00_51+json_2025-09-26T02:14:49+00:00_52",
+      "sender": "네밋",
+      "subject": "",
+      "body": "아스트랄하네요\n메이플이에요?",
+      "content": "아스트랄하네요\n메이플이에요?",
+      "date": "2025-09-26T02:14:49+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:14:07+00:00_50",
+      "sender": "1234",
+      "subject": "",
+      "body": ";;;//",
+      "content": ";;;//",
+      "date": "2025-09-26T02:14:07+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:14:02+00:00_49",
+      "sender": "무야호",
+      "subject": "",
+      "body": "코디센스어떄요",
+      "content": "코디센스어떄요",
+      "date": "2025-09-26T02:14:02+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:11:49+00:00_48",
+      "sender": "네밋",
+      "subject": "",
+      "body": "그냥 놔두죠",
+      "content": "그냥 놔두죠",
+      "date": "2025-09-26T02:11:49+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:11:25+00:00_43+json_2025-09-26T02:11:28+00:00_44+json_2025-09-26T02:11:31+00:00_45+json_2025-09-26T02:11:33+00:00_46+json_2025-09-26T02:11:35+00:00_47",
+      "sender": "무야호",
+      "subject": "",
+      "body": "님들 근대\n우리 ktop\n프사\n바꿔야대는거아님?\n안바꺼도대나",
+      "content": "님들 근대\n우리 ktop\n프사\n바꿔야대는거아님?\n안바꺼도대나",
+      "date": "2025-09-26T02:11:35+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:11:20+00:00_41",
+      "sender": "무야호",
+      "subject": "",
+      "body": "핑까비",
+      "content": "핑까비",
+      "date": "2025-09-26T02:11:20+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:11:20+00:00_42",
+      "sender": "1234",
+      "subject": "",
+      "body": "가져오시는거에요",
+      "content": "가져오시는거에요",
+      "date": "2025-09-26T02:11:20+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:11:18+00:00_40",
+      "sender": "1234",
+      "subject": "",
+      "body": "대체 준영님은 저런짤들 어디서",
+      "content": "대체 준영님은 저런짤들 어디서",
+      "date": "2025-09-26T02:11:18+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:10:31+00:00_36+json_2025-09-26T02:10:33+00:00_37+json_2025-09-26T02:10:37+00:00_38+json_2025-09-26T02:10:52+00:00_39",
+      "sender": "네밋",
+      "subject": "",
+      "body": "@네밋\n@무야호\n잉 뭐야 이건 안되있네\nhttps 안쓰면 아예 알람등록 자체가 안되나보네",
+      "content": "@네밋\n@무야호\n잉 뭐야 이건 안되있네\nhttps 안쓰면 아예 알람등록 자체가 안되나보네",
+      "date": "2025-09-26T02:10:52+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:09:13+00:00_35",
+      "sender": "무야호",
+      "subject": "",
+      "body": "maybe",
+      "content": "maybe",
+      "date": "2025-09-26T02:09:13+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:09:08+00:00_33+json_2025-09-26T02:09:10+00:00_34",
+      "sender": "네밋",
+      "subject": "",
+      "body": "이것도 되긴 할꺼에요\n아마도",
+      "content": "이것도 되긴 할꺼에요\n아마도",
+      "date": "2025-09-26T02:09:10+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:08:41+00:00_27+json_2025-09-26T02:08:43+00:00_28+json_2025-09-26T02:08:44+00:00_29+json_2025-09-26T02:08:49+00:00_30+json_2025-09-26T02:08:55+00:00_31+json_2025-09-26T02:09:00+00:00_32",
+      "sender": "무야호",
+      "subject": "",
+      "body": "아니면\n드래그앤드롭도\n기능추가할까\n우리 레시피고할떄는\n드래그앤드롭도 해놨었는데\n그건리액트긴함근대 ㅇㅇ;",
+      "content": "아니면\n드래그앤드롭도\n기능추가할까\n우리 레시피고할떄는\n드래그앤드롭도 해놨었는데\n그건리액트긴함근대 ㅇㅇ;",
+      "date": "2025-09-26T02:09:00+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:08:37+00:00_25",
+      "sender": "무야호",
+      "subject": "",
+      "body": "ㅇㅇ",
+      "content": "ㅇㅇ",
+      "date": "2025-09-26T02:08:37+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:08:37+00:00_26",
+      "sender": "네밋",
+      "subject": "",
+      "body": "그냥 올리는게",
+      "content": "그냥 올리는게",
+      "date": "2025-09-26T02:08:37+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:08:00+00:00_19+json_2025-09-26T02:08:02+00:00_20+json_2025-09-26T02:08:26+00:00_21+json_2025-09-26T02:08:28+00:00_22+json_2025-09-26T02:08:34+00:00_23",
+      "sender": "무야호",
+      "subject": "",
+      "body": "좋소냥이\nㅋㅋ\n컨 c 컨 v 로는\n못올리죠 사진?\n가지고있는거만 가능하죠?",
+      "content": "좋소냥이\nㅋㅋ\n컨 c 컨 v 로는\n못올리죠 사진?\n가지고있는거만 가능하죠?",
+      "date": "2025-09-26T02:08:34+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:08:34+00:00_24",
+      "sender": "네밋",
+      "subject": "",
+      "body": "그거 안되는거같아요",
+      "content": "그거 안되는거같아요",
+      "date": "2025-09-26T02:08:34+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:07:48+00:00_16+json_2025-09-26T02:07:51+00:00_17+json_2025-09-26T02:07:59+00:00_18",
+      "sender": "1234",
+      "subject": "",
+      "body": "개열받는 고양이도\n올려주세요\nㅋㅋ ;",
+      "content": "개열받는 고양이도\n올려주세요\nㅋㅋ ;",
+      "date": "2025-09-26T02:07:59+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:07:46+00:00_15",
+      "sender": "무야호",
+      "subject": "",
+      "body": "굳",
+      "content": "굳",
+      "date": "2025-09-26T02:07:46+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:07:44+00:00_14",
+      "sender": "1234",
+      "subject": "",
+      "body": "오?",
+      "content": "오?",
+      "date": "2025-09-26T02:07:44+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:07:43+00:00_13",
+      "sender": "네밋",
+      "subject": "",
+      "body": "보이네요",
+      "content": "보이네요",
+      "date": "2025-09-26T02:07:43+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:07:38+00:00_10+json_2025-09-26T02:07:40+00:00_11+json_2025-09-26T02:07:40+00:00_12",
+      "sender": "무야호",
+      "subject": "",
+      "body": "사진\n제대로보이나요?\n이제?",
+      "content": "사진\n제대로보이나요?\n이제?",
+      "date": "2025-09-26T02:07:40+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:07:28+00:00_9",
+      "sender": "네밋",
+      "subject": "",
+      "body": "오점모",
+      "content": "오점모",
+      "date": "2025-09-26T02:07:28+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:07:26+00:00_8",
+      "sender": "무야호",
+      "subject": "",
+      "body": "ㅋㅋ",
+      "content": "ㅋㅋ",
+      "date": "2025-09-26T02:07:26+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:07:10+00:00_2+json_2025-09-26T02:07:11+00:00_3+json_2025-09-26T02:07:17+00:00_4+json_2025-09-26T02:07:21+00:00_5+json_2025-09-26T02:07:25+00:00_6",
+      "sender": "무야호",
+      "subject": "",
+      "body": "근대\n대충\n요약하면\n퇴근하고싶다~ 점심뭐먹죠\n같은거 뽑아줄듯",
+      "content": "근대\n대충\n요약하면\n퇴근하고싶다~ 점심뭐먹죠\n같은거 뽑아줄듯",
+      "date": "2025-09-26T02:07:25+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "json_2025-09-26T02:07:25+00:00_7",
+      "sender": "데이터표준계약검증에이전트",
+      "subject": "",
+      "body": "아",
+      "content": "아",
+      "date": "2025-09-26T02:07:25+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "9+10",
+      "sender": "system",
+      "subject": "",
+      "body": "1234님이 입장했습니다.\n1234님이 나갔습니다.",
+      "content": "1234님이 입장했습니다.\n1234님이 나갔습니다.",
+      "date": "2025-09-26T02:06:58+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "7+json_2025-09-26T02:06:36+00:00_0+8+json_2025-09-26T02:06:38+00:00_1",
+      "sender": "네밋",
+      "subject": "",
+      "body": ".\n.\n좋다\n좋다",
+      "content": ".\n.\n좋다\n좋다",
+      "date": "2025-09-26T02:06:38+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "2+3+4+5+6",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.",
+      "content": "네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.",
+      "date": "2025-09-26T02:06:34+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "1",
+      "sender": "system",
+      "subject": "",
+      "body": "무야호님이 입장했습니다.",
+      "content": "무야호님이 입장했습니다.",
+      "date": "2025-09-26T02:04:24+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "46",
+      "sender": "\" 넥슨 \" <nexon_noreply@nexon.com>",
+      "subject": "[넥슨] 비밀번호 변경이 완료되었습니다.",
+      "body": "넥슨 비밀번호 변경 안내 넥슨 비밀번호 변경 안내 안녕하세요, acrombie 고객님 고객님의 넥슨 비밀번호가 변경되었습니다. 넥슨ID imyo*****@naver.com 비밀번호 변경일 2024.06.12 &#8251; 비밀번호를 변경한 적이 없나요? 타인이 고객님의 계정정보를 도용해 변경했을 수 있습니다. 방법1. 계정정보 유출이 의심된다면 넥슨 내정보 의 ‘비밀번호 찾기‘를 통해 비밀번호를 변경해주세요. 방법2. 본인확인이 완료된 넥슨ID는 ‘넥슨ID보호잠금’을 설정하여, 넥슨ID의 접속을 제한할 수 있습니다. 넥슨ID 보호잠금 설정 긴급하게 넥슨ID보호가 필요하다면 넥슨ID보호잠금을 즉시 설정 해주세요. 즉시설정 링크는 2024.06.13 오후 10:12:51 까지만 유효합니다. &#8251; 안전하게 비밀번호를 관리하려면? 1. 이용하시는 사이트들의 아이디/비밀번호를 가급적 다르게 설정해 주세요. 2. 넥슨 계정에서 사용하시는 이메일과는 다른 비밀번호를 사용해주세요. (예:네이버 이메일(@naver.com)을 넥슨ID로 사용하시거나 계정 이메일로 등록하신 경우, 네이버의 비밀번호와 넥슨의 비밀번호를 다르게 설정해주세요.) 3. 비밀번호는 특수문자를 포함하여 최소 10자리 이상으로 설정해주시고, 최소 3개월에 한번씩 주기적으로 변경해주세요. 4. 친구 또는 주변 사람들과 아이디 및 비밀번호를 함께 사용하지 마세요. &#8251; 지금 받은 이메일로 넥슨에 가입한적이 없나요? 타인이 이메일을 도용했거나, 잘못 입력했을 수 있습니다. 본인이 직접 가입하지 않은 경우 이메일 도용신고 를 접수해주세요. 본 메일은 발신전용 입니다. 궁금하신 사항은 고객센터 로 문의해주세요. (주)넥슨코리아 대표이사 강대현·김정욱 경기도 성남시 분당구 판교로 256번길 7 사업자등록번호: 220-87-17483호 통신판매업 신고번호: 제2013-경기성남-1659호 전화: 1588-7701 이메일: contact-us@nexon.co.kr Copyright © NEXON Korea Corporation All Rights Reserved.",
+      "content": "넥슨 비밀번호 변경 안내 넥슨 비밀번호 변경 안내 안녕하세요, acrombie 고객님 고객님의 넥슨 비밀번호가 변경되었습니다. 넥슨ID imyo*****@naver.com 비밀번호 변경일 2024.06.12 &#8251; 비밀번호를 변경한 적이 없나요? 타인이 고객님의 계정정보를 도용해 변경했을 수 있습니다. 방법1. 계정정보 유출이 의심된다면 넥슨 내정보 의 ‘비밀번호 찾기‘를 통해 비밀번호를 변경해주세요. 방법2. 본인확인이 완료된 넥슨ID는 ‘넥슨ID보호잠금’을 설정하여, 넥슨ID의 접속을 제한할 수 있습니다. 넥슨ID 보호잠금 설정 긴급하게 넥슨ID보호가 필요하다면 넥슨ID보호잠금을 즉시 설정 해주세요. 즉시설정 링크는 2024.06.13 오후 10:12:51 까지만 유효합니다. &#8251; 안전하게 비밀번호를 관리하려면? 1. 이용하시는 사이트들의 아이디/비밀번호를 가급적 다르게 설정해 주세요. 2. 넥슨 계정에서 사용하시는 이메일과는 다른 비밀번호를 사용해주세요. (예:네이버 이메일(@naver.com)을 넥슨ID로 사용하시거나 계정 이메일로 등록하신 경우, 네이버의 비밀번호와 넥슨의 비밀번호를 다르게 설정해주세요.) 3. 비밀번호는 특수문자를 포함하여 최소 10자리 이상으로 설정해주시고, 최소 3개월에 한번씩 주기적으로 변경해주세요. 4. 친구 또는 주변 사람들과 아이디 및 비밀번호를 함께 사용하지 마세요. &#8251; 지금 받은 이메일로 넥슨에 가입한적이 없나요? 타인이 이메일을 도용했거나, 잘못 입력했을 수 있습니다. 본인이 직접 가입하지 않은 경우 이메일 도용신고 를 접수해주세요. 본 메일은 발신전용 입니다. 궁금하신 사항은 고객센터 로 문의해주세요. (주)넥슨코리아 대표이사 강대현·김정욱 경기도 성남시 분당구 판교로 256번길 7 사업자등록번호: 220-87-17483호 통신판매업 신고번호: 제2013-경기성남-1659호 전화: 1588-7701 이메일: contact-us@nexon.co.kr Copyright © NEXON Korea Corporation All Rights Reserved.",
+      "date": "2024-06-12T13:12:51+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "41",
+      "sender": "\" 하나카드 \" <hanacard@hanacard.co.kr>",
+      "subject": "[하나머니] 하나머니 서비스 이용 통합 약관 변경 안내",
+      "body": "하나머니 [하나머니] 하나머니 서비스 이용 통합 약관 변경 안내 하나머니를 이용해 주시는 손님께 진심으로 감사드립니다. &lsquo;하나머니 서비스 이용 통합 약관&rsquo;을 2024년 7월 10일 부로 아래와 같이 변경함을 알려드립니다. 하나머니 서비스 이용 통합 약관 개정 전 개정 후 제 1 장 총칙 제 3 조(약관의 변경 등) ① (생략) ② 제1항의 경우, \"회원이 변경에 동의하지 아니한 경우 통지일로부터 1개월이내에 계약을 해지할 수 있으며, 별도 계약해지 의사표시를 하지 않는 경우 변경에 동의한 것으로 본다\"는 내용을 명시하여 통지합니다. 회원이 변경 예정일까지 이의를 제기하지 않았을 때에는 변경된 약관을 승인한 것으로 간주합니다. 제 1 장 총칙 제 3 조(약관의 변경 등) ① (현행과 같음) ② 제1항의 경우, \"회원이 변경에 동의하지 아니한 경우 통지일로부터 변경된 약관의 시행일 전의 영업일까지 계약을 해지할 수 있으며, 별도 계약해지 의사표시를 하지 않는 경우 변경에 동의한 것으로 본다\"는 내용을 명시하여 통지합니다. 회원이 변경 시행예정일까지 이의를 제기하지 않았을 때에는 변경된 약관을 승인한 것으로 간주합니다. 제 3 장 서비스 이용 제 21 조(준회원 서비스 제공) ① 회사는 준회원에게 제2조 제17호에서 정한 준회원 쿠폰 구매 서비스를 제공해 드립니다. ② ~ ③ (생략) 제 3 장 서비스 이용 제 21 조(준회원 서비스 제공) ① 회사는 준회원에게 제2조 제14호에서 정한 준회원 쿠폰 구매 서비스를 제공해 드립니다. ② ~ ③ (현행과 같음) 제 4 장 계약당사자의 의무 제 23 조(회사의 의무) ① (생략) ② 제8조 제2항 및 제13조 제2항에 따라 안내한 제휴사, 제휴가맹점이 제공하는 서비스 및 제휴포인트의 전환&middot;합산 사용에 관한 내용이 회원에게 불리하게 변경되는 경우나 제10조 제6항의 충전 가능한 상품이 축소되는 경우 시행예정일 기준 1개월 전부터 APP(앱)의 PUSH 메시지나 팝업창을 통해 고지해 드립니다. 이 경우 회원이 통지일로부터 1개월 이내에 별도의 계약해지 의사를 표시하지 않는 경우 변경에 동의한 것으로 본다는 내용을 명시하여 통지하며, 변경 예정일까지 이의 제기를 하지 않는 경우 변경된 내용을 승인한 것으로 간주합니다. ③ ~ ④ (생략) 제 4 장 계약당사자의 의무 제 23 조(회사의 의무) ① (현행과 같음) ② 제8조 제2항 및 제13조 제 ...",
+      "content": "하나머니 [하나머니] 하나머니 서비스 이용 통합 약관 변경 안내 하나머니를 이용해 주시는 손님께 진심으로 감사드립니다. &lsquo;하나머니 서비스 이용 통합 약관&rsquo;을 2024년 7월 10일 부로 아래와 같이 변경함을 알려드립니다. 하나머니 서비스 이용 통합 약관 개정 전 개정 후 제 1 장 총칙 제 3 조(약관의 변경 등) ① (생략) ② 제1항의 경우, \"회원이 변경에 동의하지 아니한 경우 통지일로부터 1개월이내에 계약을 해지할 수 있으며, 별도 계약해지 의사표시를 하지 않는 경우 변경에 동의한 것으로 본다\"는 내용을 명시하여 통지합니다. 회원이 변경 예정일까지 이의를 제기하지 않았을 때에는 변경된 약관을 승인한 것으로 간주합니다. 제 1 장 총칙 제 3 조(약관의 변경 등) ① (현행과 같음) ② 제1항의 경우, \"회원이 변경에 동의하지 아니한 경우 통지일로부터 변경된 약관의 시행일 전의 영업일까지 계약을 해지할 수 있으며, 별도 계약해지 의사표시를 하지 않는 경우 변경에 동의한 것으로 본다\"는 내용을 명시하여 통지합니다. 회원이 변경 시행예정일까지 이의를 제기하지 않았을 때에는 변경된 약관을 승인한 것으로 간주합니다. 제 3 장 서비스 이용 제 21 조(준회원 서비스 제공) ① 회사는 준회원에게 제2조 제17호에서 정한 준회원 쿠폰 구매 서비스를 제공해 드립니다. ② ~ ③ (생략) 제 3 장 서비스 이용 제 21 조(준회원 서비스 제공) ① 회사는 준회원에게 제2조 제14호에서 정한 준회원 쿠폰 구매 서비스를 제공해 드립니다. ② ~ ③ (현행과 같음) 제 4 장 계약당사자의 의무 제 23 조(회사의 의무) ① (생략) ② 제8조 제2항 및 제13조 제2항에 따라 안내한 제휴사, 제휴가맹점이 제공하는 서비스 및 제휴포인트의 전환&middot;합산 사용에 관한 내용이 회원에게 불리하게 변경되는 경우나 제10조 제6항의 충전 가능한 상품이 축소되는 경우 시행예정일 기준 1개월 전부터 APP(앱)의 PUSH 메시지나 팝업창을 통해 고지해 드립니다. 이 경우 회원이 통지일로부터 1개월 이내에 별도의 계약해지 의사를 표시하지 않는 경우 변경에 동의한 것으로 본다는 내용을 명시하여 통지하며, 변경 예정일까지 이의 제기를 하지 않는 경우 변경된 내용을 승인한 것으로 간주합니다. ③ ~ ④ (생략) 제 4 장 계약당사자의 의무 제 23 조(회사의 의무) ① (현행과 같음) ② 제8조 제2항 및 제13조 제 ...",
+      "date": "2024-06-11T02:29:25+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "39+40",
+      "sender": "YouTube <noreply@youtube.com>",
+      "subject": "TEN OF CLUBS loves your comment",
+      "body": "TEN OF CLUBS loves your comment\r\nTEN OF CLUBS loves your comment on Wow Bananas Go Bahamas Slot 360 Free  \r\nSpins Challenge! 🎰\r\n@user-vg3hc8vi1k\r\nComment: Good game\r\nVideo: http://www.youtube.com/watch?v=4HdUDao7-kY&feature=em-comments\r\nComment URL:  \r\nhttp://www.youtube.com/watch?v=4HdUDao7-kY&lc=Ugxpa5BoLZUJ6YSVDsR4AaABAg&feature=em-comments\r\nUnsubscribe:  \r\nhttps://www.youtube.com/email_unsubscribe?uid=AebNfqicQ8yPMdVbSJGpoX8lnNFD00-nEJX2XROOjSOmbfrn1GYjm71SHKfN&action_unsubscribe=comment&timestamp=1717661518&feature=em-comments\nTEN OF CLUBS loves your comment\r\nTEN OF CLUBS loves your comment on Wow Bananas Go Bahamas Slot 360 Free  \r\nSpins Challenge! 🎰\r\n@user-ne9qi7nu7h\r\nComment: Good game\r\nVideo: http://www.youtube.com/watch?v=4HdUDao7-kY&feature=em-comments\r\nComment URL:  \r\nhttp://www.youtube.com/watch?v=4HdUDao7-kY&lc=UgyeO29Gn1GbKRHuUjN4AaABAg&feature=em-comments\r\nUnsubscribe:  \r\nhttps://www.youtube.com/email_unsubscribe?uid=AebNfqgw5firUIHLv6inDqCUxjPJb7mErOhLDZllFGFkP28MKh1DOiQhk-g&action_unsubscribe=comment&timestamp=1717661587&feature=em-comments",
+      "content": "TEN OF CLUBS loves your comment\r\nTEN OF CLUBS loves your comment on Wow Bananas Go Bahamas Slot 360 Free  \r\nSpins Challenge! 🎰\r\n@user-vg3hc8vi1k\r\nComment: Good game\r\nVideo: http://www.youtube.com/watch?v=4HdUDao7-kY&feature=em-comments\r\nComment URL:  \r\nhttp://www.youtube.com/watch?v=4HdUDao7-kY&lc=Ugxpa5BoLZUJ6YSVDsR4AaABAg&feature=em-comments\r\nUnsubscribe:  \r\nhttps://www.youtube.com/email_unsubscribe?uid=AebNfqicQ8yPMdVbSJGpoX8lnNFD00-nEJX2XROOjSOmbfrn1GYjm71SHKfN&action_unsubscribe=comment&timestamp=1717661518&feature=em-comments\nTEN OF CLUBS loves your comment\r\nTEN OF CLUBS loves your comment on Wow Bananas Go Bahamas Slot 360 Free  \r\nSpins Challenge! 🎰\r\n@user-ne9qi7nu7h\r\nComment: Good game\r\nVideo: http://www.youtube.com/watch?v=4HdUDao7-kY&feature=em-comments\r\nComment URL:  \r\nhttp://www.youtube.com/watch?v=4HdUDao7-kY&lc=UgyeO29Gn1GbKRHuUjN4AaABAg&feature=em-comments\r\nUnsubscribe:  \r\nhttps://www.youtube.com/email_unsubscribe?uid=AebNfqgw5firUIHLv6inDqCUxjPJb7mErOhLDZllFGFkP28MKh1DOiQhk-g&action_unsubscribe=comment&timestamp=1717661587&feature=em-comments",
+      "date": "2024-06-06T08:13:07+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "37",
+      "sender": "\" 무신사 \"<mail@musinsa.com>",
+      "subject": "무신사스토어 이용약관 개정 관련",
+      "body": "무신사스토어 서비스 이용약관 개정 안내 안녕하세요 . 주식회사 무신사 입니다 . 무신사스토어를 이용해 주시는 회원분들께 감사드리며 , 무신사스토어 서비스 이용약관이 개정될 예정으로 사전 안내 드립니다 . 1. 적용시기 : 2024 년 6 월 10 일 (월 요일 ) 2. 개정 약관 제 4 조 ( 서비스의 제공 및 변경 ) ① “ 회사 ” 는 다음과 같은 업무를 수행합니다 . 1. 재화 등의 거래 및 정보 제공을 위한 플랫폼의 운영 및 개발 업무 2. 재화 등의 정보 검색 지원 업무 3. 재화 등의 구매 관련 지원 업무 4. 대금의 결제 및 정산 관련 업무 5. 기타 전자상거래와 관련하여 “ 회사 ” 가 정하는 업무 제 4 조 ( 서비스의 제공 및 변경 ) ① “ 회사 ” 는 다음과 같은 업무를 수행합니다 1. 재화 등의 거래 및 정보 제공을 위한 플랫폼의 운영 및 개발 업무 2. 재화 등의 정보 검색 지원 업무 3. 재화 등의 구매 관련 지원 업무 4. 대금의 결제 및 정산 관련 업무 5. 이용자의 특성에 기반한 맞춤형 콘텐츠 추천 서비스의 제공 업무 6. 기타 전자상거래와 관련하여 “ 회사 ” 가 정하는 업무 3. 2024 년 6 월 10 일 까지 동의 또는 거부의 의사를 표시하지 않으실 경우 본 개정 약관에 동의하시는 것으로 간주합니다 . 주식회사 무신사는 더 나은 서비스 제공을 위해 항상 최선을 다하겠습니다 . 앞으로도 지속적인 서비스 이용과 관심 부탁드립니다 . 감사합니다 . 본 메일은 발신 전용 메일이며, 회신되지 않으므로 문의사항은 고객센터 를 이용해주세요. COPYRIGHTS (C)MUSINSA ALL RIGHTS RESERVED.",
+      "content": "무신사스토어 서비스 이용약관 개정 안내 안녕하세요 . 주식회사 무신사 입니다 . 무신사스토어를 이용해 주시는 회원분들께 감사드리며 , 무신사스토어 서비스 이용약관이 개정될 예정으로 사전 안내 드립니다 . 1. 적용시기 : 2024 년 6 월 10 일 (월 요일 ) 2. 개정 약관 제 4 조 ( 서비스의 제공 및 변경 ) ① “ 회사 ” 는 다음과 같은 업무를 수행합니다 . 1. 재화 등의 거래 및 정보 제공을 위한 플랫폼의 운영 및 개발 업무 2. 재화 등의 정보 검색 지원 업무 3. 재화 등의 구매 관련 지원 업무 4. 대금의 결제 및 정산 관련 업무 5. 기타 전자상거래와 관련하여 “ 회사 ” 가 정하는 업무 제 4 조 ( 서비스의 제공 및 변경 ) ① “ 회사 ” 는 다음과 같은 업무를 수행합니다 1. 재화 등의 거래 및 정보 제공을 위한 플랫폼의 운영 및 개발 업무 2. 재화 등의 정보 검색 지원 업무 3. 재화 등의 구매 관련 지원 업무 4. 대금의 결제 및 정산 관련 업무 5. 이용자의 특성에 기반한 맞춤형 콘텐츠 추천 서비스의 제공 업무 6. 기타 전자상거래와 관련하여 “ 회사 ” 가 정하는 업무 3. 2024 년 6 월 10 일 까지 동의 또는 거부의 의사를 표시하지 않으실 경우 본 개정 약관에 동의하시는 것으로 간주합니다 . 주식회사 무신사는 더 나은 서비스 제공을 위해 항상 최선을 다하겠습니다 . 앞으로도 지속적인 서비스 이용과 관심 부탁드립니다 . 감사합니다 . 본 메일은 발신 전용 메일이며, 회신되지 않으므로 문의사항은 고객센터 를 이용해주세요. COPYRIGHTS (C)MUSINSA ALL RIGHTS RESERVED.",
+      "date": "2024-06-05T20:50:27+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "36",
+      "sender": "Google <no-reply@accounts.google.com>",
+      "subject": "acrombie092@gmail.com 관련 보안 경고",
+      "body": "이 메일은 acrombie092@gmail.com 주소로 전송된 보안 경고의 사본입니다.  \r\nimyongjun@naver.com 주소는 이\r\n계정의 복구 이메일입니다. 모르는 계정이라면 삭제\r\n<https://accounts.google.com/AccountDisavow?adt=AOX8kirxfrKIcS0AwiwHEaP8hQgdVHk3ZNi0KMYfJgguCzPUroB_gkCwmqKlL9av&rfn=127>\r\n하세요\r\n[image: Google]\r\nGoogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1717512294000?rfn%3D127%26rfnc%3D1%26eid%3D-1172161920664456412%26et%3D1>\r\n다음 페이지에서 보안 활동도 확인할 수 있습니다.\r\nhttps://myaccount.google.com/notifications\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2024 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+      "content": "이 메일은 acrombie092@gmail.com 주소로 전송된 보안 경고의 사본입니다.  \r\nimyongjun@naver.com 주소는 이\r\n계정의 복구 이메일입니다. 모르는 계정이라면 삭제\r\n<https://accounts.google.com/AccountDisavow?adt=AOX8kirxfrKIcS0AwiwHEaP8hQgdVHk3ZNi0KMYfJgguCzPUroB_gkCwmqKlL9av&rfn=127>\r\n하세요\r\n[image: Google]\r\nGoogle Auth Library에 연결된 Google 계정 액세스 권한이 부여됨\r\n\r\n\r\nacrombie092@gmail.com\r\n\r\n액세스 권한을 부여한 적이 없다면 이 활동을 확인하고 계정을 보호하세요.\r\n활동 확인\r\n<https://accounts.google.com/AccountChooser?Email=acrombie092@gmail.com&continue=https://myaccount.google.com/alert/nt/1717512294000?rfn%3D127%26rfnc%3D1%26eid%3D-1172161920664456412%26et%3D1>\r\n다음 페이지에서 보안 활동도 확인할 수 있습니다.\r\nhttps://myaccount.google.com/notifications\r\n이 이메일은 Google 계정 및 서비스의 중요한 변경사항을 알려드리기 위해  \r\n발송되었습니다.\r\n© 2024 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+      "date": "2024-06-04T14:44:54+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "35",
+      "sender": "카카오페이 <noreply_kakaopay@kakaocorp.com>",
+      "subject": "[카카오페이] 뿌리기 서비스 종료 안내",
+      "body": "카카오페이에서 알려드립니다. 안녕하세요. 카카오페이입니다. 항상 카카오페이를 이용해주셔서 감사드리며, 뿌리기 서비스가 종료될 예정임을 안내드립니다. ■ 종료 일시 - 2024년 7월 8일(월) ■ 종료 서비스 - 뿌리기 서비스 종료일 이후에는 뿌리기 서비스 이용이 불가한 점 참고 바랍니다. 더욱 편리하고 안전한 서비스를 위해 노력하는 카카오페이가 되겠습니다. 감사합니다. 본 메일은 발신전용 메일입니다. ©Kakao Pay Corp.",
+      "content": "카카오페이에서 알려드립니다. 안녕하세요. 카카오페이입니다. 항상 카카오페이를 이용해주셔서 감사드리며, 뿌리기 서비스가 종료될 예정임을 안내드립니다. ■ 종료 일시 - 2024년 7월 8일(월) ■ 종료 서비스 - 뿌리기 서비스 종료일 이후에는 뿌리기 서비스 이용이 불가한 점 참고 바랍니다. 더욱 편리하고 안전한 서비스를 위해 노력하는 카카오페이가 되겠습니다. 감사합니다. 본 메일은 발신전용 메일입니다. ©Kakao Pay Corp.",
+      "date": "2024-06-04T06:19:44+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "34",
+      "sender": "네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com>",
+      "subject": "네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4)",
+      "body": "﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WORKPLACE 서비스 신청 시 수집하는 항목 삭제 및 NAVER WORKS 서비스 신청 시 수집하는 항목으로 통합 WORKPLACE업무지원서비스가 앱마켓으로 변경되어 용어 및 파트너리스트 링크 변경 * NAVER WORKS, WORKPLACE가 신규 NAVER WORKS로 통합 2. 적용 일자 2024년 6월 11일 3. 개정 내역 상세 1) 위치기반서비스 이용약관 2) 개인정보처리방침 [민간 - 국내향] ▶ 개정 내역 상세 바로가기 4. 이의제기 및 문의 1) 변경된 ‘개인정보처리방침’ 내용에 대한 문의사항이 있으신 경우, 고객센터로 접수해 주시면 신속하고 친절하게 안내해 드리겠습니다. 2) 변경된 ‘개인정보처리방침’ 내용에 동의하지 않으시는 경우, 네이버 클라우드 플랫폼 서비스의 원활한 이용에 제약이 발생할 수 있습니다. 이러한 경우 고객센터로 이의 제기를 하실 수 있으며 당사는 이용 자의 서비스 이용 편의를 위해 최선의 노력을 아끼지 않겠습니다. 문의사항은 네이버 클라우드 플랫폼 고객센터 를 통해 문의해 주시기 바랍니다. 감사합니다 . 네이버 클라우드 플랫폼 바로가기 본 메일은 발신전용 입니다. 궁금하신 점이나 불편한 사항은 고객지원 에 문의해 주시기 바랍니다. ⓒ NAVER Cloud Corp, All Right Reserved. ​ ​ ​",
+      "content": "﻿ ﻿ 안 녕 하세요 . 네이 버 클 라우드 주 식회사입니다 . 네이버 클라우드 플랫폼을 이용해 주시는 고객 여러분께 감사드리며, 개인정보처리방침 및 위치기반서비스 이용약관에 대한 개정사항을 아래와 같이 안내드립니다. 1. 주요 개정 내역 1) 위치기반서비스 이용약관 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어 변경 2) 개인정보처리방침 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 변경사항 반영 WORKPLACE 삭제 및 서비스 용어 변경 WORKPLACE 서비스 신청 시 수집하는 항목 삭제 및 NAVER WORKS 서비스 신청 시 수집하는 항목으로 통합 WORKPLACE업무지원서비스가 앱마켓으로 변경되어 용어 및 파트너리스트 링크 변경 * NAVER WORKS, WORKPLACE가 신규 NAVER WORKS로 통합 2. 적용 일자 2024년 6월 11일 3. 개정 내역 상세 1) 위치기반서비스 이용약관 2) 개인정보처리방침 [민간 - 국내향] ▶ 개정 내역 상세 바로가기 4. 이의제기 및 문의 1) 변경된 ‘개인정보처리방침’ 내용에 대한 문의사항이 있으신 경우, 고객센터로 접수해 주시면 신속하고 친절하게 안내해 드리겠습니다. 2) 변경된 ‘개인정보처리방침’ 내용에 동의하지 않으시는 경우, 네이버 클라우드 플랫폼 서비스의 원활한 이용에 제약이 발생할 수 있습니다. 이러한 경우 고객센터로 이의 제기를 하실 수 있으며 당사는 이용 자의 서비스 이용 편의를 위해 최선의 노력을 아끼지 않겠습니다. 문의사항은 네이버 클라우드 플랫폼 고객센터 를 통해 문의해 주시기 바랍니다. 감사합니다 . 네이버 클라우드 플랫폼 바로가기 본 메일은 발신전용 입니다. 궁금하신 점이나 불편한 사항은 고객지원 에 문의해 주시기 바랍니다. ⓒ NAVER Cloud Corp, All Right Reserved. ​ ​ ​",
+      "date": "2024-06-04T06:01:56+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "33",
+      "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+      "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 기말고사 유의사항",
+      "body": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 기말고사 유의사항 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51965#p120514\r\n도시와 언어로 만나는 러시아 기말고사 유의사항\r\n2024-06-04 09:31 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보내주시면 감사하겠습니다. \r\n\r\n(러시아어문학과 사무실: lhg0105@suwon.ac.kr) \r\n\r\n \r\n\r\n이 점 꼭 숙지하시고 학기 마무리에 차질 없으시길\r\n바랍니다.\r\n\r\n \r\n\r\n지금까지 함께 해주신 모든 수강생 여러분께 감사의\r\n인사를 전하며, 시험에서 좋은 결과 있길 바랍니다.\r\n\r\n \r\n\r\n여러분의 앞날에 성공이 가득하길 진심으로 기원합니다.\r\n\r\n \r\n\r\n감사합니다.\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+      "content": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 기말고사 유의사항 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51965#p120514\r\n도시와 언어로 만나는 러시아 기말고사 유의사항\r\n2024-06-04 09:31 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n수강생 여러분, 반갑습니다. 기말고사와 이후 유의\r\n사항에 대해 다시 한번 공지하겠습니다.\r\n\r\n \r\n\r\n저희 강좌 기말고사는 15주차에 진행되며 중간고사와\r\n동일하게 한 주간 응시 가능합니다.\r\n\r\n \r\n\r\n정확한 기간은 06월 11일 00:00~ 06월 17일 23:59까지입니다.\r\n\r\n \r\n\r\n케이무크 내에서 보는 기말고사의 경우 중간고사 이후의\r\n내용들이 출제됩니다.\r\n\r\n \r\n\r\n*수원대 학생 분들은 케이무크 내에서 시행되는\r\n기말시험과 더불어 포털 공지사항 및 캔버스 공지사항을\r\n확인한 후 안내된 온라인시험도 응시를 해야 합니다.*\r\n\r\n또한 기말고사가 끝나고 강좌를 다 이수한 내역을\r\n확인할 수 있는 캡쳐본이나 이수증 사진을 찍어서\r\n메일로 빠른 시일내에 보내주시면 감사하겠습니다. \r\n\r\n(러시아어문학과 사무실: lhg0105@suwon.ac.kr) \r\n\r\n \r\n\r\n이 점 꼭 숙지하시고 학기 마무리에 차질 없으시길\r\n바랍니다.\r\n\r\n \r\n\r\n지금까지 함께 해주신 모든 수강생 여러분께 감사의\r\n인사를 전하며, 시험에서 좋은 결과 있길 바랍니다.\r\n\r\n \r\n\r\n여러분의 앞날에 성공이 가득하길 진심으로 기원합니다.\r\n\r\n \r\n\r\n감사합니다.\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+      "date": "2024-06-04T01:01:36+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "32",
+      "sender": "\" 이현경 \" <support_kmooc@nile.or.kr>",
+      "subject": "USW06|2024_T1: 도시와 언어로 만나는 러시아 14주차 공지",
+      "body": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 14주차 공지 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51957#p120496\r\n도시와 언어로 만나는 러시아 14주차 공지\r\n2024-06-04 08:59 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n2024년 06월 04일 화요일,\r\n\r\n \r\n\r\n14주차 <원어민에게 배워보기2[에바]> 강의가\r\n열렸습니다.\r\n\r\n \r\n\r\n각 주차 강좌는 화요일마다 게재되며, 게재된 강의는\r\n종강일까지 자유롭게 수강 가능합니다.\r\n\r\n \r\n\r\n강의를 통해 다음과 같은 내용을 학습하실 수 있습니다.\r\n\r\n \r\n\r\n \r\n\r\n- 문화탐방1\r\n\r\n \r\n\r\n- 문화탐방2\r\n\r\n \r\n\r\n- 여행일지\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n각각의 컨텐츠들은 이수율에 반영이 되는 활동이니 꼭\r\n참여 부탁드립니다.\r\n\r\n \r\n\r\n저희 강좌를 통해 한 학기 동안 많이 배워가는 시간이\r\n되기를 바랍니다.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n수원대학교 K-MOOC 운영팀\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+      "content": "USW06|2024_T1 -> 토론방 -> 강좌공지 -> 도시와 언어로 만나는\r\n러시아 14주차 공지 \r\nhttps://lms.kmooc.kr/mod/forum/discuss.php?d=51957#p120496\r\n도시와 언어로 만나는 러시아 14주차 공지\r\n2024-06-04 08:59 이현경 에 의해 작성\r\n---------------------------------------------------------------------\r\n2024년 06월 04일 화요일,\r\n\r\n \r\n\r\n14주차 <원어민에게 배워보기2[에바]> 강의가\r\n열렸습니다.\r\n\r\n \r\n\r\n각 주차 강좌는 화요일마다 게재되며, 게재된 강의는\r\n종강일까지 자유롭게 수강 가능합니다.\r\n\r\n \r\n\r\n강의를 통해 다음과 같은 내용을 학습하실 수 있습니다.\r\n\r\n \r\n\r\n \r\n\r\n- 문화탐방1\r\n\r\n \r\n\r\n- 문화탐방2\r\n\r\n \r\n\r\n- 여행일지\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n각각의 컨텐츠들은 이수율에 반영이 되는 활동이니 꼭\r\n참여 부탁드립니다.\r\n\r\n \r\n\r\n저희 강좌를 통해 한 학기 동안 많이 배워가는 시간이\r\n되기를 바랍니다.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n수원대학교 K-MOOC 운영팀\r\n\r\n\r\n\r\n---------------------------------------------------------------------\r\nChange your forum digest preferences:\r\nhttps://lms.kmooc.kr/mod/forum/index.php?id=11595",
+      "date": "2024-06-04T00:31:29+00:00",
+      "type": "email",
+      "platform": "email"
+    }
+  ],
+  "analysis_report_text": "📊 분석 결과 (통합)\n============================================================\n메시지는 여러 이메일 알림과 함께 팀원 간의 비공식적인 대화로 구성되어 있습니다. 주요 내용은 비밀번호 변경, 기말고사 유의사항, 서비스 약관 변경 등이며, 팀원들은 게임 개발과 관련된 아이디어를 논의하고 있습니다.\n\n\n--- [HIGH] ------------------------------------------\n• \" 넥슨 \" <nexon_noreply@nexon.com> / [넥슨] 비밀번호 변경이 완료되었습니다.\n  요약: 고객님의 넥슨 비밀번호가 변경되었으며, 만약 본인이 변경하지 않았다면 계정 도용이 의심됩니다. 비밀번호 변경 및 보호잠금 설정을 권장합니다.\n  액션: 2개\n\n--- [MEDIUM] ------------------------------------------\n\n--- [LOW] ------------------------------------------\n• \" 이현경 \" <support_kmooc@nile.or.kr> / USW06|2024_T1: 도시와 언어로 만나는 러시아 기말고사 유의사항\n  요약: 이현경 교수님이 수강생들에게 기말고사 일정과 유의사항을 공지합니다. 기말고사는 6월 11일부터 17일까지 진행되며, 수원대 학생들은 추가로 온라인 시험을 응시해야 합니다.\n  액션: 2개\n• 네이버 클라우드 플랫폼 <no-reply-ecosupport@navercorp.com> / 네이버 클라우드 플랫폼 개인정보처리방침 및 위치기반서비스 이용약관 개정안내 (6/4)\n  요약: 네이버 클라우드 플랫폼에서 개인정보처리방침 및 위치기반서비스 이용약관이 개정되었음을 안내합니다. 주요 변경 사항은 NAVER WORKS 통합 업무용 플랫폼 출시에 따른 서비스 용어\n  액션: 2개\n• \" 이현경 \" <support_kmooc@nile.or.kr> / USW06|2024_T1: 도시와 언어로 만나는 러시아 14주차 공지\n  요약: 2024년 06월 04일에 도시와 언어로 만나는 러시아 강좌의 14주차 강의가 열렸으며, 강의는 매주 화요일에 게재되고 자유롭게 수강할 수 있습니다. 강의 내용은 문화탐방과 여행일\n• \" 하나카드 \" <hanacard@hanacard.co.kr> / [하나머니] 하나머니 서비스 이용 통합 약관 변경 안내\n  요약: 하나카드에서 하나머니 서비스 이용 통합 약관이 2024년 7월 10일 부로 변경된다는 안내를 보냈습니다. 변경된 약관에 동의하지 않을 경우, 통지일로부터 1개월 이내에 계약을 해지\n  액션: 1개\n• Google <no-reply@accounts.google.com> / acrombie092@gmail.com 관련 보안 경고\n  요약: 이 이메일은 acrombie092@gmail.com 계정에 대한 보안 경고로, imyongjun@naver.com이 복구 이메일로 설정되어 있음을 알립니다. 만약 이 계정에 대한 \n  액션: 1개\n• 카카오페이 <noreply_kakaopay@kakaocorp.com> / [카카오페이] 뿌리기 서비스 종료 안내\n  요약: 카카오페이가 뿌리기 서비스 종료를 안내합니다. 서비스는 2024년 7월 8일에 종료되며, 이후에는 해당 서비스를 이용할 수 없습니다.\n• \" 무신사 \"<mail@musinsa.com> / 무신사스토어 이용약관 개정 관련\n  요약: 무신사스토어의 서비스 이용약관이 2024년 6월 10일에 개정될 예정이며, 회원들은 동의 또는 거부 의사를 표시해야 합니다. 개정된 약관에는 맞춤형 콘텐츠 추천 서비스가 추가됩니다\n  액션: 2개\n• YouTube <noreply@youtube.com> / TEN OF CLUBS loves your comment\n  요약: YouTube에서 TEN OF CLUBS가 사용자의 댓글을 좋아했다는 알림을 보냈습니다. 댓글 내용은 'Good game'이며, 관련 비디오 링크도 포함되어 있습니다.\n\n■ 대화 흐름 요약\n════════════════════════════════════════════════════════════\n대화에서는 퇴근 후 점심 메뉴와 사진 공유 방법에 대한 논의가 있었고, 레트로 게임 개발 가능성에 대한 아이디어가 제시되었다. 또한, 데이터 초기화 문제와 관련된 의문이 제기되었다.\n\n■ 핵심 포인트\n- 점심 메뉴와 퇴근에 대한 이야기\n- 레트로 게임 개발 가능성 논의\n\n■ 결정 사항\n- 프사 변경 여부에 대한 논의는 보류\n\n■ 미해결/후속 필요\n- real streaming data에서 GPT 초기화 문제\n\n■ 리스크/주의\n- 사진 공유 기능의 제한 사항\n\n■ 액션 아이템\n- 담주에 pygame으로 게임 개발 시도 (우선:High, 담당:무야호, 마감:다음 주)\n- data.integration 초기화 문제 해결 (우선:Medium, 담당:네밋, 마감:미정)"
+}

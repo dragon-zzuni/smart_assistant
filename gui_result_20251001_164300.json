@@ -1,0 +1,1097 @@
+{
+  "success": true,
+  "todo_list": {
+    "generated_at": "2025-10-01T16:43:00.530255",
+    "total_items": 1,
+    "priority_stats": {
+      "high": 0,
+      "medium": 0,
+      "low": 20
+    },
+    "items": [
+      {
+        "id": "response_20251001_164250",
+        "title": "답변 작성: Topic reply notification - \"Rainmeter 4...",
+        "description": "Topic reply notification - \"Rainmeter 4.3 Beta r3253 Available\" Hello acrombies,\r\n\r\nYou are receiving this noti",
+        "priority": "medium",
+        "deadline": null,
+        "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "type": "response",
+        "status": "pending",
+        "source_message": {
+          "id": "146",
+          "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "subject": "Topic reply notification - \"Rainmeter 4.3 Beta r3253 Available\"",
+          "platform": "email"
+        },
+        "created_at": "2025-10-01T16:42:50.746589"
+      }
+    ],
+    "summary": {
+      "total_messages": 20,
+      "total_actions": 1,
+      "urgent_items": 0,
+      "deadline_items": 0
+    }
+  },
+  "analysis_results": [
+    {
+      "message": {
+        "msg_id": "json_2025-10-01T03:45:53+00:00_3+json_2025-10-01T03:45:53+00:00_4+json_2025-10-01T03:45:53+00:00_5",
+        "sender": "hana",
+        "subject": "",
+        "body": "Client request: add testimonial carousel. Let's sync on next steps.\nElliot, I'm on Hourly plan tick 1 for Elliot Park (auto).\nTick 2: Hourly plan tick 2 for Hana Kim (auto)",
+        "content": "Client request: add testimonial carousel. Let's sync on next steps.\nElliot, I'm on Hourly plan tick 1 for Elliot Park (auto).\nTick 2: Hourly plan tick 2 for Hana Kim (auto)",
+        "date": "2025-10-01T03:45:53+00:00",
+        "type": "messenger",
+        "platform": "dm:elliot:hana"
+      },
+      "summary": {
+        "original_id": "json_2025-10-01T03:45:53+00:00_3+json_2025-10-01T03:45:53+00:00_4+json_2025-10-01T03:45:53+00:00_5",
+        "summary": "클라이언트 요청으로 테스트모니얼 캐러셀 추가가 필요하며, 다음 단계에 대해 조율하자는 내용입니다. Hana Kim과 Elliot Park에 대한 시간제 계획이 언급되었습니다.",
+        "key_points": [
+          "클라이언트 요청: 테스트모니얼 캐러셀 추가",
+          "다음 단계에 대해 조율 필요",
+          "Hana Kim과 Elliot Park에 대한 시간제 계획"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "medium",
+        "action_required": true,
+        "suggested_response": "다음 단계에 대해 언제 미팅을 가질 수 있을지 확인해보세요.",
+        "created_at": "2025-10-01T16:42:38.114700"
+      },
+      "priority": {
+        "overall_score": 0.17500000000000002,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.4,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-10-01T03:45:53+00:00_12+json_2025-10-01T03:45:53+00:00_13+json_2025-10-01T03:45:53+00:00_14",
+        "sender": "hana",
+        "subject": "",
+        "body": "Client request: add testimonial carousel. Let's sync on next steps.\nElliot, I'm on Hourly plan tick 1 for Elliot Park (auto).\nTick 2: Hourly plan tick 2 for Hana Kim (auto)",
+        "content": "Client request: add testimonial carousel. Let's sync on next steps.\nElliot, I'm on Hourly plan tick 1 for Elliot Park (auto).\nTick 2: Hourly plan tick 2 for Hana Kim (auto)",
+        "date": "2025-10-01T03:45:53+00:00",
+        "type": "messenger",
+        "platform": "dm:elliot:hana"
+      },
+      "summary": {
+        "original_id": "json_2025-10-01T03:45:53+00:00_12+json_2025-10-01T03:45:53+00:00_13+json_2025-10-01T03:45:53+00:00_14",
+        "summary": "클라이언트 요청에 따라 추천사 캐러셀을 추가해야 하며, 다음 단계에 대해 논의할 필요가 있습니다. Hana Kim과 Elliot Park에 대한 시간제 계획이 언급되었습니다.",
+        "key_points": [
+          "클라이언트 요청: 추천사 캐러셀 추가",
+          "다음 단계에 대해 논의 필요",
+          "Elliot Park와 Hana Kim의 시간제 계획 언급"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "medium",
+        "action_required": true,
+        "suggested_response": "다음 단계에 대해 언제 미팅을 가질 수 있을지 확인해보겠습니다.",
+        "created_at": "2025-10-01T16:42:37.904814"
+      },
+      "priority": {
+        "overall_score": 0.17500000000000002,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.4,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.3,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "152",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://trade4supplement.com/testo-drive-365/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby ThomasRolly since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby ThomasRolly since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-10-03T10:40:36+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "152",
+        "summary": "Rainmeter Team에서 발송한 알림으로, 사용자가 'Rainmeter News' 포럼을 구독하고 있어 새로운 주제에 대한 알림을 받았습니다. 새로운 주제는 ThomasRolly에 의해 작성된 'http://trade4supplement.com/testo-drive-365/'입니다.",
+        "key_points": [
+          "사용자가 'Rainmeter News' 포럼을 구독하고 있음",
+          "새로운 주제가 ThomasRolly에 의해 작성됨",
+          "포럼 방문 후 더 이상의 알림은 전송되지 않음"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답이 필요하지 않음",
+        "created_at": "2025-10-01T16:42:36.779804"
+      },
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "151",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://www.popsupplement.com/rx-max-force/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby CrysTera since your last visit,\r\n\"http://www.popsupplement.com/rx-max-force/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby CrysTera since your last visit,\r\n\"http://www.popsupplement.com/rx-max-force/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-10-03T09:03:42+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "151",
+        "summary": "Rainmeter Team은 사용자가 'Rainmeter News' 포럼을 구독하고 있음을 알리며, 새로운 주제가 게시되었음을 통지합니다. 사용자는 포럼을 방문하여 더 이상의 알림을 받지 않도록 할 수 있습니다.",
+        "key_points": [
+          "사용자가 'Rainmeter News' 포럼을 구독 중임",
+          "CrysTera가 새로운 주제를 게시함",
+          "포럼 방문 후 더 이상의 알림이 중단됨"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "포럼을 방문하여 새로운 주제를 확인할 수 있습니다.",
+        "created_at": "2025-10-01T16:42:38.885196"
+      },
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "150",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"Ultra Keto 550 -Don’t Wait To Lose Weight\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby dsazhndsa since your last visit, \"Ultra Keto 550 -Don’t Wait To Lose\r\nWeight\". You can use the following link to view the forum, no more\r\nnotifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby dsazhndsa since your last visit, \"Ultra Keto 550 -Don’t Wait To Lose\r\nWeight\". You can use the following link to view the forum, no more\r\nnotifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-10-03T07:18:09+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "150",
+        "summary": "Rainmeter Team에서 발송한 메시지로, 사용자가 'Rainmeter News' 포럼을 구독하고 있어 새로운 주제 'Ultra Keto 550 -Don’t Wait To Lose Weight'에 대한 알림을 받고 있습니다. 포럼을 방문하면 더 이상의 알림은 전송되지 않습니다.",
+        "key_points": [
+          "사용자가 'Rainmeter News' 포럼을 구독 중임",
+          "새로운 주제 'Ultra Keto 550 -Don’t Wait To Lose Weight'가 게시됨",
+          "포럼 방문 시 더 이상의 알림이 전송되지 않음"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답 필요 없음",
+        "created_at": "2025-10-01T16:42:37.233113"
+      },
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "149",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://trade4supplement.com/testo-drive-365/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby BellaHowss since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby BellaHowss since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-10-03T06:46:56+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "149",
+        "summary": "Rainmeter Team에서 발송한 알림으로, 사용자가 'Rainmeter News' 포럼을 구독하고 있어 새로운 주제가 게시되었음을 알려줍니다. 사용자는 링크를 통해 포럼을 방문할 수 있으며, 더 이상 알림을 원하지 않을 경우 구독 취소할 수 있습니다.",
+        "key_points": [
+          "새로운 주제가 Rainmeter News 포럼에 게시됨",
+          "사용자는 포럼을 방문하여 내용을 확인할 수 있음",
+          "구독 취소 옵션 제공"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답 필요 없음",
+        "created_at": "2025-10-01T16:42:40.443710"
+      },
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "148",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://trade4supplement.com/testo-drive-365/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby RichaScott since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby RichaScott since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-10-03T06:32:10+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "148",
+        "summary": "Rainmeter 팀에서 포럼 'Rainmeter News'에 새로운 주제가 게시되었음을 알리는 알림을 보냈습니다. 사용자는 해당 포럼을 방문하여 새로운 내용을 확인할 수 있습니다.",
+        "key_points": [
+          "새로운 주제가 'Rainmeter News' 포럼에 게시됨",
+          "사용자는 포럼을 방문하여 내용을 확인해야 함",
+          "구독 해지를 원할 경우 링크 제공"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": true,
+        "suggested_response": "포럼을 방문하여 새로운 주제를 확인하겠습니다.",
+        "created_at": "2025-10-01T16:42:40.543222"
+      },
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "147",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"https://www.foodiespanda.com/v-tight-gel/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby pfdwhernt since your last visit,\r\n\"https://www.foodiespanda.com/v-tight-gel/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby pfdwhernt since your last visit,\r\n\"https://www.foodiespanda.com/v-tight-gel/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-10-02T06:12:50+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "147",
+        "summary": "Rainmeter Team에서 발송한 알림으로, 사용자가 'Rainmeter News' 포럼을 구독하고 있어 새로운 주제가 게시되었음을 알려줍니다. 사용자는 포럼을 방문하여 새로운 내용을 확인할 수 있습니다.",
+        "key_points": [
+          "사용자가 구독 중인 'Rainmeter News' 포럼에 새로운 주제가 게시됨",
+          "새로운 주제 링크: https://www.foodiespanda.com/v-tight-gel/",
+          "포럼 방문 후 더 이상의 알림은 발송되지 않음"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답 필요 없음",
+        "created_at": "2025-10-01T16:42:41.550361"
+      },
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "146",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "Topic reply notification - \"Rainmeter 4.3 Beta r3253 Available\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.3 Beta r3253 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by jerryduvall since your last visit. No more\r\nnotifications will be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29435&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29435\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=29435&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.3 Beta r3253 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by jerryduvall since your last visit. No more\r\nnotifications will be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29435&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29435\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=29435&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-10-02T06:01:54+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "146",
+        "summary": "Rainmeter 포럼에서 'Rainmeter 4.3 Beta r3253 Available' 주제에 대한 새로운 답글이 게시되었음을 알리는 알림입니다. 사용자는 주제를 방문할 때까지 추가 알림을 받지 않습니다.",
+        "key_points": [
+          "사용자가 주제를 구독하고 있음",
+          "jerryduvall이 새로운 답글을 게시함",
+          "주제를 방문할 링크 제공"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답이 필요하지 않음",
+        "created_at": "2025-10-01T16:42:44.559455"
+      },
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [
+        {
+          "action_id": "response_20251001_164250",
+          "action_type": "response",
+          "title": "답변 작성: Topic reply notification - \"Rainmeter 4...",
+          "description": "Topic reply notification - \"Rainmeter 4.3 Beta r3253 Available\" Hello acrombies,\r\n\r\nYou are receiving this noti",
+          "deadline": null,
+          "priority": "medium",
+          "assignee": "나",
+          "requester": "\" Rainmeter Team \" <forum@rainmeter.net>",
+          "source_message_id": "146",
+          "context": {
+            "keyword": "reply",
+            "extracted_from": "keyword"
+          },
+          "created_at": "2025-10-01T16:42:50.746589",
+          "status": "pending"
+        }
+      ],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "145",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"Best Sexologist in Delhi - Oorja Clinic\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby oorjaclinic since your last visit, \"Best Sexologist in Delhi - Oorja\r\nClinic\". You can use the following link to view the forum, no more\r\nnotifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby oorjaclinic since your last visit, \"Best Sexologist in Delhi - Oorja\r\nClinic\". You can use the following link to view the forum, no more\r\nnotifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-10-01T09:55:14+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "145",
+        "summary": "Rainmeter 팀에서 발송한 알림으로, 사용자가 'Rainmeter News' 포럼을 구독하고 있어 새로운 주제인 'Best Sexologist in Delhi - Oorja Clinic'에 대한 알림을 받았음을 알려줍니다. 포럼을 방문하지 않으면 추가 알림은 전송되지 않습니다.",
+        "key_points": [
+          "사용자가 'Rainmeter News' 포럼을 구독 중임",
+          "새로운 주제 'Best Sexologist in Delhi - Oorja Clinic'이 게시됨",
+          "포럼 방문 후 추가 알림이 중단됨"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답 필요 없음",
+        "created_at": "2025-10-01T16:42:42.662923"
+      },
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "144",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://www.sideeffectsadvisor.com/tevida-ca/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby HenrSton since your last visit,\r\n\"http://www.sideeffectsadvisor.com/tevida-ca/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby HenrSton since your last visit,\r\n\"http://www.sideeffectsadvisor.com/tevida-ca/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-10-01T07:24:38+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "144",
+        "summary": "Rainmeter 팀에서 포럼 'Rainmeter News'에 새로운 주제가 게시되었음을 알리는 알림을 보냈습니다. 사용자는 해당 주제를 확인하기 위해 포럼을 방문해야 하며, 더 이상의 알림은 포럼 방문 전까지 발송되지 않습니다.",
+        "key_points": [
+          "새로운 주제가 Rainmeter News 포럼에 게시됨",
+          "주제 링크: http://www.sideeffectsadvisor.com/tevida-ca/",
+          "포럼 방문 후 더 이상의 알림이 발송되지 않음"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": true,
+        "suggested_response": "포럼을 방문하여 새로운 주제를 확인하세요.",
+        "created_at": "2025-10-01T16:42:44.499422"
+      },
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "143",
+        "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+        "subject": "New topic notification - \"http://www.facts4order.com/therma-trim-shark-tank/\"",
+        "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby KettyMiley since your last visit,\r\n\"http://www.facts4order.com/therma-trim-shark-tank/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby KettyMiley since your last visit,\r\n\"http://www.facts4order.com/therma-trim-shark-tank/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+        "date": "2018-09-29T11:57:39+00:00",
+        "type": "email",
+        "platform": "email"
+      },
+      "summary": {
+        "original_id": "143",
+        "summary": "Rainmeter 팀에서 포럼 'Rainmeter News'에 새로운 주제가 게시되었음을 알리는 알림을 보냈습니다. 사용자는 해당 주제를 확인하기 위해 포럼을 방문해야 하며, 이후에는 추가 알림이 전송되지 않습니다.",
+        "key_points": [
+          "새로운 주제가 Rainmeter News 포럼에 게시됨",
+          "사용자는 포럼을 방문해야 추가 알림이 중단됨",
+          "구독 해지 옵션 제공"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": true,
+        "suggested_response": "포럼을 방문하여 새로운 주제를 확인할 것",
+        "created_at": "2025-10-01T16:42:44.351417"
+      },
+      "priority": {
+        "overall_score": 0.1,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.4,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-10-01T03:45:53+00:00_1+json_2025-10-01T03:45:53+00:00_2",
+        "sender": "elliot",
+        "subject": "",
+        "body": "Hana, I'm on Hourly plan tick 1 for Hana Kim (auto).\nTick 1: Hourly plan tick 1 for Elliot Park (auto)",
+        "content": "Hana, I'm on Hourly plan tick 1 for Hana Kim (auto).\nTick 1: Hourly plan tick 1 for Elliot Park (auto)",
+        "date": "2025-10-01T03:45:53+00:00",
+        "type": "messenger",
+        "platform": "dm:elliot:hana"
+      },
+      "summary": {
+        "original_id": "json_2025-10-01T03:45:53+00:00_1+json_2025-10-01T03:45:53+00:00_2",
+        "summary": "Elliot이 Hana에게 Hourly plan tick 1에 대한 정보를 전달하고 있습니다. 두 사람 모두 Hourly plan tick 1에 등록되어 있다는 내용입니다.",
+        "key_points": [
+          "Elliot은 Hourly plan tick 1에 등록되어 있음",
+          "Hana Kim도 같은 계획에 등록되어 있음",
+          "자동으로 처리되고 있다는 언급"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "이해했습니다. 추가 정보가 필요하면 말씀해 주세요.",
+        "created_at": "2025-10-01T16:42:44.438705"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-10-01T03:45:53+00:00_6+json_2025-10-01T03:45:53+00:00_7+json_2025-10-01T03:45:53+00:00_8+json_2025-10-01T03:45:53+00:00_10+json_2025-10-01T03:45:53+00:00_11",
+        "sender": "elliot",
+        "subject": "",
+        "body": "Hana, I'm on Support Hana Kim on add testimonial carousel.\nHana, I'm on Hourly plan tick 2 for Hana Kim (auto).\nTick 2: Hourly plan tick 2 for Elliot Park (auto)\nHana, I'm on Hourly plan tick 1 for Hana Kim (auto).\nTick 1: Hourly plan tick 1 for Elliot Park (auto)",
+        "content": "Hana, I'm on Support Hana Kim on add testimonial carousel.\nHana, I'm on Hourly plan tick 2 for Hana Kim (auto).\nTick 2: Hourly plan tick 2 for Elliot Park (auto)\nHana, I'm on Hourly plan tick 1 for Hana Kim (auto).\nTick 1: Hourly plan tick 1 for Elliot Park (auto)",
+        "date": "2025-10-01T03:45:53+00:00",
+        "type": "messenger",
+        "platform": "dm:elliot:hana"
+      },
+      "summary": {
+        "original_id": "json_2025-10-01T03:45:53+00:00_6+json_2025-10-01T03:45:53+00:00_7+json_2025-10-01T03:45:53+00:00_8+json_2025-10-01T03:45:53+00:00_10+json_2025-10-01T03:45:53+00:00_11",
+        "summary": "Elliot은 Hana Kim을 위한 추천사 캐러셀 추가 작업과 관련하여 여러 시간 계획을 언급하고 있습니다. 각 계획은 자동으로 설정되어 있으며, Elliot과 Hana Kim 모두에 대한 두 가지 시간 계획이 포함되어 있습니다.",
+        "key_points": [
+          "Hana Kim을 위한 추천사 캐러셀 추가 작업 진행 중",
+          "Elliot과 Hana Kim 각각에 대해 두 가지 시간 계획이 설정됨",
+          "모든 계획은 자동으로 설정됨"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "작업 진행 상황에 대한 업데이트를 요청할 수 있습니다.",
+        "created_at": "2025-10-01T16:42:47.205741"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-10-01T03:45:53+00:00_15+json_2025-10-01T03:45:53+00:00_16+json_2025-10-01T03:45:53+00:00_17",
+        "sender": "elliot",
+        "subject": "",
+        "body": "Hana, I'm on Support Hana Kim on add testimonial carousel.\nHana, I'm on Hourly plan tick 2 for Hana Kim (auto).\nTick 2: Hourly plan tick 2 for Elliot Park (auto)",
+        "content": "Hana, I'm on Support Hana Kim on add testimonial carousel.\nHana, I'm on Hourly plan tick 2 for Hana Kim (auto).\nTick 2: Hourly plan tick 2 for Elliot Park (auto)",
+        "date": "2025-10-01T03:45:53+00:00",
+        "type": "messenger",
+        "platform": "dm:elliot:hana"
+      },
+      "summary": {
+        "original_id": "json_2025-10-01T03:45:53+00:00_15+json_2025-10-01T03:45:53+00:00_16+json_2025-10-01T03:45:53+00:00_17",
+        "summary": "Elliot은 Hana Kim을 지원하기 위해 추천사 캐러셀을 추가하고 있으며, 시간제 요금제에 대한 두 가지 항목을 언급하고 있습니다. 이 메시지는 Hana에게 필요한 정보를 전달하고 있습니다.",
+        "key_points": [
+          "Hana Kim을 위한 추천사 캐러셀 추가 지원",
+          "Elliot의 시간제 요금제 관련 항목 언급",
+          "자동 처리에 대한 언급"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "이해했습니다. 추가 지원이 필요하면 말씀해 주세요.",
+        "created_at": "2025-10-01T16:42:48.404489"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "json_2025-10-01T03:45:52+00:00_0+json_2025-10-01T03:45:52+00:00_9",
+        "sender": "hana",
+        "subject": "",
+        "body": "Tick 1: Hourly plan tick 1 for Hana Kim (auto)\nTick 1: Hourly plan tick 1 for Hana Kim (auto)",
+        "content": "Tick 1: Hourly plan tick 1 for Hana Kim (auto)\nTick 1: Hourly plan tick 1 for Hana Kim (auto)",
+        "date": "2025-10-01T03:45:52+00:00",
+        "type": "messenger",
+        "platform": "dm:elliot:hana"
+      },
+      "summary": {
+        "original_id": "json_2025-10-01T03:45:52+00:00_0+json_2025-10-01T03:45:52+00:00_9",
+        "summary": "Hana Kim의 시간 계획에 대한 자동 알림 메시지입니다. Tick 1에 대한 내용이 포함되어 있습니다.",
+        "key_points": [
+          "Hana Kim의 시간 계획",
+          "Tick 1에 대한 자동 알림"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "해당 내용을 확인했습니다.",
+        "created_at": "2025-10-01T16:42:46.879983"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "9+10",
+        "sender": "system",
+        "subject": "",
+        "body": "1234님이 입장했습니다.\n1234님이 나갔습니다.",
+        "content": "1234님이 입장했습니다.\n1234님이 나갔습니다.",
+        "date": "2025-09-26T02:06:58+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "9+10",
+        "summary": "사용자 1234님이 시스템에 입장하고 나갔다는 알림 메시지입니다. 이 메시지는 사용자의 활동을 기록하는 내용입니다.",
+        "key_points": [
+          "1234님이 시스템에 입장함",
+          "1234님이 시스템에서 나감"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답이 필요하지 않습니다.",
+        "created_at": "2025-10-01T16:42:47.540258"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "7+8",
+        "sender": "네밋",
+        "subject": "",
+        "body": ".\n좋다",
+        "content": ".\n좋다",
+        "date": "2025-09-26T02:06:38+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "7+8",
+        "summary": "메시지는 긍정적인 감정을 표현하고 있으며, 내용이 길 경우 앞부분만 언급하고 있습니다.",
+        "key_points": [
+          "메시지가 긍정적임",
+          "내용이 길면 앞부분만 언급",
+          "특별한 요청 없음"
+        ],
+        "sentiment": "positive",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "감사합니다! 추가적인 내용이 필요하시면 말씀해 주세요.",
+        "created_at": "2025-10-01T16:42:47.923928"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "2+3+4+5+6",
+        "sender": "system",
+        "subject": "",
+        "body": "네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.",
+        "content": "네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.",
+        "date": "2025-09-26T02:06:34+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "2+3+4+5+6",
+        "summary": "네밋님이 여러 번 입장하고 나가는 행동이 기록되었습니다. 이 메시지는 네밋님의 참석 여부를 알리는 내용입니다.",
+        "key_points": [
+          "네밋님이 입장했습니다.",
+          "네밋님이 나갔습니다.",
+          "이러한 행동이 반복되었습니다."
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답이 필요하지 않습니다.",
+        "created_at": "2025-10-01T16:42:49.273058"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    },
+    {
+      "message": {
+        "msg_id": "1",
+        "sender": "system",
+        "subject": "",
+        "body": "무야호님이 입장했습니다.",
+        "content": "무야호님이 입장했습니다.",
+        "date": "2025-09-26T02:04:24+00:00",
+        "type": "messenger",
+        "platform": "구글"
+      },
+      "summary": {
+        "original_id": "1",
+        "summary": "무야호님이 시스템에 입장했습니다. 이는 사용자의 활동을 알리는 메시지입니다.",
+        "key_points": [
+          "무야호님이 입장함",
+          "시스템에서의 사용자 활동 알림"
+        ],
+        "sentiment": "neutral",
+        "urgency_level": "low",
+        "action_required": false,
+        "suggested_response": "특별한 응답이 필요하지 않습니다.",
+        "created_at": "2025-10-01T16:42:50.709268"
+      },
+      "priority": {
+        "overall_score": 0.075,
+        "priority_level": "low",
+        "urgency_score": 0.0,
+        "importance_score": 0.0,
+        "deadline_score": 0.0,
+        "sender_score": 0.3,
+        "keyword_score": 0.0,
+        "reasoning": [
+          "일반적인 메시지"
+        ],
+        "suggested_action": "여유 있을 때 처리",
+        "estimated_time": "1일"
+      },
+      "actions": [],
+      "analysis_timestamp": "2025-10-01T16:42:50.762439"
+    }
+  ],
+  "messages": [
+    {
+      "msg_id": "json_2025-10-01T03:45:53+00:00_1+json_2025-10-01T03:45:53+00:00_2",
+      "sender": "elliot",
+      "subject": "",
+      "body": "Hana, I'm on Hourly plan tick 1 for Hana Kim (auto).\nTick 1: Hourly plan tick 1 for Elliot Park (auto)",
+      "content": "Hana, I'm on Hourly plan tick 1 for Hana Kim (auto).\nTick 1: Hourly plan tick 1 for Elliot Park (auto)",
+      "date": "2025-10-01T03:45:53+00:00",
+      "type": "messenger",
+      "platform": "dm:elliot:hana"
+    },
+    {
+      "msg_id": "json_2025-10-01T03:45:53+00:00_3+json_2025-10-01T03:45:53+00:00_4+json_2025-10-01T03:45:53+00:00_5",
+      "sender": "hana",
+      "subject": "",
+      "body": "Client request: add testimonial carousel. Let's sync on next steps.\nElliot, I'm on Hourly plan tick 1 for Elliot Park (auto).\nTick 2: Hourly plan tick 2 for Hana Kim (auto)",
+      "content": "Client request: add testimonial carousel. Let's sync on next steps.\nElliot, I'm on Hourly plan tick 1 for Elliot Park (auto).\nTick 2: Hourly plan tick 2 for Hana Kim (auto)",
+      "date": "2025-10-01T03:45:53+00:00",
+      "type": "messenger",
+      "platform": "dm:elliot:hana"
+    },
+    {
+      "msg_id": "json_2025-10-01T03:45:53+00:00_6+json_2025-10-01T03:45:53+00:00_7+json_2025-10-01T03:45:53+00:00_8+json_2025-10-01T03:45:53+00:00_10+json_2025-10-01T03:45:53+00:00_11",
+      "sender": "elliot",
+      "subject": "",
+      "body": "Hana, I'm on Support Hana Kim on add testimonial carousel.\nHana, I'm on Hourly plan tick 2 for Hana Kim (auto).\nTick 2: Hourly plan tick 2 for Elliot Park (auto)\nHana, I'm on Hourly plan tick 1 for Hana Kim (auto).\nTick 1: Hourly plan tick 1 for Elliot Park (auto)",
+      "content": "Hana, I'm on Support Hana Kim on add testimonial carousel.\nHana, I'm on Hourly plan tick 2 for Hana Kim (auto).\nTick 2: Hourly plan tick 2 for Elliot Park (auto)\nHana, I'm on Hourly plan tick 1 for Hana Kim (auto).\nTick 1: Hourly plan tick 1 for Elliot Park (auto)",
+      "date": "2025-10-01T03:45:53+00:00",
+      "type": "messenger",
+      "platform": "dm:elliot:hana"
+    },
+    {
+      "msg_id": "json_2025-10-01T03:45:53+00:00_12+json_2025-10-01T03:45:53+00:00_13+json_2025-10-01T03:45:53+00:00_14",
+      "sender": "hana",
+      "subject": "",
+      "body": "Client request: add testimonial carousel. Let's sync on next steps.\nElliot, I'm on Hourly plan tick 1 for Elliot Park (auto).\nTick 2: Hourly plan tick 2 for Hana Kim (auto)",
+      "content": "Client request: add testimonial carousel. Let's sync on next steps.\nElliot, I'm on Hourly plan tick 1 for Elliot Park (auto).\nTick 2: Hourly plan tick 2 for Hana Kim (auto)",
+      "date": "2025-10-01T03:45:53+00:00",
+      "type": "messenger",
+      "platform": "dm:elliot:hana"
+    },
+    {
+      "msg_id": "json_2025-10-01T03:45:53+00:00_15+json_2025-10-01T03:45:53+00:00_16+json_2025-10-01T03:45:53+00:00_17",
+      "sender": "elliot",
+      "subject": "",
+      "body": "Hana, I'm on Support Hana Kim on add testimonial carousel.\nHana, I'm on Hourly plan tick 2 for Hana Kim (auto).\nTick 2: Hourly plan tick 2 for Elliot Park (auto)",
+      "content": "Hana, I'm on Support Hana Kim on add testimonial carousel.\nHana, I'm on Hourly plan tick 2 for Hana Kim (auto).\nTick 2: Hourly plan tick 2 for Elliot Park (auto)",
+      "date": "2025-10-01T03:45:53+00:00",
+      "type": "messenger",
+      "platform": "dm:elliot:hana"
+    },
+    {
+      "msg_id": "json_2025-10-01T03:45:52+00:00_0+json_2025-10-01T03:45:52+00:00_9",
+      "sender": "hana",
+      "subject": "",
+      "body": "Tick 1: Hourly plan tick 1 for Hana Kim (auto)\nTick 1: Hourly plan tick 1 for Hana Kim (auto)",
+      "content": "Tick 1: Hourly plan tick 1 for Hana Kim (auto)\nTick 1: Hourly plan tick 1 for Hana Kim (auto)",
+      "date": "2025-10-01T03:45:52+00:00",
+      "type": "messenger",
+      "platform": "dm:elliot:hana"
+    },
+    {
+      "msg_id": "9+10",
+      "sender": "system",
+      "subject": "",
+      "body": "1234님이 입장했습니다.\n1234님이 나갔습니다.",
+      "content": "1234님이 입장했습니다.\n1234님이 나갔습니다.",
+      "date": "2025-09-26T02:06:58+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "7+8",
+      "sender": "네밋",
+      "subject": "",
+      "body": ".\n좋다",
+      "content": ".\n좋다",
+      "date": "2025-09-26T02:06:38+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "2+3+4+5+6",
+      "sender": "system",
+      "subject": "",
+      "body": "네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.",
+      "content": "네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.\n네밋님이 나갔습니다.\n네밋님이 입장했습니다.",
+      "date": "2025-09-26T02:06:34+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "1",
+      "sender": "system",
+      "subject": "",
+      "body": "무야호님이 입장했습니다.",
+      "content": "무야호님이 입장했습니다.",
+      "date": "2025-09-26T02:04:24+00:00",
+      "type": "messenger",
+      "platform": "구글"
+    },
+    {
+      "msg_id": "152",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://trade4supplement.com/testo-drive-365/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby ThomasRolly since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby ThomasRolly since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-10-03T10:40:36+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "151",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://www.popsupplement.com/rx-max-force/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby CrysTera since your last visit,\r\n\"http://www.popsupplement.com/rx-max-force/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby CrysTera since your last visit,\r\n\"http://www.popsupplement.com/rx-max-force/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-10-03T09:03:42+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "150",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"Ultra Keto 550 -Don’t Wait To Lose Weight\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby dsazhndsa since your last visit, \"Ultra Keto 550 -Don’t Wait To Lose\r\nWeight\". You can use the following link to view the forum, no more\r\nnotifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby dsazhndsa since your last visit, \"Ultra Keto 550 -Don’t Wait To Lose\r\nWeight\". You can use the following link to view the forum, no more\r\nnotifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-10-03T07:18:09+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "149",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://trade4supplement.com/testo-drive-365/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby BellaHowss since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby BellaHowss since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-10-03T06:46:56+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "148",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://trade4supplement.com/testo-drive-365/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby RichaScott since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby RichaScott since your last visit,\r\n\"http://trade4supplement.com/testo-drive-365/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-10-03T06:32:10+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "147",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"https://www.foodiespanda.com/v-tight-gel/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby pfdwhernt since your last visit,\r\n\"https://www.foodiespanda.com/v-tight-gel/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby pfdwhernt since your last visit,\r\n\"https://www.foodiespanda.com/v-tight-gel/\". You can use the following link\r\nto view the forum, no more notifications will be sent until you visit the\r\nforum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-10-02T06:12:50+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "146",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "Topic reply notification - \"Rainmeter 4.3 Beta r3253 Available\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.3 Beta r3253 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by jerryduvall since your last visit. No more\r\nnotifications will be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29435&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29435\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=29435&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the topic\r\n\"Rainmeter 4.3 Beta r3253 Available\" at \"Rainmeter Forums\". This topic has\r\nreceived a reply by jerryduvall since your last visit. No more\r\nnotifications will be sent until you visit the topic.\r\n\r\nIf you want to view the newest post made since your last visit, click the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29435&e=1&view=unread#unread\r\n\r\nIf you want to view the topic, click the following link:\r\nhttps://forum.rainmeter.net/viewtopic.php?f=13&t=29435\r\n\r\nIf you want to view the forum, click the following link:\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this topic you can either click the\r\n\"Unsubscribe topic\" link found at the bottom of the topic above, or by\r\nclicking the following link:\r\n\r\nhttps://forum.rainmeter.net/viewtopic.php?uid=43092&f=13&t=29435&unwatch=topic\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-10-02T06:01:54+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "145",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"Best Sexologist in Delhi - Oorja Clinic\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby oorjaclinic since your last visit, \"Best Sexologist in Delhi - Oorja\r\nClinic\". You can use the following link to view the forum, no more\r\nnotifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby oorjaclinic since your last visit, \"Best Sexologist in Delhi - Oorja\r\nClinic\". You can use the following link to view the forum, no more\r\nnotifications will be sent until you visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-10-01T09:55:14+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "144",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://www.sideeffectsadvisor.com/tevida-ca/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby HenrSton since your last visit,\r\n\"http://www.sideeffectsadvisor.com/tevida-ca/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby HenrSton since your last visit,\r\n\"http://www.sideeffectsadvisor.com/tevida-ca/\". You can use the following\r\nlink to view the forum, no more notifications will be sent until you visit\r\nthe forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-10-01T07:24:38+00:00",
+      "type": "email",
+      "platform": "email"
+    },
+    {
+      "msg_id": "143",
+      "sender": "\" Rainmeter Team \" <forum@rainmeter.net>",
+      "subject": "New topic notification - \"http://www.facts4order.com/therma-trim-shark-tank/\"",
+      "body": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby KettyMiley since your last visit,\r\n\"http://www.facts4order.com/therma-trim-shark-tank/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "content": "Hello acrombies,\r\n\r\nYou are receiving this notification because you are watching the forum\r\n\"Rainmeter News\" at \"Rainmeter Forums\". This forum has received a new topic\r\nby KettyMiley since your last visit,\r\n\"http://www.facts4order.com/therma-trim-shark-tank/\". You can use the\r\nfollowing link to view the forum, no more notifications will be sent until\r\nyou visit the forum.\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?f=13\r\n\r\nIf you no longer wish to watch this forum you can either click the\r\n\"Unsubscribe forum\" link found in the forum above, or by clicking the\r\nfollowing link:\r\n\r\nhttps://forum.rainmeter.net/viewforum.php?uid=43092&f=13&unwatch=forum\r\n\r\n-- \r\nThanks,\r\nThe Rainmeter Team\r\n",
+      "date": "2018-09-29T11:57:39+00:00",
+      "type": "email",
+      "platform": "email"
+    }
+  ],
+  "analysis_report_text": "📊 분석 결과 (통합)\n============================================================\nHana가 고객 요청으로 추천사 캐러셀 추가를 요청하였으며, 다음 단계에 대해 조율할 필요가 있습니다. Elliot은 Hana와 관련된 시간 계획을 언급하며 지원을 제공하고 있습니다.\n\n\n--- [HIGH] ------------------------------------------\n\n--- [MEDIUM] ------------------------------------------\n\n--- [LOW] ------------------------------------------\n• hana / Client request: add testimonial carousel. Let's sync on next steps.\nElliot, I'm ...\n  요약: 클라이언트 요청으로 테스트모니얼 캐러셀 추가가 필요하며, 다음 단계에 대해 조율하자는 내용입니다. Hana Kim과 Elliot Park에 대한 시간제 계획이 언급되었습니다.\n• hana / Client request: add testimonial carousel. Let's sync on next steps.\nElliot, I'm ...\n  요약: 클라이언트 요청에 따라 추천사 캐러셀을 추가해야 하며, 다음 단계에 대해 논의할 필요가 있습니다. Hana Kim과 Elliot Park에 대한 시간제 계획이 언급되었습니다.\n• \" Rainmeter Team \" <forum@rainmeter.net> / New topic notification - \"http://trade4supplement.com/testo-drive-365/\"\n  요약: Rainmeter Team에서 발송한 알림으로, 사용자가 'Rainmeter News' 포럼을 구독하고 있어 새로운 주제에 대한 알림을 받았습니다. 새로운 주제는 ThomasRol\n• \" Rainmeter Team \" <forum@rainmeter.net> / New topic notification - \"http://www.popsupplement.com/rx-max-force/\"\n  요약: Rainmeter Team은 사용자가 'Rainmeter News' 포럼을 구독하고 있음을 알리며, 새로운 주제가 게시되었음을 통지합니다. 사용자는 포럼을 방문하여 더 이상의 알림\n• \" Rainmeter Team \" <forum@rainmeter.net> / New topic notification - \"Ultra Keto 550 -Don’t Wait To Lose Weight\"\n  요약: Rainmeter Team에서 발송한 메시지로, 사용자가 'Rainmeter News' 포럼을 구독하고 있어 새로운 주제 'Ultra Keto 550 -Don’t Wait To L\n• \" Rainmeter Team \" <forum@rainmeter.net> / New topic notification - \"http://trade4supplement.com/testo-drive-365/\"\n  요약: Rainmeter Team에서 발송한 알림으로, 사용자가 'Rainmeter News' 포럼을 구독하고 있어 새로운 주제가 게시되었음을 알려줍니다. 사용자는 링크를 통해 포럼을 방\n• \" Rainmeter Team \" <forum@rainmeter.net> / New topic notification - \"http://trade4supplement.com/testo-drive-365/\"\n  요약: Rainmeter 팀에서 포럼 'Rainmeter News'에 새로운 주제가 게시되었음을 알리는 알림을 보냈습니다. 사용자는 해당 포럼을 방문하여 새로운 내용을 확인할 수 있습니다\n• \" Rainmeter Team \" <forum@rainmeter.net> / New topic notification - \"https://www.foodiespanda.com/v-tight-gel/\"\n  요약: Rainmeter Team에서 발송한 알림으로, 사용자가 'Rainmeter News' 포럼을 구독하고 있어 새로운 주제가 게시되었음을 알려줍니다. 사용자는 포럼을 방문하여 새로운\n\n■ 대화 흐름 요약\n════════════════════════════════════════════════════════════\n대화에서는 Hana와 Elliot이 각각의 시간 계획에 대해 언급하며, 클라이언트 요청인 '테스트imonial 캐러셀 추가'에 대해 논의하고 있습니다. Hana는 다음 단계에 대해 동기화할 것을 제안하고, Elliot은 해당 요청을 지원하겠다고 밝혔습니다. 두 사람 모두 각자의 시간 계획에 대해 확인하고 있습니다.\n\n■ 핵심 포인트\n- Hana와 Elliot은 각각의 시간 계획을 확인하고 있음.\n- 클라이언트 요청으로 '테스트imonial 캐러셀 추가'가 논의됨.\n\n■ 미해결/후속 필요\n- 테스트imonial 캐러셀 추가에 대한 구체적인 다음 단계\n\n■ 액션 아이템\n- 다음 단계에 대해 동기화하기 (우선:High, 담당:Hana, Elliot, 마감:미정)"
+}

@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 # 프로젝트 루트 디렉토리
 PROJECT_ROOT = Path(__file__).parent.parent
-load_dotenv(PROJECT_ROOT / ".env")
+load_dotenv(PROJECT_ROOT / ".env",override=True)
 # 데이터베이스 경로
 DATABASE_PATH = PROJECT_ROOT / "data" / "assistant.db"
 FAISS_INDEX_PATH = PROJECT_ROOT / "data" / "faiss_index"
@@ -38,11 +38,24 @@ EMAIL_CONFIG = {
 
 # LLM 설정
 LLM_CONFIG = {
+    # ✅ 공급자 선택: openai | openrouter
+    "provider": os.getenv("LLM_PROVIDER", "openrouter"),
+
+    # OpenAI 쓸 때만 사용
     "openai_api_key": os.getenv("OPENAI_API_KEY"),
-    "model": "gpt-4o-mini",
-    "embedding_model": "text-embedding-3-small",
-    "max_tokens": 1000,
-    "temperature": 0.3
+
+    # ✅ OpenRouter 설정
+    "openrouter_api_key": os.getenv("OPENROUTER_API_KEY"),
+    "openrouter_base_url": "https://openrouter.ai/api/v1",
+
+    # ✅ OpenRouter 모델명 예시
+    #   - 자동 라우팅: "openrouter/auto"
+    #   - 특정 모델: "anthropic/claude-3.5-sonnet" | "openai/gpt-4o-mini" 등
+    "model": os.getenv("LLM_MODEL", "openrouter/auto"),
+
+    "embedding_model": "text-embedding-3-small",   # (지금 프로젝트에선 안 씀)
+    "max_tokens": 300,
+    "temperature": 0.2,
 }
 
 # 스케줄러 설정
